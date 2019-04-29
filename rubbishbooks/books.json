@@ -1,37 +1,37 @@
 [
   {
     "created": "2014-07-29T21:07:12+0000",
-    "filename": "The-Treasure-Map.pdf",
+    "slug": "The-Treasure-Map",
     "source": "rubbishbooks",
     "title": "The Treasure Map"
   },
   {
     "created": "2014-07-29T21:06:40+0000",
-    "filename": "The-Move.pdf",
+    "slug": "The-Move",
     "source": "rubbishbooks",
     "title": "The Move"
   },
   {
     "created": "2011-02-03T21:29:34+0000",
-    "filename": "Kevins-Birthday-FKB-Kids-Stories.pdf",
+    "slug": "Kevins-Birthday-FKB-Kids-Stories",
     "source": "rubbishbooks",
     "title": "Kevin’s Birthday"
   },
   {
     "created": "2011-02-10T21:51:13+0000",
-    "filename": "Hide-and-Seek-FKB-Kids-Stories.pdf",
+    "slug": "Hide-and-Seek-FKB-Kids-Stories",
     "source": "rubbishbooks",
     "title": "Hide and Seek"
   },
   {
     "created": "2011-03-03T20:28:41+0000",
-    "filename": "Patrick-Found-a-Something-FKB-Kids-Stories.pdf",
+    "slug": "Patrick-Found-a-Something-FKB-Kids-Stories",
     "source": "rubbishbooks",
     "title": "Patrick Found a Something"
   },
   {
     "created": "2011-01-15T23:48:55+0000",
-    "filename": "The-Case-of-the-Missing-Banana.pdf",
+    "slug": "The-Case-of-the-Missing-Banana",
     "source": "rubbishbooks",
     "title": "The Case of the Missing Banana"
   }

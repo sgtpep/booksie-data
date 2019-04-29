@@ -1,205 +1,205 @@
 [
   {
     "created": "2018-05-21T15:26:02+0000",
-    "filename": "A Puppet Can.pdf",
+    "slug": "A Puppet Can",
     "source": "bookbot",
     "title": "A Puppet Can"
   },
   {
     "created": "2018-09-07T07:17:41+0000",
-    "filename": "Cats!.pdf",
+    "slug": "Cats!",
     "source": "bookbot",
     "title": "Cats!"
   },
   {
     "created": "2018-09-02T14:11:13+0000",
-    "filename": "Dogs!.pdf",
+    "slug": "Dogs!",
     "source": "bookbot",
     "title": "Dogs!"
   },
   {
     "created": "2018-10-12T11:51:53+0000",
-    "filename": "Fox!.pdf",
+    "slug": "Fox!",
     "source": "bookbot",
     "title": "Fox!"
   },
   {
     "created": "2018-09-02T14:40:54+0000",
-    "filename": "Kittens!.pdf",
+    "slug": "Kittens!",
     "source": "bookbot",
     "title": "Kittens!"
   },
   {
     "created": "2018-05-21T14:25:20+0000",
-    "filename": "Little Books of Big Facts-Mars.pdf",
+    "slug": "Little Books of Big Facts-Mars",
     "source": "bookbot",
     "title": "Little Books of Big Facts-Mars"
   },
   {
     "created": "2018-09-10T09:49:03+0000",
-    "filename": "Pups!.pdf",
+    "slug": "Pups!",
     "source": "bookbot",
     "title": "Pups!"
   },
   {
     "created": "2018-05-26T03:23:20+0000",
-    "filename": "Time to mow.pdf",
+    "slug": "Time to mow",
     "source": "bookbot",
     "title": "Time to Mow"
   },
   {
     "created": "2018-09-07T07:02:08+0000",
-    "filename": "Caterpillars!.pdf",
+    "slug": "Caterpillars!",
     "source": "bookbot",
     "title": "Caterpillars!"
   },
   {
     "created": "2018-05-23T16:43:07+0000",
-    "filename": "Eloise is a super swimmer.pdf",
+    "slug": "Eloise is a super swimmer",
     "source": "bookbot",
     "title": "Eloise Is a Super Swimmer"
   },
   {
     "created": "2018-09-02T14:20:05+0000",
-    "filename": "Hats!.pdf",
+    "slug": "Hats!",
     "source": "bookbot",
     "title": "Hats!"
   },
   {
     "created": "2018-05-23T15:09:11+0000",
-    "filename": "Inès is a dancer.pdf",
+    "slug": "Inès is a dancer",
     "source": "bookbot",
     "title": "Inès Is a Dancer"
   },
   {
     "created": "2018-05-23T16:20:35+0000",
-    "filename": "Keeper Nakita and Her Elephants.pdf",
+    "slug": "Keeper Nakita and Her Elephants",
     "source": "bookbot",
     "title": "Keeper Nakita and Her Elephants"
   },
   {
     "created": "2018-05-19T16:23:14+0000",
-    "filename": "Our house is a mess.pdf",
+    "slug": "Our house is a mess",
     "source": "bookbot",
     "title": "Our House Is a Mess"
   },
   {
     "created": "2018-05-23T15:56:59+0000",
-    "filename": "The Fish and Chip Shop.pdf",
+    "slug": "The Fish and Chip Shop",
     "source": "bookbot",
     "title": "The Fish and Chip Shop"
   },
   {
     "created": "2018-05-25T16:31:30+0000",
-    "filename": "Captain Ren's trip to Mars.pdf",
+    "slug": "Captain Ren's trip to Mars",
     "source": "bookbot",
     "title": "Captain Ren's Trip to Mars"
   },
   {
     "created": "2018-05-25T13:28:28+0000",
-    "filename": "Emma's Crazy Day.pdf",
+    "slug": "Emma's Crazy Day",
     "source": "bookbot",
     "title": "Emma's Crazy Day"
   },
   {
     "created": "2018-05-25T14:30:51+0000",
-    "filename": "Explorer Ella's Magic Forest.pdf",
+    "slug": "Explorer Ella's Magic Forest",
     "source": "bookbot",
     "title": "Explorer Ella's Magic Forest"
   },
   {
     "created": "2018-05-25T16:00:22+0000",
-    "filename": "From Streets to Treats.pdf",
+    "slug": "From Streets to Treats",
     "source": "bookbot",
     "title": "From Streets to Treats"
   },
   {
     "created": "2018-05-25T16:45:47+0000",
-    "filename": "Gliders Gotta Glide.pdf",
+    "slug": "Gliders Gotta Glide",
     "source": "bookbot",
     "title": "Gliders Gotta Glide"
   },
   {
     "created": "2018-05-25T14:01:29+0000",
-    "filename": "I Can Paint.pdf",
+    "slug": "I Can Paint",
     "source": "bookbot",
     "title": "I Can Paint"
   },
   {
     "created": "2018-05-25T15:15:33+0000",
-    "filename": "Professor Archie Makes a Bang.pdf",
+    "slug": "Professor Archie Makes a Bang",
     "source": "bookbot",
     "title": "Professor Archie Makes a Bang"
   },
   {
     "created": "2018-05-24T15:43:06+0000",
-    "filename": "Race driver Callum makes a car.pdf",
+    "slug": "Race driver Callum makes a car",
     "source": "bookbot",
     "title": "Race Driver Callum Makes a Car"
   },
   {
     "created": "2018-05-25T12:57:27+0000",
-    "filename": "Ranger Forester.pdf",
+    "slug": "Ranger Forester",
     "source": "bookbot",
     "title": "Ranger Forester"
   },
   {
     "created": "2018-05-25T12:30:17+0000",
-    "filename": "Roy the annoying.pdf",
+    "slug": "Roy the annoying",
     "source": "bookbot",
     "title": "Roy the Annoying"
   },
   {
     "created": "2018-05-25T15:46:19+0000",
-    "filename": "Sergeant Spencer.pdf",
+    "slug": "Sergeant Spencer",
     "source": "bookbot",
     "title": "Sergeant Spencer"
   },
   {
     "created": "2018-10-09T13:13:50+0000",
-    "filename": "Biology.pdf",
+    "slug": "Biology",
     "source": "bookbot",
     "title": "Biology"
   },
   {
     "created": "2018-10-12T12:22:51+0000",
-    "filename": "Physics.pdf",
+    "slug": "Physics",
     "source": "bookbot",
     "title": "Physics"
   },
   {
     "created": "2018-10-12T11:58:16+0000",
-    "filename": "Foxes!.pdf",
+    "slug": "Foxes!",
     "source": "bookbot",
     "title": "Foxes!"
   },
   {
     "created": "2018-09-21T22:20:47+0000",
-    "filename": "The Bowerbird Blues.pdf",
+    "slug": "The Bowerbird Blues",
     "source": "bookbot",
     "title": "The Bowerbird Blues"
   },
   {
     "created": "2018-04-29T10:40:07+0000",
-    "filename": "The Machine.pdf",
+    "slug": "The Machine",
     "source": "bookbot",
     "title": "The Machine"
   },
   {
     "created": "2018-10-13T13:24:58+0000",
-    "filename": "The Min Min Lights.pdf",
+    "slug": "The Min Min Lights",
     "source": "bookbot",
     "title": "The Min Min Lights"
   },
   {
     "created": "2018-10-07T12:28:31+0000",
-    "filename": "The Yowie and the Bunyip.pdf",
+    "slug": "The Yowie and the Bunyip",
     "source": "bookbot",
     "title": "The Yowie and the Bunyip"
   },
   {
     "created": "2018-09-02T14:31:12+0000",
-    "filename": "Insects!.pdf",
+    "slug": "Insects!",
     "source": "bookbot",
     "title": "Insects!"
   }
