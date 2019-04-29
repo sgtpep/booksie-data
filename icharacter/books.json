@@ -1,50 +1,43 @@
 [
   {
-    "cover": "icharacter/en_Bedmaking_Blues.jpg",
     "created": "2012-09-17T17:03:07+0000",
-    "document": "icharacter/en_Bedmaking_Blues.pdf",
+    "filename": "en_Bedmaking_Blues.pdf",
     "source": "icharacter",
     "title": "Bed-Making Blues"
   },
   {
-    "cover": "icharacter/en_Cookie_Rookie.jpg",
     "created": "2012-09-17T16:41:56+0000",
-    "document": "icharacter/en_Cookie_Rookie.pdf",
+    "filename": "en_Cookie_Rookie.pdf",
     "source": "icharacter",
     "title": "Cookie Rookie"
   },
   {
-    "cover": "icharacter/en_Fading_Flowers.jpg",
     "created": "2012-09-26T19:30:39+0000",
-    "document": "icharacter/en_Fading_Flowers.pdf",
+    "filename": "en_Fading_Flowers.pdf",
     "source": "icharacter",
     "title": "Fading Flowers"
   },
   {
-    "cover": "icharacter/en_Out_and_About.jpg",
     "created": "2012-09-15T20:13:06+0000",
-    "document": "icharacter/en_Out_and_About.pdf",
+    "filename": "en_Out_and_About.pdf",
     "source": "icharacter",
     "title": "Out and About"
   },
   {
-    "cover": "icharacter/en_That_Worked.jpg",
     "created": "2012-09-17T16:45:52+0000",
-    "document": "icharacter/en_That_Worked.pdf",
+    "filename": "en_That_Worked.pdf",
     "source": "icharacter",
     "title": "That Worked!"
   },
   {
-    "cover": "icharacter/en_Turtle_Trouble.jpg",
     "created": "2012-09-17T16:35:40+0000",
-    "document": "icharacter/en_Turtle_Trouble.pdf",
+    "filename": "en_Turtle_Trouble.pdf",
     "source": "icharacter",
     "title": "Turtle Trouble"
   },
   {
-    "cover": "icharacter/en_What_Is_Love.jpg",
     "created": "2012-11-20T20:16:35+0000",
-    "document": "icharacter/en_What_Is_Love.pdf",
+    "filename": "en_What_Is_Love.pdf",
     "source": "icharacter",
     "title": "What Is Love?"
   }

@@ -1,239 +1,205 @@
 [
   {
-    "cover": "bookbot/A Puppet Can.jpg",
     "created": "2018-05-21T15:26:02+0000",
-    "document": "bookbot/A Puppet Can.pdf",
+    "filename": "A Puppet Can.pdf",
     "source": "bookbot",
     "title": "A Puppet Can"
   },
   {
-    "cover": "bookbot/Cats!.jpg",
     "created": "2018-09-07T07:17:41+0000",
-    "document": "bookbot/Cats!.pdf",
+    "filename": "Cats!.pdf",
     "source": "bookbot",
     "title": "Cats!"
   },
   {
-    "cover": "bookbot/Dogs!.jpg",
     "created": "2018-09-02T14:11:13+0000",
-    "document": "bookbot/Dogs!.pdf",
+    "filename": "Dogs!.pdf",
     "source": "bookbot",
     "title": "Dogs!"
   },
   {
-    "cover": "bookbot/Fox!.jpg",
     "created": "2018-10-12T11:51:53+0000",
-    "document": "bookbot/Fox!.pdf",
+    "filename": "Fox!.pdf",
     "source": "bookbot",
     "title": "Fox!"
   },
   {
-    "cover": "bookbot/Kittens!.jpg",
     "created": "2018-09-02T14:40:54+0000",
-    "document": "bookbot/Kittens!.pdf",
+    "filename": "Kittens!.pdf",
     "source": "bookbot",
     "title": "Kittens!"
   },
   {
-    "cover": "bookbot/Little Books of Big Facts-Mars.jpg",
     "created": "2018-05-21T14:25:20+0000",
-    "document": "bookbot/Little Books of Big Facts-Mars.pdf",
+    "filename": "Little Books of Big Facts-Mars.pdf",
     "source": "bookbot",
     "title": "Little Books of Big Facts-Mars"
   },
   {
-    "cover": "bookbot/Pups!.jpg",
     "created": "2018-09-10T09:49:03+0000",
-    "document": "bookbot/Pups!.pdf",
+    "filename": "Pups!.pdf",
     "source": "bookbot",
     "title": "Pups!"
   },
   {
-    "cover": "bookbot/Time to mow.jpg",
     "created": "2018-05-26T03:23:20+0000",
-    "document": "bookbot/Time to mow.pdf",
+    "filename": "Time to mow.pdf",
     "source": "bookbot",
     "title": "Time to Mow"
   },
   {
-    "cover": "bookbot/Caterpillars!.jpg",
     "created": "2018-09-07T07:02:08+0000",
-    "document": "bookbot/Caterpillars!.pdf",
+    "filename": "Caterpillars!.pdf",
     "source": "bookbot",
     "title": "Caterpillars!"
   },
   {
-    "cover": "bookbot/Eloise is a super swimmer.jpg",
     "created": "2018-05-23T16:43:07+0000",
-    "document": "bookbot/Eloise is a super swimmer.pdf",
+    "filename": "Eloise is a super swimmer.pdf",
     "source": "bookbot",
     "title": "Eloise Is a Super Swimmer"
   },
   {
-    "cover": "bookbot/Hats!.jpg",
     "created": "2018-09-02T14:20:05+0000",
-    "document": "bookbot/Hats!.pdf",
+    "filename": "Hats!.pdf",
     "source": "bookbot",
     "title": "Hats!"
   },
   {
-    "cover": "bookbot/Inès is a dancer.jpg",
     "created": "2018-05-23T15:09:11+0000",
-    "document": "bookbot/Inès is a dancer.pdf",
+    "filename": "Inès is a dancer.pdf",
     "source": "bookbot",
     "title": "Inès Is a Dancer"
   },
   {
-    "cover": "bookbot/Keeper Nakita and Her Elephants.jpg",
     "created": "2018-05-23T16:20:35+0000",
-    "document": "bookbot/Keeper Nakita and Her Elephants.pdf",
+    "filename": "Keeper Nakita and Her Elephants.pdf",
     "source": "bookbot",
     "title": "Keeper Nakita and Her Elephants"
   },
   {
-    "cover": "bookbot/Our house is a mess.jpg",
     "created": "2018-05-19T16:23:14+0000",
-    "document": "bookbot/Our house is a mess.pdf",
+    "filename": "Our house is a mess.pdf",
     "source": "bookbot",
     "title": "Our House Is a Mess"
   },
   {
-    "cover": "bookbot/The Fish and Chip Shop.jpg",
     "created": "2018-05-23T15:56:59+0000",
-    "document": "bookbot/The Fish and Chip Shop.pdf",
+    "filename": "The Fish and Chip Shop.pdf",
     "source": "bookbot",
     "title": "The Fish and Chip Shop"
   },
   {
-    "cover": "bookbot/Captain Ren's trip to Mars.jpg",
     "created": "2018-05-25T16:31:30+0000",
-    "document": "bookbot/Captain Ren's trip to Mars.pdf",
+    "filename": "Captain Ren's trip to Mars.pdf",
     "source": "bookbot",
     "title": "Captain Ren's Trip to Mars"
   },
   {
-    "cover": "bookbot/Emma's Crazy Day.jpg",
     "created": "2018-05-25T13:28:28+0000",
-    "document": "bookbot/Emma's Crazy Day.pdf",
+    "filename": "Emma's Crazy Day.pdf",
     "source": "bookbot",
     "title": "Emma's Crazy Day"
   },
   {
-    "cover": "bookbot/Explorer Ella's Magic Forest.jpg",
     "created": "2018-05-25T14:30:51+0000",
-    "document": "bookbot/Explorer Ella's Magic Forest.pdf",
+    "filename": "Explorer Ella's Magic Forest.pdf",
     "source": "bookbot",
     "title": "Explorer Ella's Magic Forest"
   },
   {
-    "cover": "bookbot/From Streets to Treats.jpg",
     "created": "2018-05-25T16:00:22+0000",
-    "document": "bookbot/From Streets to Treats.pdf",
+    "filename": "From Streets to Treats.pdf",
     "source": "bookbot",
     "title": "From Streets to Treats"
   },
   {
-    "cover": "bookbot/Gliders Gotta Glide.jpg",
     "created": "2018-05-25T16:45:47+0000",
-    "document": "bookbot/Gliders Gotta Glide.pdf",
+    "filename": "Gliders Gotta Glide.pdf",
     "source": "bookbot",
     "title": "Gliders Gotta Glide"
   },
   {
-    "cover": "bookbot/I Can Paint.jpg",
     "created": "2018-05-25T14:01:29+0000",
-    "document": "bookbot/I Can Paint.pdf",
+    "filename": "I Can Paint.pdf",
     "source": "bookbot",
     "title": "I Can Paint"
   },
   {
-    "cover": "bookbot/Professor Archie Makes a Bang.jpg",
     "created": "2018-05-25T15:15:33+0000",
-    "document": "bookbot/Professor Archie Makes a Bang.pdf",
+    "filename": "Professor Archie Makes a Bang.pdf",
     "source": "bookbot",
     "title": "Professor Archie Makes a Bang"
   },
   {
-    "cover": "bookbot/Race driver Callum makes a car.jpg",
     "created": "2018-05-24T15:43:06+0000",
-    "document": "bookbot/Race driver Callum makes a car.pdf",
+    "filename": "Race driver Callum makes a car.pdf",
     "source": "bookbot",
     "title": "Race Driver Callum Makes a Car"
   },
   {
-    "cover": "bookbot/Ranger Forester.jpg",
     "created": "2018-05-25T12:57:27+0000",
-    "document": "bookbot/Ranger Forester.pdf",
+    "filename": "Ranger Forester.pdf",
     "source": "bookbot",
     "title": "Ranger Forester"
   },
   {
-    "cover": "bookbot/Roy the annoying.jpg",
     "created": "2018-05-25T12:30:17+0000",
-    "document": "bookbot/Roy the annoying.pdf",
+    "filename": "Roy the annoying.pdf",
     "source": "bookbot",
     "title": "Roy the Annoying"
   },
   {
-    "cover": "bookbot/Sergeant Spencer.jpg",
     "created": "2018-05-25T15:46:19+0000",
-    "document": "bookbot/Sergeant Spencer.pdf",
+    "filename": "Sergeant Spencer.pdf",
     "source": "bookbot",
     "title": "Sergeant Spencer"
   },
   {
-    "cover": "bookbot/Biology.jpg",
     "created": "2018-10-09T13:13:50+0000",
-    "document": "bookbot/Biology.pdf",
+    "filename": "Biology.pdf",
     "source": "bookbot",
     "title": "Biology"
   },
   {
-    "cover": "bookbot/Physics.jpg",
     "created": "2018-10-12T12:22:51+0000",
-    "document": "bookbot/Physics.pdf",
+    "filename": "Physics.pdf",
     "source": "bookbot",
     "title": "Physics"
   },
   {
-    "cover": "bookbot/Foxes!.jpg",
     "created": "2018-10-12T11:58:16+0000",
-    "document": "bookbot/Foxes!.pdf",
+    "filename": "Foxes!.pdf",
     "source": "bookbot",
     "title": "Foxes!"
   },
   {
-    "cover": "bookbot/The Bowerbird Blues.jpg",
     "created": "2018-09-21T22:20:47+0000",
-    "document": "bookbot/The Bowerbird Blues.pdf",
+    "filename": "The Bowerbird Blues.pdf",
     "source": "bookbot",
     "title": "The Bowerbird Blues"
   },
   {
-    "cover": "bookbot/The Machine.jpg",
     "created": "2018-04-29T10:40:07+0000",
-    "document": "bookbot/The Machine.pdf",
+    "filename": "The Machine.pdf",
     "source": "bookbot",
     "title": "The Machine"
   },
   {
-    "cover": "bookbot/The Min Min Lights.jpg",
     "created": "2018-10-13T13:24:58+0000",
-    "document": "bookbot/The Min Min Lights.pdf",
+    "filename": "The Min Min Lights.pdf",
     "source": "bookbot",
     "title": "The Min Min Lights"
   },
   {
-    "cover": "bookbot/The Yowie and the Bunyip.jpg",
     "created": "2018-10-07T12:28:31+0000",
-    "document": "bookbot/The Yowie and the Bunyip.pdf",
+    "filename": "The Yowie and the Bunyip.pdf",
     "source": "bookbot",
     "title": "The Yowie and the Bunyip"
   },
   {
-    "cover": "bookbot/Insects!.jpg",
     "created": "2018-09-02T14:31:12+0000",
-    "document": "bookbot/Insects!.pdf",
+    "filename": "Insects!.pdf",
     "source": "bookbot",
     "title": "Insects!"
   }

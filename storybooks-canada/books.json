@@ -1,281 +1,241 @@
 [
   {
-    "cover": "storybooks-canada/en-0087_read.jpg",
     "created": "2019-04-25T19:58:57+0000",
-    "document": "storybooks-canada/en-0087_read.pdf",
+    "filename": "en-0087_read.pdf",
     "source": "storybooks-canada",
     "title": "I Like to Read!"
   },
   {
-    "cover": "storybooks-canada/en-0327_counting.jpg",
     "created": "2019-04-25T19:58:59+0000",
-    "document": "storybooks-canada/en-0327_counting.pdf",
+    "filename": "en-0327_counting.pdf",
     "source": "storybooks-canada",
     "title": "Counting Animals"
   },
   {
-    "cover": "storybooks-canada/en-0030_feelings.jpg",
     "created": "2019-04-25T19:59:00+0000",
-    "document": "storybooks-canada/en-0030_feelings.pdf",
+    "filename": "en-0030_feelings.pdf",
     "source": "storybooks-canada",
     "title": "Feelings"
   },
   {
-    "cover": "storybooks-canada/en-0302_fire.jpg",
     "created": "2019-04-25T19:59:02+0000",
-    "document": "storybooks-canada/en-0302_fire.pdf",
+    "filename": "en-0302_fire.pdf",
     "source": "storybooks-canada",
     "title": "Fire"
   },
   {
-    "cover": "storybooks-canada/en-0156_hungry.jpg",
     "created": "2019-04-25T19:59:04+0000",
-    "document": "storybooks-canada/en-0156_hungry.pdf",
+    "filename": "en-0156_hungry.pdf",
     "source": "storybooks-canada",
     "title": "The Hungry Crocodile"
   },
   {
-    "cover": "storybooks-canada/en-0002_animals.jpg",
     "created": "2019-04-25T19:59:06+0000",
-    "document": "storybooks-canada/en-0002_animals.pdf",
+    "filename": "en-0002_animals.pdf",
     "source": "storybooks-canada",
     "title": "Look at the Animals"
   },
   {
-    "cover": "storybooks-canada/en-0003_clothes.jpg",
     "created": "2019-04-25T19:59:08+0000",
-    "document": "storybooks-canada/en-0003_clothes.pdf",
+    "filename": "en-0003_clothes.pdf",
     "source": "storybooks-canada",
     "title": "School Clothes"
   },
   {
-    "cover": "storybooks-canada/en-0120_hair.jpg",
     "created": "2019-04-25T19:59:10+0000",
-    "document": "storybooks-canada/en-0120_hair.pdf",
+    "filename": "en-0120_hair.pdf",
     "source": "storybooks-canada",
     "title": "Hair"
   },
   {
-    "cover": "storybooks-canada/en-0271_two.jpg",
     "created": "2019-04-25T19:59:11+0000",
-    "document": "storybooks-canada/en-0271_two.pdf",
+    "filename": "en-0271_two.pdf",
     "source": "storybooks-canada",
     "title": "Two"
   },
   {
-    "cover": "storybooks-canada/en-0231_weather.jpg",
     "created": "2019-04-25T19:59:13+0000",
-    "document": "storybooks-canada/en-0231_weather.pdf",
+    "filename": "en-0231_weather.pdf",
     "source": "storybooks-canada",
     "title": "Weather Book"
   },
   {
-    "cover": "storybooks-canada/en-0129_lazy.jpg",
     "created": "2019-04-25T19:59:15+0000",
-    "document": "storybooks-canada/en-0129_lazy.pdf",
+    "filename": "en-0129_lazy.pdf",
     "source": "storybooks-canada",
     "title": "Lazy Little Brother"
   },
   {
-    "cover": "storybooks-canada/en-0067_cooking.jpg",
     "created": "2019-04-25T19:59:17+0000",
-    "document": "storybooks-canada/en-0067_cooking.pdf",
+    "filename": "en-0067_cooking.pdf",
     "source": "storybooks-canada",
     "title": "Cooking"
   },
   {
-    "cover": "storybooks-canada/en-0008_what.jpg",
     "created": "2019-04-25T19:59:18+0000",
-    "document": "storybooks-canada/en-0008_what.pdf",
+    "filename": "en-0008_what.pdf",
     "source": "storybooks-canada",
     "title": "What Are You Doing?"
   },
   {
-    "cover": "storybooks-canada/en-0009_where.jpg",
     "created": "2019-04-25T19:59:20+0000",
-    "document": "storybooks-canada/en-0009_where.pdf",
+    "filename": "en-0009_where.pdf",
     "source": "storybooks-canada",
     "title": "Where Is My Cat?"
   },
   {
-    "cover": "storybooks-canada/en-0112_body.jpg",
     "created": "2019-04-25T19:59:22+0000",
-    "document": "storybooks-canada/en-0112_body.pdf",
+    "filename": "en-0112_body.pdf",
     "source": "storybooks-canada",
     "title": "My Body"
   },
   {
-    "cover": "storybooks-canada/en-0111_hippos.jpg",
     "created": "2019-04-25T19:59:24+0000",
-    "document": "storybooks-canada/en-0111_hippos.pdf",
+    "filename": "en-0111_hippos.pdf",
     "source": "storybooks-canada",
     "title": "Why Hippos Have No Hair"
   },
   {
-    "cover": "storybooks-canada/en-0337_wax.jpg",
     "created": "2019-04-25T19:59:26+0000",
-    "document": "storybooks-canada/en-0337_wax.pdf",
+    "filename": "en-0337_wax.pdf",
     "source": "storybooks-canada",
     "title": "Children of Wax"
   },
   {
-    "cover": "storybooks-canada/en-0210_tingi.jpg",
     "created": "2019-04-25T19:59:28+0000",
-    "document": "storybooks-canada/en-0210_tingi.pdf",
+    "filename": "en-0210_tingi.pdf",
     "source": "storybooks-canada",
     "title": "Tingi and the Cows"
   },
   {
-    "cover": "storybooks-canada/en-0296_tom.jpg",
     "created": "2019-04-25T19:59:29+0000",
-    "document": "storybooks-canada/en-0296_tom.pdf",
+    "filename": "en-0296_tom.pdf",
     "source": "storybooks-canada",
     "title": "Tom the Banana Seller"
   },
   {
-    "cover": "storybooks-canada/en-0027_decision.jpg",
     "created": "2019-04-25T19:59:32+0000",
-    "document": "storybooks-canada/en-0027_decision.pdf",
+    "filename": "en-0027_decision.pdf",
     "source": "storybooks-canada",
     "title": "Decision"
   },
   {
-    "cover": "storybooks-canada/en-0342_punishment.jpg",
     "created": "2019-04-25T19:59:34+0000",
-    "document": "storybooks-canada/en-0342_punishment.pdf",
+    "filename": "en-0342_punishment.pdf",
     "source": "storybooks-canada",
     "title": "Punishment"
   },
   {
-    "cover": "storybooks-canada/en-0089_khalai.jpg",
     "created": "2019-04-25T19:59:36+0000",
-    "document": "storybooks-canada/en-0089_khalai.pdf",
+    "filename": "en-0089_khalai.pdf",
     "source": "storybooks-canada",
     "title": "Khalai Talks to Plants"
   },
   {
-    "cover": "storybooks-canada/en-0234_andiswa.jpg",
     "created": "2019-04-25T19:59:38+0000",
-    "document": "storybooks-canada/en-0234_andiswa.pdf",
+    "filename": "en-0234_andiswa.pdf",
     "source": "storybooks-canada",
     "title": "Andiswa Soccer Star"
   },
   {
-    "cover": "storybooks-canada/en-0001_tall.jpg",
     "created": "2019-04-25T19:59:40+0000",
-    "document": "storybooks-canada/en-0001_tall.pdf",
+    "filename": "en-0001_tall.pdf",
     "source": "storybooks-canada",
     "title": "A Very Tall Man"
   },
   {
-    "cover": "storybooks-canada/en-0095_zama.jpg",
     "created": "2019-04-25T19:59:42+0000",
-    "document": "storybooks-canada/en-0095_zama.pdf",
+    "filename": "en-0095_zama.pdf",
     "source": "storybooks-canada",
     "title": "Zama Is Great!"
   },
   {
-    "cover": "storybooks-canada/en-0004_goat.jpg",
     "created": "2019-04-25T19:59:44+0000",
-    "document": "storybooks-canada/en-0004_goat.pdf",
+    "filename": "en-0004_goat.pdf",
     "source": "storybooks-canada",
     "title": "Goat, Dog, and Cow"
   },
   {
-    "cover": "storybooks-canada/en-0201_donkey.jpg",
     "created": "2019-04-25T19:59:46+0000",
-    "document": "storybooks-canada/en-0201_donkey.pdf",
+    "filename": "en-0201_donkey.pdf",
     "source": "storybooks-canada",
     "title": "Donkey Child"
   },
   {
-    "cover": "storybooks-canada/en-0006_anansi.jpg",
     "created": "2019-04-25T19:59:48+0000",
-    "document": "storybooks-canada/en-0006_anansi.pdf",
+    "filename": "en-0006_anansi.pdf",
     "source": "storybooks-canada",
     "title": "Anansi and Wisdom"
   },
   {
-    "cover": "storybooks-canada/en-0110_wangari.jpg",
     "created": "2019-04-25T19:59:50+0000",
-    "document": "storybooks-canada/en-0110_wangari.pdf",
+    "filename": "en-0110_wangari.pdf",
     "source": "storybooks-canada",
     "title": "A Tiny Seed: the Story of Wangari Maathai"
   },
   {
-    "cover": "storybooks-canada/en-0158_hen.jpg",
     "created": "2019-04-25T19:59:52+0000",
-    "document": "storybooks-canada/en-0158_hen.pdf",
+    "filename": "en-0158_hen.pdf",
     "source": "storybooks-canada",
     "title": "Hen and Eagle"
   },
   {
-    "cover": "storybooks-canada/en-0324_city.jpg",
     "created": "2019-04-25T19:59:54+0000",
-    "document": "storybooks-canada/en-0324_city.pdf",
+    "filename": "en-0324_city.pdf",
     "source": "storybooks-canada",
     "title": "The Day I Left Home for the City"
   },
   {
-    "cover": "storybooks-canada/en-0141_chicken.jpg",
     "created": "2019-04-25T19:59:56+0000",
-    "document": "storybooks-canada/en-0141_chicken.pdf",
+    "filename": "en-0141_chicken.pdf",
     "source": "storybooks-canada",
     "title": "Chicken and Millipede"
   },
   {
-    "cover": "storybooks-canada/en-0066_nozibele.jpg",
     "created": "2019-04-25T19:59:57+0000",
-    "document": "storybooks-canada/en-0066_nozibele.pdf",
+    "filename": "en-0066_nozibele.pdf",
     "source": "storybooks-canada",
     "title": "Nozibele and the Three Hairs"
   },
   {
-    "cover": "storybooks-canada/en-0315_sakima.jpg",
     "created": "2019-04-25T20:00:00+0000",
-    "document": "storybooks-canada/en-0315_sakima.pdf",
+    "filename": "en-0315_sakima.pdf",
     "source": "storybooks-canada",
     "title": "Sakima’s Song"
   },
   {
-    "cover": "storybooks-canada/en-0291_vusi.jpg",
     "created": "2019-04-25T20:00:02+0000",
-    "document": "storybooks-canada/en-0291_vusi.pdf",
+    "filename": "en-0291_vusi.pdf",
     "source": "storybooks-canada",
     "title": "What Vusi’s Sister Said"
   },
   {
-    "cover": "storybooks-canada/en-0072_honeyguide.jpg",
     "created": "2019-04-25T20:00:04+0000",
-    "document": "storybooks-canada/en-0072_honeyguide.pdf",
+    "filename": "en-0072_honeyguide.pdf",
     "source": "storybooks-canada",
     "title": "The Honeyguide’s Revenge"
   },
   {
-    "cover": "storybooks-canada/en-0294_grandma.jpg",
     "created": "2019-04-25T20:00:06+0000",
-    "document": "storybooks-canada/en-0294_grandma.pdf",
+    "filename": "en-0294_grandma.pdf",
     "source": "storybooks-canada",
     "title": "Grandma’s Bananas"
   },
   {
-    "cover": "storybooks-canada/en-0243_holidays.jpg",
     "created": "2019-04-25T20:00:08+0000",
-    "document": "storybooks-canada/en-0243_holidays.pdf",
+    "filename": "en-0243_holidays.pdf",
     "source": "storybooks-canada",
     "title": "Holidays With Grandmother"
   },
   {
-    "cover": "storybooks-canada/en-0052_simbegwire.jpg",
     "created": "2019-04-25T20:00:10+0000",
-    "document": "storybooks-canada/en-0052_simbegwire.pdf",
+    "filename": "en-0052_simbegwire.pdf",
     "source": "storybooks-canada",
     "title": "Simbegwire"
   },
   {
-    "cover": "storybooks-canada/en-0262_magozwe.jpg",
     "created": "2019-04-25T20:00:12+0000",
-    "document": "storybooks-canada/en-0262_magozwe.pdf",
+    "filename": "en-0262_magozwe.pdf",
     "source": "storybooks-canada",
     "title": "Magozwe"
   }

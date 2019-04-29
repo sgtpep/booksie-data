@@ -1,43 +1,37 @@
 [
   {
-    "cover": "rubbishbooks/The-Treasure-Map.jpg",
     "created": "2014-07-29T21:07:12+0000",
-    "document": "rubbishbooks/The-Treasure-Map.pdf",
+    "filename": "The-Treasure-Map.pdf",
     "source": "rubbishbooks",
     "title": "The Treasure Map"
   },
   {
-    "cover": "rubbishbooks/The-Move.jpg",
     "created": "2014-07-29T21:06:40+0000",
-    "document": "rubbishbooks/The-Move.pdf",
+    "filename": "The-Move.pdf",
     "source": "rubbishbooks",
     "title": "The Move"
   },
   {
-    "cover": "rubbishbooks/Kevins-Birthday-FKB-Kids-Stories.jpg",
     "created": "2011-02-03T21:29:34+0000",
-    "document": "rubbishbooks/Kevins-Birthday-FKB-Kids-Stories.pdf",
+    "filename": "Kevins-Birthday-FKB-Kids-Stories.pdf",
     "source": "rubbishbooks",
     "title": "Kevin’s Birthday"
   },
   {
-    "cover": "rubbishbooks/Hide-and-Seek-FKB-Kids-Stories.jpg",
     "created": "2011-02-10T21:51:13+0000",
-    "document": "rubbishbooks/Hide-and-Seek-FKB-Kids-Stories.pdf",
+    "filename": "Hide-and-Seek-FKB-Kids-Stories.pdf",
     "source": "rubbishbooks",
     "title": "Hide and Seek"
   },
   {
-    "cover": "rubbishbooks/Patrick-Found-a-Something-FKB-Kids-Stories.jpg",
     "created": "2011-03-03T20:28:41+0000",
-    "document": "rubbishbooks/Patrick-Found-a-Something-FKB-Kids-Stories.pdf",
+    "filename": "Patrick-Found-a-Something-FKB-Kids-Stories.pdf",
     "source": "rubbishbooks",
     "title": "Patrick Found a Something"
   },
   {
-    "cover": "rubbishbooks/The-Case-of-the-Missing-Banana.jpg",
     "created": "2011-01-15T23:48:55+0000",
-    "document": "rubbishbooks/The-Case-of-the-Missing-Banana.pdf",
+    "filename": "The-Case-of-the-Missing-Banana.pdf",
     "source": "rubbishbooks",
     "title": "The Case of the Missing Banana"
   }

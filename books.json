@@ -1,1457 +1,1249 @@
 [
   {
-    "cover": "book-dash/a-beautiful-day_vawda-pelzl-bregin.jpg",
     "created": "2016-01-04T09:22:54+0000",
-    "document": "book-dash/a-beautiful-day_vawda-pelzl-bregin.pdf",
+    "filename": "a-beautiful-day_vawda-pelzl-bregin.pdf",
     "source": "book-dash",
     "title": "A Beautiful Day"
   },
   {
-    "cover": "book-dash/a-dancers-tale_deklerk-cutler-pita.jpg",
     "created": "2015-07-22T14:50:26+0000",
-    "document": "book-dash/a-dancers-tale_deklerk-cutler-pita.pdf",
+    "filename": "a-dancers-tale_deklerk-cutler-pita.pdf",
     "source": "book-dash",
     "title": "A Dancer’s Tale: the Story of Phyllis Spira"
   },
   {
-    "cover": "book-dash/a-fish-and-a-gift_breytenbach-jobson-thesen.jpg",
     "created": "2018-08-30T19:05:36+0000",
-    "document": "book-dash/a-fish-and-a-gift_breytenbach-jobson-thesen.pdf",
+    "filename": "a-fish-and-a-gift_breytenbach-jobson-thesen.pdf",
     "source": "book-dash",
     "title": "A Fish and a Gift"
   },
   {
-    "cover": "book-dash/a-house-for-mouse_uzzell-jacobs-fry.jpg",
     "created": "2014-09-08T21:45:33+0000",
-    "document": "book-dash/a-house-for-mouse_uzzell-jacobs-fry.pdf",
+    "filename": "a-house-for-mouse_uzzell-jacobs-fry.pdf",
     "source": "book-dash",
     "title": "A House for Mouse"
   },
   {
-    "cover": "book-dash/a-tiny-seed_rijsdijk-marshak.jpg",
     "created": "2015-07-11T16:14:09+0000",
-    "document": "book-dash/a-tiny-seed_rijsdijk-marshak.pdf",
+    "filename": "a-tiny-seed_rijsdijk-marshak.pdf",
     "source": "book-dash",
     "title": "A Tiny Seed"
   },
   {
-    "cover": "book-dash/amazing-daisy_masinyana-masuku-ingram.jpg",
     "created": "2015-08-04T21:04:30+0000",
-    "document": "book-dash/amazing-daisy_masinyana-masuku-ingram.pdf",
+    "filename": "amazing-daisy_masinyana-masuku-ingram.pdf",
     "source": "book-dash",
     "title": "Amazing Daisy!"
   },
   {
-    "cover": "book-dash/and-also_venter-mazibuko-beukes.jpg",
     "created": "2018-01-11T15:21:11+0000",
-    "document": "book-dash/and-also_venter-mazibuko-beukes.pdf",
+    "filename": "and-also_venter-mazibuko-beukes.pdf",
     "source": "book-dash",
     "title": "And Also!"
   },
   {
-    "cover": "book-dash/ann-nem-oh-nee-finds-adventure_bosworthsmith-griffiths-nel.jpg",
     "created": "2018-03-29T12:09:48+0000",
-    "document": "book-dash/ann-nem-oh-nee-finds-adventure_bosworthsmith-griffiths-nel.pdf",
+    "filename": "ann-nem-oh-nee-finds-adventure_bosworthsmith-griffiths-nel.pdf",
     "source": "book-dash",
     "title": "Ann-Nem-Oh-Nee Finds Adventure"
   },
   {
-    "cover": "book-dash/auntie-bois-gift-tsatsi-nyoni-wiesner.jpg",
     "created": "2019-01-14T14:41:30+0000",
-    "document": "book-dash/auntie-bois-gift-tsatsi-nyoni-wiesner.pdf",
+    "filename": "auntie-bois-gift-tsatsi-nyoni-wiesner.pdf",
     "source": "book-dash",
     "title": "Auntie Boi’s Gift"
   },
   {
-    "cover": "book-dash/bathtub-safari_williams-mcewan-chemaly.jpg",
     "created": "2014-12-03T09:47:30+0000",
-    "document": "book-dash/bathtub-safari_williams-mcewan-chemaly.pdf",
+    "filename": "bathtub-safari_williams-mcewan-chemaly.pdf",
     "source": "book-dash",
     "title": "Bathtub Safari"
   },
   {
-    "cover": "book-dash/circles_latimer-latimer-latimer.jpg",
     "created": "2018-01-11T15:05:03+0000",
-    "document": "book-dash/circles_latimer-latimer-latimer.pdf",
+    "filename": "circles_latimer-latimer-latimer.pdf",
     "source": "book-dash",
     "title": "Circles"
   },
   {
-    "cover": "book-dash/clever-pig_knowles-koenig-morgan.jpg",
     "created": "2017-02-08T09:08:40+0000",
-    "document": "book-dash/clever-pig_knowles-koenig-morgan.pdf",
+    "filename": "clever-pig_knowles-koenig-morgan.pdf",
     "source": "book-dash",
     "title": "Clever Pig"
   },
   {
-    "cover": "book-dash/come-back-cat_lilje-rijsdijk-scarborough.jpg",
     "created": "2014-09-09T13:31:38+0000",
-    "document": "book-dash/come-back-cat_lilje-rijsdijk-scarborough.pdf",
+    "filename": "come-back-cat_lilje-rijsdijk-scarborough.pdf",
     "source": "book-dash",
     "title": "Come Back, Cat!"
   },
   {
-    "cover": "book-dash/dance-mihlali_ayres-ngqayimbana-fatman.jpg",
     "created": "2018-12-06T14:28:19+0000",
-    "document": "book-dash/dance-mihlali_ayres-ngqayimbana-fatman.pdf",
+    "filename": "dance-mihlali_ayres-ngqayimbana-fatman.pdf",
     "source": "book-dash",
     "title": "Dance, Mihlali!"
   },
   {
-    "cover": "book-dash/feathered-friends_hammond-lange-pretorius.jpg",
     "created": "2018-01-25T10:32:47+0000",
-    "document": "book-dash/feathered-friends_hammond-lange-pretorius.pdf",
+    "filename": "feathered-friends_hammond-lange-pretorius.pdf",
     "source": "book-dash",
     "title": "Feathered Friends"
   },
   {
-    "cover": "book-dash/foxy-joxy-plays-a-trick_ntuli_rice_esmail.jpg",
     "created": "2017-03-20T12:31:48+0000",
-    "document": "book-dash/foxy-joxy-plays-a-trick_ntuli_rice_esmail.pdf",
+    "filename": "foxy-joxy-plays-a-trick_ntuli_rice_esmail.pdf",
     "source": "book-dash",
     "title": "Foxy Joxy Plays a Trick"
   },
   {
-    "cover": "book-dash/goldfish-genius_wilson-deklerk-ferreira.jpg",
     "created": "2016-12-14T10:05:33+0000",
-    "document": "book-dash/goldfish-genius_wilson-deklerk-ferreira.pdf",
+    "filename": "goldfish-genius_wilson-deklerk-ferreira.pdf",
     "source": "book-dash",
     "title": "Goldfish Genius"
   },
   {
-    "cover": "book-dash/gracas-dream_fagan-de-villiers-le-roux.jpg",
     "created": "2014-09-22T17:43:26+0000",
-    "document": "book-dash/gracas-dream_fagan-de-villiers-le-roux.pdf",
+    "filename": "gracas-dream_fagan-de-villiers-le-roux.pdf",
     "source": "book-dash",
     "title": "Graça’s Dream"
   },
   {
-    "cover": "book-dash/grandpa-farouks-garden_kalil-lewis-vanriet.jpg",
     "created": "2018-06-18T16:19:50+0000",
-    "document": "book-dash/grandpa-farouks-garden_kalil-lewis-vanriet.pdf",
+    "filename": "grandpa-farouks-garden_kalil-lewis-vanriet.pdf",
     "source": "book-dash",
     "title": "Grandpa Farouk’s Garden"
   },
   {
-    "cover": "book-dash/grandpas-gold_milandri-saadien-raad-du-blois.jpg",
     "created": "2015-09-19T14:40:24+0000",
-    "document": "book-dash/grandpas-gold_milandri-saadien-raad-du-blois.pdf",
+    "filename": "grandpas-gold_milandri-saadien-raad-du-blois.pdf",
     "source": "book-dash",
     "title": "Grandpa’s Gold"
   },
   {
-    "cover": "book-dash/hello_marima_palmer_wepener.jpg",
     "created": "2017-03-15T13:20:46+0000",
-    "document": "book-dash/hello_marima_palmer_wepener.pdf",
+    "filename": "hello_marima_palmer_wepener.pdf",
     "source": "book-dash",
     "title": "Hello"
   },
   {
-    "cover": "book-dash/hippo-wants-to-dance_beckbessinger-andrews-steyn.jpg",
     "created": "2016-03-24T17:12:32+0000",
-    "document": "book-dash/hippo-wants-to-dance_beckbessinger-andrews-steyn.pdf",
+    "filename": "hippo-wants-to-dance_beckbessinger-andrews-steyn.pdf",
     "source": "book-dash",
     "title": "Hippo Wants to Dance"
   },
   {
-    "cover": "book-dash/how-about-you_bertelsmann-van-rensburg-botes-kerr.jpg",
     "created": "2015-08-04T22:37:35+0000",
-    "document": "book-dash/how-about-you_bertelsmann-van-rensburg-botes-kerr.pdf",
+    "filename": "how-about-you_bertelsmann-van-rensburg-botes-kerr.pdf",
     "source": "book-dash",
     "title": "How About You?"
   },
   {
-    "cover": "book-dash/hugs-in-the-city_brouard-buys-vorster.jpg",
     "created": "2016-12-30T16:20:20+0000",
-    "document": "book-dash/hugs-in-the-city_brouard-buys-vorster.pdf",
+    "filename": "hugs-in-the-city_brouard-buys-vorster.pdf",
     "source": "book-dash",
     "title": "Hugs in the City"
   },
   {
-    "cover": "book-dash/i-can-dress-myself_kunene-dedekind-krone.jpg",
     "created": "2018-08-30T19:20:43+0000",
-    "document": "book-dash/i-can-dress-myself_kunene-dedekind-krone.pdf",
+    "filename": "i-can-dress-myself_kunene-dedekind-krone.pdf",
     "source": "book-dash",
     "title": "I Can Dress Myself!"
   },
   {
-    "cover": "book-dash/i-dont-want-to-go-to-sleep_bosa-mcgregor-greeff.jpg",
     "created": "2018-12-17T22:19:28+0000",
-    "document": "book-dash/i-dont-want-to-go-to-sleep_bosa-mcgregor-greeff.pdf",
+    "filename": "i-dont-want-to-go-to-sleep_bosa-mcgregor-greeff.pdf",
     "source": "book-dash",
     "title": "I Don’t Want to Go to Sleep!"
   },
   {
-    "cover": "book-dash/i-will-help-you_villet-abbott-kathrada.jpg",
     "created": "2018-08-31T15:02:59+0000",
-    "document": "book-dash/i-will-help-you_villet-abbott-kathrada.pdf",
+    "filename": "i-will-help-you_villet-abbott-kathrada.pdf",
     "source": "book-dash",
     "title": "I Will Help You"
   },
   {
-    "cover": "book-dash/is-there-anyone-like-me_jardim-wedepohl-strydom-wallace.jpg",
     "created": "2015-08-11T19:39:47+0000",
-    "document": "book-dash/is-there-anyone-like-me_jardim-wedepohl-strydom-wallace.pdf",
+    "filename": "is-there-anyone-like-me_jardim-wedepohl-strydom-wallace.pdf",
     "source": "book-dash",
     "title": "Is There Anyone Like Me?"
   },
   {
-    "cover": "book-dash/it-wasnt-me_beake-van-der-merwe-mackinnon.jpg",
     "created": "2016-07-24T11:43:42+0000",
-    "document": "book-dash/it-wasnt-me_beake-van-der-merwe-mackinnon.pdf",
+    "filename": "it-wasnt-me_beake-van-der-merwe-mackinnon.pdf",
     "source": "book-dash",
     "title": "It Wasn’t Me!"
   },
   {
-    "cover": "book-dash/just-like-me_hampton-dutoit-jaggers.jpg",
     "created": "2018-01-11T14:17:44+0000",
-    "document": "book-dash/just-like-me_hampton-dutoit-jaggers.pdf",
+    "filename": "just-like-me_hampton-dutoit-jaggers.pdf",
     "source": "book-dash",
     "title": "Just Like Me"
   },
   {
-    "cover": "book-dash/karabos-question_jobson-beyleveld-propa.jpg",
     "created": "2015-08-27T09:43:06+0000",
-    "document": "book-dash/karabos-question_jobson-beyleveld-propa.pdf",
+    "filename": "karabos-question_jobson-beyleveld-propa.pdf",
     "source": "book-dash",
     "title": "Karabo’s Questions"
   },
   {
-    "cover": "book-dash/katiitis-song_kabali-kagwa-marshak-walker.jpg",
     "created": "2016-09-10T21:42:00+0000",
-    "document": "book-dash/katiitis-song_kabali-kagwa-marshak-walker.pdf",
+    "filename": "katiitis-song_kabali-kagwa-marshak-walker.pdf",
     "source": "book-dash",
     "title": "Katiiti’s Song"
   },
   {
-    "cover": "book-dash/knight-times_makings-smith-mateman.jpg",
     "created": "2018-01-17T14:18:56+0000",
-    "document": "book-dash/knight-times_makings-smith-mateman.pdf",
+    "filename": "knight-times_makings-smith-mateman.pdf",
     "source": "book-dash",
     "title": "Knight Times"
   },
   {
-    "cover": "book-dash/lara-the-yellow-ladybird_evans-holtzhausen-kriel.jpg",
     "created": "2018-08-30T19:07:36+0000",
-    "document": "book-dash/lara-the-yellow-ladybird_evans-holtzhausen-kriel.pdf",
+    "filename": "lara-the-yellow-ladybird_evans-holtzhausen-kriel.pdf",
     "source": "book-dash",
     "title": "Lara the Yellow Ladybird"
   },
   {
-    "cover": "book-dash/lets-have-an-inside-day_vanzyl-mbangeni-nemakhavhani.jpg",
     "created": "2018-12-12T16:56:22+0000",
-    "document": "book-dash/lets-have-an-inside-day_vanzyl-mbangeni-nemakhavhani.pdf",
+    "filename": "lets-have-an-inside-day_vanzyl-mbangeni-nemakhavhani.pdf",
     "source": "book-dash",
     "title": "Let’s Have an Inside Day!"
   },
   {
-    "cover": "book-dash/lions-are-always-brave_amato-browde-tlhaka.jpg",
     "created": "2019-01-14T15:13:46+0000",
-    "document": "book-dash/lions-are-always-brave_amato-browde-tlhaka.pdf",
+    "filename": "lions-are-always-brave_amato-browde-tlhaka.pdf",
     "source": "book-dash",
     "title": "Lions Are Always Brave"
   },
   {
-    "cover": "book-dash/little-ants-big-plan_dingwall-mckimmie-stoop.jpg",
     "created": "2015-07-12T10:46:40+0000",
-    "document": "book-dash/little-ants-big-plan_dingwall-mckimmie-stoop.pdf",
+    "filename": "little-ants-big-plan_dingwall-mckimmie-stoop.pdf",
     "source": "book-dash",
     "title": "Little Ant’s Big Plan"
   },
   {
-    "cover": "book-dash/little-goat_smith-macsherry-lawrence.jpg",
     "created": "2017-02-08T14:11:22+0000",
-    "document": "book-dash/little-goat_smith-macsherry-lawrence.pdf",
+    "filename": "little-goat_smith-macsherry-lawrence.pdf",
     "source": "book-dash",
     "title": "Little Goat"
   },
   {
-    "cover": "book-dash/little-sock_probart-keevy-coetzee.jpg",
     "created": "2016-03-24T18:10:18+0000",
-    "document": "book-dash/little-sock_probart-keevy-coetzee.pdf",
+    "filename": "little-sock_probart-keevy-coetzee.pdf",
     "source": "book-dash",
     "title": "Little Sock and the Tiny Creatures"
   },
   {
-    "cover": "book-dash/londi-the-dreaming-girl_holliday-koenig.jpg",
     "created": "2016-01-04T12:24:02+0000",
-    "document": "book-dash/londi-the-dreaming-girl_holliday-koenig.pdf",
+    "filename": "londi-the-dreaming-girl_holliday-koenig.pdf",
     "source": "book-dash",
     "title": "The Dreaming Girl"
   },
   {
-    "cover": "book-dash/lory-dory_attwell-dearling-oneill.jpg",
     "created": "2015-07-11T22:15:12+0000",
-    "document": "book-dash/lory-dory_attwell-dearling-oneill.pdf",
+    "filename": "lory-dory_attwell-dearling-oneill.pdf",
     "source": "book-dash",
     "title": "Lory Dory"
   },
   {
-    "cover": "book-dash/maddy-moona_ditalamo-zadok-mulgrew.jpg",
     "created": "2014-09-22T18:20:07+0000",
-    "document": "book-dash/maddy-moona_ditalamo-zadok-mulgrew.pdf",
+    "filename": "maddy-moona_ditalamo-zadok-mulgrew.pdf",
     "source": "book-dash",
     "title": "Maddy Moona’s Menagerie!"
   },
   {
-    "cover": "book-dash/malis-friend_moyo-heydenrych-palmer.jpg",
     "created": "2018-11-28T17:48:29+0000",
-    "document": "book-dash/malis-friend_moyo-heydenrych-palmer.pdf",
+    "filename": "malis-friend_moyo-heydenrych-palmer.pdf",
     "source": "book-dash",
     "title": "Mali’s Friend"
   },
   {
-    "cover": "book-dash/mina-and-the-birthday-dress_chiazor-enenmor_mitchell_nathanson.jpg",
     "created": "2017-05-03T11:28:04+0000",
-    "document": "book-dash/mina-and-the-birthday-dress_chiazor-enenmor_mitchell_nathanson.pdf",
+    "filename": "mina-and-the-birthday-dress_chiazor-enenmor_mitchell_nathanson.pdf",
     "source": "book-dash",
     "title": "Mina and the Birthday Dress"
   },
   {
-    "cover": "book-dash/miss-helens-magical-world_lange-morison-kriel.jpg",
     "created": "2014-12-03T12:33:42+0000",
-    "document": "book-dash/miss-helens-magical-world_lange-morison-kriel.pdf",
+    "filename": "miss-helens-magical-world_lange-morison-kriel.pdf",
     "source": "book-dash",
     "title": "Miss Helen’s Magical World"
   },
   {
-    "cover": "book-dash/miss-tiny-chef_musekiwa_diby_nabasa.jpg",
     "created": "2017-03-30T12:53:20+0000",
-    "document": "book-dash/miss-tiny-chef_musekiwa_diby_nabasa.pdf",
+    "filename": "miss-tiny-chef_musekiwa_diby_nabasa.pdf",
     "source": "book-dash",
     "title": "Title Miss Tiny Chef"
   },
   {
-    "cover": "book-dash/mogaus-gift_mudau_munene_trok.jpg",
     "created": "2017-03-31T13:51:04+0000",
-    "document": "book-dash/mogaus-gift_mudau_munene_trok.pdf",
+    "filename": "mogaus-gift_mudau_munene_trok.pdf",
     "source": "book-dash",
     "title": "Mogau’s Gift"
   },
   {
-    "cover": "book-dash/mrs-penguins-palace_brain-oelofsen-jacobs-beckerling.jpg",
     "created": "2018-12-15T13:08:22+0000",
-    "document": "book-dash/mrs-penguins-palace_brain-oelofsen-jacobs-beckerling.pdf",
+    "filename": "mrs-penguins-palace_brain-oelofsen-jacobs-beckerling.pdf",
     "source": "book-dash",
     "title": "Mrs Penguin’s Perfect Palace"
   },
   {
-    "cover": "book-dash/my-dream-in-the-drawer_strydom-lotter-kleyn.jpg",
     "created": "2016-12-14T10:18:07+0000",
-    "document": "book-dash/my-dream-in-the-drawer_strydom-lotter-kleyn.pdf",
+    "filename": "my-dream-in-the-drawer_strydom-lotter-kleyn.pdf",
     "source": "book-dash",
     "title": "My Dream in the Drawer"
   },
   {
-    "cover": "book-dash/my-inside-weather_thorpe-berge-beckett.jpg",
     "created": "2018-01-15T12:36:18+0000",
-    "document": "book-dash/my-inside-weather_thorpe-berge-beckett.pdf",
+    "filename": "my-inside-weather_thorpe-berge-beckett.pdf",
     "source": "book-dash",
     "title": "My Inside Weather"
   },
   {
-    "cover": "book-dash/my-special-hair_dingwall_jardim-wedepohl_van-rensburg.jpg",
     "created": "2017-03-15T11:53:22+0000",
-    "document": "book-dash/my-special-hair_dingwall_jardim-wedepohl_van-rensburg.pdf",
+    "filename": "my-special-hair_dingwall_jardim-wedepohl_van-rensburg.pdf",
     "source": "book-dash",
     "title": "My Special Hair"
   },
   {
-    "cover": "book-dash/no_vermeulen-friedland-visser.jpg",
     "created": "2018-01-15T10:05:01+0000",
-    "document": "book-dash/no_vermeulen-friedland-visser.pdf",
+    "filename": "no_vermeulen-friedland-visser.pdf",
     "source": "book-dash",
     "title": "No!"
   },
   {
-    "cover": "book-dash/nomvundla-and-the-chilli-eating-contest_folly-notsron_tazvivinga_walker.jpg",
     "created": "2017-03-20T15:56:23+0000",
-    "document": "book-dash/nomvundla-and-the-chilli-eating-contest_folly-notsron_tazvivinga_walker.pdf",
+    "filename": "nomvundla-and-the-chilli-eating-contest_folly-notsron_tazvivinga_walker.pdf",
     "source": "book-dash",
     "title": "Nomvundla and the Chilli Eating Contest"
   },
   {
-    "cover": "book-dash/palesa-can-walk_magona-mamba-ngwane.jpg",
     "created": "2016-12-14T10:22:46+0000",
-    "document": "book-dash/palesa-can-walk_magona-mamba-ngwane.pdf",
+    "filename": "palesa-can-walk_magona-mamba-ngwane.pdf",
     "source": "book-dash",
     "title": "Palesa Can Walk!"
   },
   {
-    "cover": "book-dash/queen-of-soweto_taylor-duplessis-fourie.jpg",
     "created": "2014-09-19T13:06:26+0000",
-    "document": "book-dash/queen-of-soweto_taylor-duplessis-fourie.pdf",
+    "filename": "queen-of-soweto_taylor-duplessis-fourie.pdf",
     "source": "book-dash",
     "title": "Queen of Soweto"
   },
   {
-    "cover": "book-dash/rafikis-style_anderson-greenberg-thompson.jpg",
     "created": "2019-01-15T21:50:18+0000",
-    "document": "book-dash/rafikis-style_anderson-greenberg-thompson.pdf",
+    "filename": "rafikis-style_anderson-greenberg-thompson.pdf",
     "source": "book-dash",
     "title": "Rafiki’s Style"
   },
   {
-    "cover": "book-dash/sbus-special-shoes_hardie-griffin-pirie.jpg",
     "created": "2016-01-29T14:47:25+0000",
-    "document": "book-dash/sbus-special-shoes_hardie-griffin-pirie.pdf",
+    "filename": "sbus-special-shoes_hardie-griffin-pirie.pdf",
     "source": "book-dash",
     "title": "Sbu’s Special Shoes"
   },
   {
-    "cover": "book-dash/scared-tumi_kunene-mashigo-smith.jpg",
     "created": "2016-12-30T15:11:46+0000",
-    "document": "book-dash/scared-tumi_kunene-mashigo-smith.pdf",
+    "filename": "scared-tumi_kunene-mashigo-smith.pdf",
     "source": "book-dash",
     "title": "Scared Tumi"
   },
   {
-    "cover": "book-dash/searching-for-the-spirit-of-spring_morulane-mahlaba-mkhwanazi.jpg",
     "created": "2015-09-21T13:39:57+0000",
-    "document": "book-dash/searching-for-the-spirit-of-spring_morulane-mahlaba-mkhwanazi.pdf",
+    "filename": "searching-for-the-spirit-of-spring_morulane-mahlaba-mkhwanazi.pdf",
     "source": "book-dash",
     "title": "Searching for the Spirit of Spring"
   },
   {
-    "cover": "book-dash/senzo-the-sun_le-roux_longland_mcgregor.jpg",
     "created": "2017-03-20T16:46:22+0000",
-    "document": "book-dash/senzo-the-sun_le-roux_longland_mcgregor.pdf",
+    "filename": "senzo-the-sun_le-roux_longland_mcgregor.pdf",
     "source": "book-dash",
     "title": "Senzo & the Sun"
   },
   {
-    "cover": "book-dash/shhhhh_latimer-vandermerwe-wilson.jpg",
     "created": "2019-04-24T15:38:56+0000",
-    "document": "book-dash/shhhhh_latimer-vandermerwe-wilson.pdf",
+    "filename": "shhhhh_latimer-vandermerwe-wilson.pdf",
     "source": "book-dash",
     "title": "Shhhhh!"
   },
   {
-    "cover": "book-dash/shongololos-shoes_kleyn-lotter-lange.jpg",
     "created": "2016-03-23T22:17:01+0000",
-    "document": "book-dash/shongololos-shoes_kleyn-lotter-lange.pdf",
+    "filename": "shongololos-shoes_kleyn-lotter-lange.pdf",
     "source": "book-dash",
     "title": "Shongololo’s Shoes"
   },
   {
-    "cover": "book-dash/sima-and-siza_ingram-xaso.jpg",
     "created": "2016-01-29T11:57:13+0000",
-    "document": "book-dash/sima-and-siza_ingram-xaso.pdf",
+    "filename": "sima-and-siza_ingram-xaso.pdf",
     "source": "book-dash",
     "title": "Sima and Siza"
   },
   {
-    "cover": "book-dash/sindi-and-the-moon_dlamini-van-eeden-mkhize.jpg",
     "created": "2016-01-29T09:50:22+0000",
-    "document": "book-dash/sindi-and-the-moon_dlamini-van-eeden-mkhize.pdf",
+    "filename": "sindi-and-the-moon_dlamini-van-eeden-mkhize.pdf",
     "source": "book-dash",
     "title": "Sindi and the Moon"
   },
   {
-    "cover": "book-dash/sindiwe-and-the-fireflies_pienaar-strydom-gadd.jpg",
     "created": "2014-10-03T16:58:03+0000",
-    "document": "book-dash/sindiwe-and-the-fireflies_pienaar-strydom-gadd.pdf",
+    "filename": "sindiwe-and-the-fireflies_pienaar-strydom-gadd.pdf",
     "source": "book-dash",
     "title": "Sindiwe and the Fireflies"
   },
   {
-    "cover": "book-dash/singing-the-truth_dejong-mathieson-blaauw.jpg",
     "created": "2017-10-13T11:51:50+0000",
-    "document": "book-dash/singing-the-truth_dejong-mathieson-blaauw.pdf",
+    "filename": "singing-the-truth_dejong-mathieson-blaauw.pdf",
     "source": "book-dash",
     "title": "Singing the Truth: the Story of Miriam Makeba"
   },
   {
-    "cover": "book-dash/sizwes-smile_venter-rycroft-terblanche.jpg",
     "created": "2018-08-30T22:06:02+0000",
-    "document": "book-dash/sizwes-smile_venter-rycroft-terblanche.pdf",
+    "filename": "sizwes-smile_venter-rycroft-terblanche.pdf",
     "source": "book-dash",
     "title": "Sizwe’s Smile"
   },
   {
-    "cover": "book-dash/sleepy-mr-sloth_kennedy-mulgrew-paterson.jpg",
     "created": "2014-07-08T10:16:15+0000",
-    "document": "book-dash/sleepy-mr-sloth_kennedy-mulgrew-paterson.pdf",
+    "filename": "sleepy-mr-sloth_kennedy-mulgrew-paterson.pdf",
     "source": "book-dash",
     "title": "Sleepy Mr Sloth"
   },
   {
-    "cover": "book-dash/small-birds-big-adventure_mulgrew-vaneeden-jacobs.jpg",
     "created": "2016-12-30T15:23:51+0000",
-    "document": "book-dash/small-birds-big-adventure_mulgrew-vaneeden-jacobs.pdf",
+    "filename": "small-birds-big-adventure_mulgrew-vaneeden-jacobs.pdf",
     "source": "book-dash",
     "title": "Small Bird’s Big Adventure"
   },
   {
-    "cover": "book-dash/springloaded_wilson-de-klerk-ferreira.jpg",
     "created": "2016-03-24T12:16:11+0000",
-    "document": "book-dash/springloaded_wilson-de-klerk-ferreira.pdf",
+    "filename": "springloaded_wilson-de-klerk-ferreira.pdf",
     "source": "book-dash",
     "title": "Springloaded"
   },
   {
-    "cover": "book-dash/thatos-birthday-surprise_lamoral-cuzen-houareau.jpg",
     "created": "2016-03-13T11:01:53+0000",
-    "document": "book-dash/thatos-birthday-surprise_lamoral-cuzen-houareau.pdf",
+    "filename": "thatos-birthday-surprise_lamoral-cuzen-houareau.pdf",
     "source": "book-dash",
     "title": "Thato’s Birthday Surprise"
   },
   {
-    "cover": "book-dash/thats-not-thabi-thats-a-hippopotamus_keevy-fongoqa-leroux.jpg",
     "created": "2018-12-15T15:14:50+0000",
-    "document": "book-dash/thats-not-thabi-thats-a-hippopotamus_keevy-fongoqa-leroux.pdf",
+    "filename": "thats-not-thabi-thats-a-hippopotamus_keevy-fongoqa-leroux.pdf",
     "source": "book-dash",
     "title": "That’s Not Thabi! That’s a Hippopotamus!"
   },
   {
-    "cover": "book-dash/the-baby-book_awerbuck_latimer_jaggers.jpg",
     "created": "2017-02-20T12:45:34+0000",
-    "document": "book-dash/the-baby-book_awerbuck_latimer_jaggers.pdf",
+    "filename": "the-baby-book_awerbuck_latimer_jaggers.pdf",
     "source": "book-dash",
     "title": "The Baby Book"
   },
   {
-    "cover": "book-dash/the-best-thing-ever_fagan-nel-origgi.jpg",
     "created": "2018-08-31T16:17:01+0000",
-    "document": "book-dash/the-best-thing-ever_fagan-nel-origgi.pdf",
+    "filename": "the-best-thing-ever_fagan-nel-origgi.pdf",
     "source": "book-dash",
     "title": "The Best Thing Ever"
   },
   {
-    "cover": "book-dash/the-biscuit-jar-must-fall_masinyana-kriel-masuku.jpg",
     "created": "2016-12-30T15:28:57+0000",
-    "document": "book-dash/the-biscuit-jar-must-fall_masinyana-kriel-masuku.pdf",
+    "filename": "the-biscuit-jar-must-fall_masinyana-kriel-masuku.pdf",
     "source": "book-dash",
     "title": "The Biscuit Jar Must Fall"
   },
   {
-    "cover": "book-dash/the-bounce_esterhuyse-botha-esterhuyse.jpg",
     "created": "2018-01-17T09:34:29+0000",
-    "document": "book-dash/the-bounce_esterhuyse-botha-esterhuyse.pdf",
+    "filename": "the-bounce_esterhuyse-botha-esterhuyse.pdf",
     "source": "book-dash",
     "title": "The Bounce"
   },
   {
-    "cover": "book-dash/the-cottonwool-doctor_de-wet_matthews_potton.jpg",
     "created": "2017-07-12T15:56:10+0000",
-    "document": "book-dash/the-cottonwool-doctor_de-wet_matthews_potton.pdf",
+    "filename": "the-cottonwool-doctor_de-wet_matthews_potton.pdf",
     "source": "book-dash",
     "title": "The Cottonwool Doctor: the Story of Margaret Ann Bulkly, Known As Dr James Barry"
   },
   {
-    "cover": "book-dash/the-dream-pillow_kamish-kriel-davids.jpg",
     "created": "2018-04-23T11:22:08+0000",
-    "document": "book-dash/the-dream-pillow_kamish-kriel-davids.pdf",
+    "filename": "the-dream-pillow_kamish-kriel-davids.pdf",
     "source": "book-dash",
     "title": "The Dream Pillow"
   },
   {
-    "cover": "book-dash/the-elephant-in-the-room_wilson-tymbios-pepler.jpg",
     "created": "2016-03-23T23:36:52+0000",
-    "document": "book-dash/the-elephant-in-the-room_wilson-tymbios-pepler.pdf",
+    "filename": "the-elephant-in-the-room_wilson-tymbios-pepler.pdf",
     "source": "book-dash",
     "title": "The Elephant in the Room"
   },
   {
-    "cover": "book-dash/the-fish-that-couldnt-swim_gaylard-mamba-strydom.jpg",
     "created": "2018-12-15T11:08:39+0000",
-    "document": "book-dash/the-fish-that-couldnt-swim_gaylard-mamba-strydom.pdf",
+    "filename": "the-fish-that-couldnt-swim_gaylard-mamba-strydom.pdf",
     "source": "book-dash",
     "title": "The Fish That Couldn’t Swim"
   },
   {
-    "cover": "book-dash/the-great-cake-contest_masango-mdluli-vanderwalt.jpg",
     "created": "2018-12-18T07:35:03+0000",
-    "document": "book-dash/the-great-cake-contest_masango-mdluli-vanderwalt.pdf",
+    "filename": "the-great-cake-contest_masango-mdluli-vanderwalt.pdf",
     "source": "book-dash",
     "title": "The Great Cake Contest"
   },
   {
-    "cover": "book-dash/the-lion-who-wouldnt-try_esterhuyse-kieswetter-mulgrew.jpg",
     "created": "2017-02-08T15:31:12+0000",
-    "document": "book-dash/the-lion-who-wouldnt-try_esterhuyse-kieswetter-mulgrew.pdf",
+    "filename": "the-lion-who-wouldnt-try_esterhuyse-kieswetter-mulgrew.pdf",
     "source": "book-dash",
     "title": "The Lion Who Wouldn't Try"
   },
   {
-    "cover": "book-dash/the-lost-laugh_lilje-preen-combrinck.jpg",
     "created": "2018-12-16T09:21:19+0000",
-    "document": "book-dash/the-lost-laugh_lilje-preen-combrinck.pdf",
+    "filename": "the-lost-laugh_lilje-preen-combrinck.pdf",
     "source": "book-dash",
     "title": "The Lost Laugh"
   },
   {
-    "cover": "book-dash/the-pumpkin-chase_simelane-harkess-attwell.jpg",
     "created": "2018-02-05T17:43:10+0000",
-    "document": "book-dash/the-pumpkin-chase_simelane-harkess-attwell.pdf",
+    "filename": "the-pumpkin-chase_simelane-harkess-attwell.pdf",
     "source": "book-dash",
     "title": "The Pumpkin Chase"
   },
   {
-    "cover": "book-dash/the-rainbow-cloud-morulane-mkhwanazi-dlamini.jpg",
     "created": "2016-12-30T15:48:46+0000",
-    "document": "book-dash/the-rainbow-cloud-morulane-mkhwanazi-dlamini.pdf",
+    "filename": "the-rainbow-cloud-morulane-mkhwanazi-dlamini.pdf",
     "source": "book-dash",
     "title": "The Rainbow Cloud"
   },
   {
-    "cover": "book-dash/the-sea_rijsdijk-nel-smith-belton.jpg",
     "created": "2016-12-14T10:26:07+0000",
-    "document": "book-dash/the-sea_rijsdijk-nel-smith-belton.pdf",
+    "filename": "the-sea_rijsdijk-nel-smith-belton.pdf",
     "source": "book-dash",
     "title": "The Sea"
   },
   {
-    "cover": "book-dash/the-three-doof-doofs_botha_potter_wallace.jpg",
     "created": "2017-03-15T11:27:08+0000",
-    "document": "book-dash/the-three-doof-doofs_botha_potter_wallace.pdf",
+    "filename": "the-three-doof-doofs_botha_potter_wallace.pdf",
     "source": "book-dash",
     "title": "The 3 Doof-Doofs"
   },
   {
-    "cover": "book-dash/the-very-tired-lioness_wepener-bodenstein-mckay.jpg",
     "created": "2018-12-11T20:48:52+0000",
-    "document": "book-dash/the-very-tired-lioness_wepener-bodenstein-mckay.pdf",
+    "filename": "the-very-tired-lioness_wepener-bodenstein-mckay.pdf",
     "source": "book-dash",
     "title": "The Very Tired Lioness"
   },
   {
-    "cover": "book-dash/there-must-be-a-rainbow_govendor-mamba-ngwane.jpg",
     "created": "2016-01-29T17:38:44+0000",
-    "document": "book-dash/there-must-be-a-rainbow_govendor-mamba-ngwane.pdf",
+    "filename": "there-must-be-a-rainbow_govendor-mamba-ngwane.pdf",
     "source": "book-dash",
     "title": "There Must Be a Rainbow"
   },
   {
-    "cover": "book-dash/thuli-special-and-the-secret_gaga_tsatsi_worku.jpg",
     "created": "2017-03-15T16:15:11+0000",
-    "document": "book-dash/thuli-special-and-the-secret_gaga_tsatsi_worku.pdf",
+    "filename": "thuli-special-and-the-secret_gaga_tsatsi_worku.pdf",
     "source": "book-dash",
     "title": "Thuli, Special and the Secret"
   },
   {
-    "cover": "book-dash/tigs-world_dutrieux-wilson-sedumedi.jpg",
     "created": "2018-01-18T09:36:32+0000",
-    "document": "book-dash/tigs-world_dutrieux-wilson-sedumedi.pdf",
+    "filename": "tigs-world_dutrieux-wilson-sedumedi.pdf",
     "source": "book-dash",
     "title": "Tig’s World"
   },
   {
-    "cover": "book-dash/toast_latimer-moffett-jacobs.jpg",
     "created": "2018-04-23T12:43:36+0000",
-    "document": "book-dash/toast_latimer-moffett-jacobs.pdf",
+    "filename": "toast_latimer-moffett-jacobs.pdf",
     "source": "book-dash",
     "title": "Toast"
   },
   {
-    "cover": "book-dash/together-were-strong_jobson-toich-jacobs.jpg",
     "created": "2014-09-22T17:19:00+0000",
-    "document": "book-dash/together-were-strong_jobson-toich-jacobs.pdf",
+    "filename": "together-were-strong_jobson-toich-jacobs.pdf",
     "source": "book-dash",
     "title": "Together We’re Strong: the Story of Albertina Sisulu"
   },
   {
-    "cover": "book-dash/tones-big-drop_gicovi_kabwe_osmond.jpg",
     "created": "2017-03-24T11:16:03+0000",
-    "document": "book-dash/tones-big-drop_gicovi_kabwe_osmond.pdf",
+    "filename": "tones-big-drop_gicovi_kabwe_osmond.pdf",
     "source": "book-dash",
     "title": "Tone’s Big Drop"
   },
   {
-    "cover": "book-dash/tortoise-finds-his-home_coetzer-fowler-higgs.jpg",
     "created": "2015-09-20T13:54:20+0000",
-    "document": "book-dash/tortoise-finds-his-home_coetzer-fowler-higgs.pdf",
+    "filename": "tortoise-finds-his-home_coetzer-fowler-higgs.pdf",
     "source": "book-dash",
     "title": "Tortoise Finds His Home"
   },
   {
-    "cover": "book-dash/tumi-goes-to-the-park_kariuki_rampa_shone.jpg",
     "created": "2017-03-16T13:20:58+0000",
-    "document": "book-dash/tumi-goes-to-the-park_kariuki_rampa_shone.pdf",
+    "filename": "tumi-goes-to-the-park_kariuki_rampa_shone.pdf",
     "source": "book-dash",
     "title": "Tumi Goes to the Park"
   },
   {
-    "cover": "book-dash/ulonwabo_makina-devilliers-kumalo.jpg",
     "created": "2019-01-20T12:32:11+0000",
-    "document": "book-dash/ulonwabo_makina-devilliers-kumalo.pdf",
+    "filename": "ulonwabo_makina-devilliers-kumalo.pdf",
     "source": "book-dash",
     "title": "Lonwabo’s Recipes"
   },
   {
-    "cover": "book-dash/umtshato-wentlanzi-nenkukhu_ngqawani-madyibi-ndlakuse.jpg",
     "created": "2018-04-05T15:49:46+0000",
-    "document": "book-dash/umtshato-wentlanzi-nenkukhu_ngqawani-madyibi-ndlakuse.pdf",
+    "filename": "umtshato-wentlanzi-nenkukhu_ngqawani-madyibi-ndlakuse.pdf",
     "source": "book-dash",
     "title": "The Fish and Chicken’s Wedding"
   },
   {
-    "cover": "book-dash/unathi-and-the-dirty-smelly-beast_keevy-jardimwedepohl-mkhize.jpg",
     "created": "2016-12-14T10:31:03+0000",
-    "document": "book-dash/unathi-and-the-dirty-smelly-beast_keevy-jardimwedepohl-mkhize.pdf",
+    "filename": "unathi-and-the-dirty-smelly-beast_keevy-jardimwedepohl-mkhize.pdf",
     "source": "book-dash",
     "title": "Unathi and the Dirty, Smelly Beast"
   },
   {
-    "cover": "book-dash/walking-together_de-jong-mathieson-blaauw.jpg",
     "created": "2015-10-02T17:52:46+0000",
-    "document": "book-dash/walking-together_de-jong-mathieson-blaauw.pdf",
+    "filename": "walking-together_de-jong-mathieson-blaauw.pdf",
     "source": "book-dash",
     "title": "Walking Together"
   },
   {
-    "cover": "book-dash/what-if_zinn-hampton-smith.jpg",
     "created": "2018-08-30T19:38:29+0000",
-    "document": "book-dash/what-if_zinn-hampton-smith.pdf",
+    "filename": "what-if_zinn-hampton-smith.pdf",
     "source": "book-dash",
     "title": "What If...?"
   },
   {
-    "cover": "book-dash/what-is-it_roberts-sidley-penn.jpg",
     "created": "2016-05-22T14:17:14+0000",
-    "document": "book-dash/what-is-it_roberts-sidley-penn.pdf",
+    "filename": "what-is-it_roberts-sidley-penn.pdf",
     "source": "book-dash",
     "title": "What Is It?"
   },
   {
-    "cover": "book-dash/whats-at-the-park_mann-jardimwedepohl.jpg",
     "created": "2018-12-18T06:59:59+0000",
-    "document": "book-dash/whats-at-the-park_mann-jardimwedepohl.pdf",
+    "filename": "whats-at-the-park_mann-jardimwedepohl.pdf",
     "source": "book-dash",
     "title": "What’s at the Park?"
   },
   {
-    "cover": "book-dash/whats-in-the-pot_warren-western-versfeld.jpg",
     "created": "2017-03-20T11:15:11+0000",
-    "document": "book-dash/whats-in-the-pot_warren-western-versfeld.pdf",
+    "filename": "whats-in-the-pot_warren-western-versfeld.pdf",
     "source": "book-dash",
     "title": "What’s in the Pot?"
   },
   {
-    "cover": "book-dash/when-i-grow-up_jacobs-fry-van-der-spuy.jpg",
     "created": "2016-03-24T14:21:32+0000",
-    "document": "book-dash/when-i-grow-up_jacobs-fry-van-der-spuy.pdf",
+    "filename": "when-i-grow-up_jacobs-fry-van-der-spuy.pdf",
     "source": "book-dash",
     "title": "When I Grow Up"
   },
   {
-    "cover": "book-dash/where-is-lulu_mashigo-beech-mazibuko.jpg",
     "created": "2018-05-03T13:56:41+0000",
-    "document": "book-dash/where-is-lulu_mashigo-beech-mazibuko.pdf",
+    "filename": "where-is-lulu_mashigo-beech-mazibuko.pdf",
     "source": "book-dash",
     "title": "Where Is Lulu?"
   },
   {
-    "cover": "book-dash/where-is-thabo_fagan-kathadra-nyoni.jpg",
     "created": "2016-12-30T15:56:08+0000",
-    "document": "book-dash/where-is-thabo_fagan-kathadra-nyoni.pdf",
+    "filename": "where-is-thabo_fagan-kathadra-nyoni.pdf",
     "source": "book-dash",
     "title": "Where Is Thabo?"
   },
   {
-    "cover": "book-dash/who-is-our-friend_mathieson-de-groot-van-wyk.jpg",
     "created": "2016-03-24T15:50:06+0000",
-    "document": "book-dash/who-is-our-friend_mathieson-de-groot-van-wyk.pdf",
+    "filename": "who-is-our-friend_mathieson-de-groot-van-wyk.pdf",
     "source": "book-dash",
     "title": "Who Is Our Friend?"
   },
   {
-    "cover": "book-dash/who-takes-the-train_velemane-mnensa-latsky.jpg",
     "created": "2018-05-04T10:55:01+0000",
-    "document": "book-dash/who-takes-the-train_velemane-mnensa-latsky.pdf",
+    "filename": "who-takes-the-train_velemane-mnensa-latsky.pdf",
     "source": "book-dash",
     "title": "Who Takes the Train?"
   },
   {
-    "cover": "book-dash/whos-that-baby_hinrichsen-mukuka-demertzis.jpg",
     "created": "2019-04-26T18:19:27+0000",
-    "document": "book-dash/whos-that-baby_hinrichsen-mukuka-demertzis.pdf",
+    "filename": "whos-that-baby_hinrichsen-mukuka-demertzis.pdf",
     "source": "book-dash",
     "title": "Who’s That Baby?"
   },
   {
-    "cover": "book-dash/whose-button-is-this_woolley-kennedy-gale.jpg",
     "created": "2015-09-20T15:33:48+0000",
-    "document": "book-dash/whose-button-is-this_woolley-kennedy-gale.pdf",
+    "filename": "whose-button-is-this_woolley-kennedy-gale.pdf",
     "source": "book-dash",
     "title": "Whose Button Is This?"
   },
   {
-    "cover": "book-dash/why-is-nita-upside-down_hearne-bouwer-bouwer.jpg",
     "created": "2015-09-20T12:02:26+0000",
-    "document": "book-dash/why-is-nita-upside-down_hearne-bouwer-bouwer.pdf",
+    "filename": "why-is-nita-upside-down_hearne-bouwer-bouwer.pdf",
     "source": "book-dash",
     "title": "Why Is Nita Upside Down?"
   },
   {
-    "cover": "book-dash/why-is-there-a-hole-in-the-wall_slatem-paxton-botha.jpg",
     "created": "2017-02-08T16:02:15+0000",
-    "document": "book-dash/why-is-there-a-hole-in-the-wall_slatem-paxton-botha.pdf",
+    "filename": "why-is-there-a-hole-in-the-wall_slatem-paxton-botha.pdf",
     "source": "book-dash",
     "title": "Why Is There a Hole in the Wall?"
   },
   {
-    "cover": "book-dash/woof-woof_louw-magona-grobler.jpg",
     "created": "2019-04-24T14:32:41+0000",
-    "document": "book-dash/woof-woof_louw-magona-grobler.pdf",
+    "filename": "woof-woof_louw-magona-grobler.pdf",
     "source": "book-dash",
     "title": "Woof-Woof!"
   },
   {
-    "cover": "book-dash/you-yes-you_wilson-brandow-combrinck.jpg",
     "created": "2018-04-23T10:20:25+0000",
-    "document": "book-dash/you-yes-you_wilson-brandow-combrinck.pdf",
+    "filename": "you-yes-you_wilson-brandow-combrinck.pdf",
     "source": "book-dash",
     "title": "You! Yes You!"
   },
   {
-    "cover": "book-dash/zandi-and-birdy-monster_rouget-vandenbergh-esterhuyse.jpg",
     "created": "2018-05-08T10:32:34+0000",
-    "document": "book-dash/zandi-and-birdy-monster_rouget-vandenbergh-esterhuyse.pdf",
+    "filename": "zandi-and-birdy-monster_rouget-vandenbergh-esterhuyse.pdf",
     "source": "book-dash",
     "title": "Zandi and Birdy Monster"
   },
   {
-    "cover": "book-dash/zanele-sees-numbers_coetzee-delange-attwell.jpg",
     "created": "2017-02-08T09:57:57+0000",
-    "document": "book-dash/zanele-sees-numbers_coetzee-delange-attwell.pdf",
+    "filename": "zanele-sees-numbers_coetzee-delange-attwell.pdf",
     "source": "book-dash",
     "title": "Zanele Sees Numbers"
   },
   {
-    "cover": "book-dash/zanele-situ-my-story_sparg-breytenbach-thesen.jpg",
     "created": "2014-10-03T16:40:23+0000",
-    "document": "book-dash/zanele-situ-my-story_sparg-breytenbach-thesen.pdf",
+    "filename": "zanele-situ-my-story_sparg-breytenbach-thesen.pdf",
     "source": "book-dash",
     "title": "Zanele Situ: My Story"
   },
   {
-    "cover": "bookbot/A Puppet Can.jpg",
     "created": "2018-05-21T15:26:02+0000",
-    "document": "bookbot/A Puppet Can.pdf",
+    "filename": "A Puppet Can.pdf",
     "source": "bookbot",
     "title": "A Puppet Can"
   },
   {
-    "cover": "bookbot/Cats!.jpg",
     "created": "2018-09-07T07:17:41+0000",
-    "document": "bookbot/Cats!.pdf",
+    "filename": "Cats!.pdf",
     "source": "bookbot",
     "title": "Cats!"
   },
   {
-    "cover": "bookbot/Dogs!.jpg",
     "created": "2018-09-02T14:11:13+0000",
-    "document": "bookbot/Dogs!.pdf",
+    "filename": "Dogs!.pdf",
     "source": "bookbot",
     "title": "Dogs!"
   },
   {
-    "cover": "bookbot/Fox!.jpg",
     "created": "2018-10-12T11:51:53+0000",
-    "document": "bookbot/Fox!.pdf",
+    "filename": "Fox!.pdf",
     "source": "bookbot",
     "title": "Fox!"
   },
   {
-    "cover": "bookbot/Kittens!.jpg",
     "created": "2018-09-02T14:40:54+0000",
-    "document": "bookbot/Kittens!.pdf",
+    "filename": "Kittens!.pdf",
     "source": "bookbot",
     "title": "Kittens!"
   },
   {
-    "cover": "bookbot/Little Books of Big Facts-Mars.jpg",
     "created": "2018-05-21T14:25:20+0000",
-    "document": "bookbot/Little Books of Big Facts-Mars.pdf",
+    "filename": "Little Books of Big Facts-Mars.pdf",
     "source": "bookbot",
     "title": "Little Books of Big Facts-Mars"
   },
   {
-    "cover": "bookbot/Pups!.jpg",
     "created": "2018-09-10T09:49:03+0000",
-    "document": "bookbot/Pups!.pdf",
+    "filename": "Pups!.pdf",
     "source": "bookbot",
     "title": "Pups!"
   },
   {
-    "cover": "bookbot/Time to mow.jpg",
     "created": "2018-05-26T03:23:20+0000",
-    "document": "bookbot/Time to mow.pdf",
+    "filename": "Time to mow.pdf",
     "source": "bookbot",
     "title": "Time to Mow"
   },
   {
-    "cover": "bookbot/Caterpillars!.jpg",
     "created": "2018-09-07T07:02:08+0000",
-    "document": "bookbot/Caterpillars!.pdf",
+    "filename": "Caterpillars!.pdf",
     "source": "bookbot",
     "title": "Caterpillars!"
   },
   {
-    "cover": "bookbot/Eloise is a super swimmer.jpg",
     "created": "2018-05-23T16:43:07+0000",
-    "document": "bookbot/Eloise is a super swimmer.pdf",
+    "filename": "Eloise is a super swimmer.pdf",
     "source": "bookbot",
     "title": "Eloise Is a Super Swimmer"
   },
   {
-    "cover": "bookbot/Hats!.jpg",
     "created": "2018-09-02T14:20:05+0000",
-    "document": "bookbot/Hats!.pdf",
+    "filename": "Hats!.pdf",
     "source": "bookbot",
     "title": "Hats!"
   },
   {
-    "cover": "bookbot/Inès is a dancer.jpg",
     "created": "2018-05-23T15:09:11+0000",
-    "document": "bookbot/Inès is a dancer.pdf",
+    "filename": "Inès is a dancer.pdf",
     "source": "bookbot",
     "title": "Inès Is a Dancer"
   },
   {
-    "cover": "bookbot/Keeper Nakita and Her Elephants.jpg",
     "created": "2018-05-23T16:20:35+0000",
-    "document": "bookbot/Keeper Nakita and Her Elephants.pdf",
+    "filename": "Keeper Nakita and Her Elephants.pdf",
     "source": "bookbot",
     "title": "Keeper Nakita and Her Elephants"
   },
   {
-    "cover": "bookbot/Our house is a mess.jpg",
     "created": "2018-05-19T16:23:14+0000",
-    "document": "bookbot/Our house is a mess.pdf",
+    "filename": "Our house is a mess.pdf",
     "source": "bookbot",
     "title": "Our House Is a Mess"
   },
   {
-    "cover": "bookbot/The Fish and Chip Shop.jpg",
     "created": "2018-05-23T15:56:59+0000",
-    "document": "bookbot/The Fish and Chip Shop.pdf",
+    "filename": "The Fish and Chip Shop.pdf",
     "source": "bookbot",
     "title": "The Fish and Chip Shop"
   },
   {
-    "cover": "bookbot/Captain Ren's trip to Mars.jpg",
     "created": "2018-05-25T16:31:30+0000",
-    "document": "bookbot/Captain Ren's trip to Mars.pdf",
+    "filename": "Captain Ren's trip to Mars.pdf",
     "source": "bookbot",
     "title": "Captain Ren's Trip to Mars"
   },
   {
-    "cover": "bookbot/Emma's Crazy Day.jpg",
     "created": "2018-05-25T13:28:28+0000",
-    "document": "bookbot/Emma's Crazy Day.pdf",
+    "filename": "Emma's Crazy Day.pdf",
     "source": "bookbot",
     "title": "Emma's Crazy Day"
   },
   {
-    "cover": "bookbot/Explorer Ella's Magic Forest.jpg",
     "created": "2018-05-25T14:30:51+0000",
-    "document": "bookbot/Explorer Ella's Magic Forest.pdf",
+    "filename": "Explorer Ella's Magic Forest.pdf",
     "source": "bookbot",
     "title": "Explorer Ella's Magic Forest"
   },
   {
-    "cover": "bookbot/From Streets to Treats.jpg",
     "created": "2018-05-25T16:00:22+0000",
-    "document": "bookbot/From Streets to Treats.pdf",
+    "filename": "From Streets to Treats.pdf",
     "source": "bookbot",
     "title": "From Streets to Treats"
   },
   {
-    "cover": "bookbot/Gliders Gotta Glide.jpg",
     "created": "2018-05-25T16:45:47+0000",
-    "document": "bookbot/Gliders Gotta Glide.pdf",
+    "filename": "Gliders Gotta Glide.pdf",
     "source": "bookbot",
     "title": "Gliders Gotta Glide"
   },
   {
-    "cover": "bookbot/I Can Paint.jpg",
     "created": "2018-05-25T14:01:29+0000",
-    "document": "bookbot/I Can Paint.pdf",
+    "filename": "I Can Paint.pdf",
     "source": "bookbot",
     "title": "I Can Paint"
   },
   {
-    "cover": "bookbot/Professor Archie Makes a Bang.jpg",
     "created": "2018-05-25T15:15:33+0000",
-    "document": "bookbot/Professor Archie Makes a Bang.pdf",
+    "filename": "Professor Archie Makes a Bang.pdf",
     "source": "bookbot",
     "title": "Professor Archie Makes a Bang"
   },
   {
-    "cover": "bookbot/Race driver Callum makes a car.jpg",
     "created": "2018-05-24T15:43:06+0000",
-    "document": "bookbot/Race driver Callum makes a car.pdf",
+    "filename": "Race driver Callum makes a car.pdf",
     "source": "bookbot",
     "title": "Race Driver Callum Makes a Car"
   },
   {
-    "cover": "bookbot/Ranger Forester.jpg",
     "created": "2018-05-25T12:57:27+0000",
-    "document": "bookbot/Ranger Forester.pdf",
+    "filename": "Ranger Forester.pdf",
     "source": "bookbot",
     "title": "Ranger Forester"
   },
   {
-    "cover": "bookbot/Roy the annoying.jpg",
     "created": "2018-05-25T12:30:17+0000",
-    "document": "bookbot/Roy the annoying.pdf",
+    "filename": "Roy the annoying.pdf",
     "source": "bookbot",
     "title": "Roy the Annoying"
   },
   {
-    "cover": "bookbot/Sergeant Spencer.jpg",
     "created": "2018-05-25T15:46:19+0000",
-    "document": "bookbot/Sergeant Spencer.pdf",
+    "filename": "Sergeant Spencer.pdf",
     "source": "bookbot",
     "title": "Sergeant Spencer"
   },
   {
-    "cover": "bookbot/Biology.jpg",
     "created": "2018-10-09T13:13:50+0000",
-    "document": "bookbot/Biology.pdf",
+    "filename": "Biology.pdf",
     "source": "bookbot",
     "title": "Biology"
   },
   {
-    "cover": "bookbot/Physics.jpg",
     "created": "2018-10-12T12:22:51+0000",
-    "document": "bookbot/Physics.pdf",
+    "filename": "Physics.pdf",
     "source": "bookbot",
     "title": "Physics"
   },
   {
-    "cover": "bookbot/Foxes!.jpg",
     "created": "2018-10-12T11:58:16+0000",
-    "document": "bookbot/Foxes!.pdf",
+    "filename": "Foxes!.pdf",
     "source": "bookbot",
     "title": "Foxes!"
   },
   {
-    "cover": "bookbot/The Bowerbird Blues.jpg",
     "created": "2018-09-21T22:20:47+0000",
-    "document": "bookbot/The Bowerbird Blues.pdf",
+    "filename": "The Bowerbird Blues.pdf",
     "source": "bookbot",
     "title": "The Bowerbird Blues"
   },
   {
-    "cover": "bookbot/The Machine.jpg",
     "created": "2018-04-29T10:40:07+0000",
-    "document": "bookbot/The Machine.pdf",
+    "filename": "The Machine.pdf",
     "source": "bookbot",
     "title": "The Machine"
   },
   {
-    "cover": "bookbot/The Min Min Lights.jpg",
     "created": "2018-10-13T13:24:58+0000",
-    "document": "bookbot/The Min Min Lights.pdf",
+    "filename": "The Min Min Lights.pdf",
     "source": "bookbot",
     "title": "The Min Min Lights"
   },
   {
-    "cover": "bookbot/The Yowie and the Bunyip.jpg",
     "created": "2018-10-07T12:28:31+0000",
-    "document": "bookbot/The Yowie and the Bunyip.pdf",
+    "filename": "The Yowie and the Bunyip.pdf",
     "source": "bookbot",
     "title": "The Yowie and the Bunyip"
   },
   {
-    "cover": "bookbot/Insects!.jpg",
     "created": "2018-09-02T14:31:12+0000",
-    "document": "bookbot/Insects!.pdf",
+    "filename": "Insects!.pdf",
     "source": "bookbot",
     "title": "Insects!"
   },
   {
-    "cover": "icharacter/en_Bedmaking_Blues.jpg",
     "created": "2012-09-17T17:03:07+0000",
-    "document": "icharacter/en_Bedmaking_Blues.pdf",
+    "filename": "en_Bedmaking_Blues.pdf",
     "source": "icharacter",
     "title": "Bed-Making Blues"
   },
   {
-    "cover": "icharacter/en_Cookie_Rookie.jpg",
     "created": "2012-09-17T16:41:56+0000",
-    "document": "icharacter/en_Cookie_Rookie.pdf",
+    "filename": "en_Cookie_Rookie.pdf",
     "source": "icharacter",
     "title": "Cookie Rookie"
   },
   {
-    "cover": "icharacter/en_Fading_Flowers.jpg",
     "created": "2012-09-26T19:30:39+0000",
-    "document": "icharacter/en_Fading_Flowers.pdf",
+    "filename": "en_Fading_Flowers.pdf",
     "source": "icharacter",
     "title": "Fading Flowers"
   },
   {
-    "cover": "icharacter/en_Out_and_About.jpg",
     "created": "2012-09-15T20:13:06+0000",
-    "document": "icharacter/en_Out_and_About.pdf",
+    "filename": "en_Out_and_About.pdf",
     "source": "icharacter",
     "title": "Out and About"
   },
   {
-    "cover": "icharacter/en_That_Worked.jpg",
     "created": "2012-09-17T16:45:52+0000",
-    "document": "icharacter/en_That_Worked.pdf",
+    "filename": "en_That_Worked.pdf",
     "source": "icharacter",
     "title": "That Worked!"
   },
   {
-    "cover": "icharacter/en_Turtle_Trouble.jpg",
     "created": "2012-09-17T16:35:40+0000",
-    "document": "icharacter/en_Turtle_Trouble.pdf",
+    "filename": "en_Turtle_Trouble.pdf",
     "source": "icharacter",
     "title": "Turtle Trouble"
   },
   {
-    "cover": "icharacter/en_What_Is_Love.jpg",
     "created": "2012-11-20T20:16:35+0000",
-    "document": "icharacter/en_What_Is_Love.pdf",
+    "filename": "en_What_Is_Love.pdf",
     "source": "icharacter",
     "title": "What Is Love?"
   },
   {
-    "cover": "paul-choy/The-Mouse-That-Was_6515.jpg",
     "created": "2015-05-06T12:31:56+0000",
-    "document": "paul-choy/The-Mouse-That-Was_6515.pdf",
+    "filename": "The-Mouse-That-Was_6515.pdf",
     "source": "paul-choy",
     "title": "Little Mouse Was"
   },
   {
-    "cover": "paul-choy/The-Mouse-That-Knew_6515.jpg",
     "created": "2015-05-06T12:18:57+0000",
-    "document": "paul-choy/The-Mouse-That-Knew_6515.pdf",
+    "filename": "The-Mouse-That-Knew_6515.pdf",
     "source": "paul-choy",
     "title": "Little Mouse Knew"
   },
   {
-    "cover": "paul-choy/The-Mouse-That-Should_6515.jpg",
     "created": "2015-05-06T12:32:52+0000",
-    "document": "paul-choy/The-Mouse-That-Should_6515.pdf",
+    "filename": "The-Mouse-That-Should_6515.pdf",
     "source": "paul-choy",
     "title": "Little Mouse Should"
   },
   {
-    "cover": "rubbishbooks/The-Treasure-Map.jpg",
     "created": "2014-07-29T21:07:12+0000",
-    "document": "rubbishbooks/The-Treasure-Map.pdf",
+    "filename": "The-Treasure-Map.pdf",
     "source": "rubbishbooks",
     "title": "The Treasure Map"
   },
   {
-    "cover": "rubbishbooks/The-Move.jpg",
     "created": "2014-07-29T21:06:40+0000",
-    "document": "rubbishbooks/The-Move.pdf",
+    "filename": "The-Move.pdf",
     "source": "rubbishbooks",
     "title": "The Move"
   },
   {
-    "cover": "rubbishbooks/Kevins-Birthday-FKB-Kids-Stories.jpg",
     "created": "2011-02-03T21:29:34+0000",
-    "document": "rubbishbooks/Kevins-Birthday-FKB-Kids-Stories.pdf",
+    "filename": "Kevins-Birthday-FKB-Kids-Stories.pdf",
     "source": "rubbishbooks",
     "title": "Kevin’s Birthday"
   },
   {
-    "cover": "rubbishbooks/Hide-and-Seek-FKB-Kids-Stories.jpg",
     "created": "2011-02-10T21:51:13+0000",
-    "document": "rubbishbooks/Hide-and-Seek-FKB-Kids-Stories.pdf",
+    "filename": "Hide-and-Seek-FKB-Kids-Stories.pdf",
     "source": "rubbishbooks",
     "title": "Hide and Seek"
   },
   {
-    "cover": "rubbishbooks/Patrick-Found-a-Something-FKB-Kids-Stories.jpg",
     "created": "2011-03-03T20:28:41+0000",
-    "document": "rubbishbooks/Patrick-Found-a-Something-FKB-Kids-Stories.pdf",
+    "filename": "Patrick-Found-a-Something-FKB-Kids-Stories.pdf",
     "source": "rubbishbooks",
     "title": "Patrick Found a Something"
   },
   {
-    "cover": "rubbishbooks/The-Case-of-the-Missing-Banana.jpg",
     "created": "2011-01-15T23:48:55+0000",
-    "document": "rubbishbooks/The-Case-of-the-Missing-Banana.pdf",
+    "filename": "The-Case-of-the-Missing-Banana.pdf",
     "source": "rubbishbooks",
     "title": "The Case of the Missing Banana"
   },
   {
-    "cover": "storybooks-canada/en-0087_read.jpg",
     "created": "2019-04-25T19:58:57+0000",
-    "document": "storybooks-canada/en-0087_read.pdf",
+    "filename": "en-0087_read.pdf",
     "source": "storybooks-canada",
     "title": "I Like to Read!"
   },
   {
-    "cover": "storybooks-canada/en-0327_counting.jpg",
     "created": "2019-04-25T19:58:59+0000",
-    "document": "storybooks-canada/en-0327_counting.pdf",
+    "filename": "en-0327_counting.pdf",
     "source": "storybooks-canada",
     "title": "Counting Animals"
   },
   {
-    "cover": "storybooks-canada/en-0030_feelings.jpg",
     "created": "2019-04-25T19:59:00+0000",
-    "document": "storybooks-canada/en-0030_feelings.pdf",
+    "filename": "en-0030_feelings.pdf",
     "source": "storybooks-canada",
     "title": "Feelings"
   },
   {
-    "cover": "storybooks-canada/en-0302_fire.jpg",
     "created": "2019-04-25T19:59:02+0000",
-    "document": "storybooks-canada/en-0302_fire.pdf",
+    "filename": "en-0302_fire.pdf",
     "source": "storybooks-canada",
     "title": "Fire"
   },
   {
-    "cover": "storybooks-canada/en-0156_hungry.jpg",
     "created": "2019-04-25T19:59:04+0000",
-    "document": "storybooks-canada/en-0156_hungry.pdf",
+    "filename": "en-0156_hungry.pdf",
     "source": "storybooks-canada",
     "title": "The Hungry Crocodile"
   },
   {
-    "cover": "storybooks-canada/en-0002_animals.jpg",
     "created": "2019-04-25T19:59:06+0000",
-    "document": "storybooks-canada/en-0002_animals.pdf",
+    "filename": "en-0002_animals.pdf",
     "source": "storybooks-canada",
     "title": "Look at the Animals"
   },
   {
-    "cover": "storybooks-canada/en-0003_clothes.jpg",
     "created": "2019-04-25T19:59:08+0000",
-    "document": "storybooks-canada/en-0003_clothes.pdf",
+    "filename": "en-0003_clothes.pdf",
     "source": "storybooks-canada",
     "title": "School Clothes"
   },
   {
-    "cover": "storybooks-canada/en-0120_hair.jpg",
     "created": "2019-04-25T19:59:10+0000",
-    "document": "storybooks-canada/en-0120_hair.pdf",
+    "filename": "en-0120_hair.pdf",
     "source": "storybooks-canada",
     "title": "Hair"
   },
   {
-    "cover": "storybooks-canada/en-0271_two.jpg",
     "created": "2019-04-25T19:59:11+0000",
-    "document": "storybooks-canada/en-0271_two.pdf",
+    "filename": "en-0271_two.pdf",
     "source": "storybooks-canada",
     "title": "Two"
   },
   {
-    "cover": "storybooks-canada/en-0231_weather.jpg",
     "created": "2019-04-25T19:59:13+0000",
-    "document": "storybooks-canada/en-0231_weather.pdf",
+    "filename": "en-0231_weather.pdf",
     "source": "storybooks-canada",
     "title": "Weather Book"
   },
   {
-    "cover": "storybooks-canada/en-0129_lazy.jpg",
     "created": "2019-04-25T19:59:15+0000",
-    "document": "storybooks-canada/en-0129_lazy.pdf",
+    "filename": "en-0129_lazy.pdf",
     "source": "storybooks-canada",
     "title": "Lazy Little Brother"
   },
   {
-    "cover": "storybooks-canada/en-0067_cooking.jpg",
     "created": "2019-04-25T19:59:17+0000",
-    "document": "storybooks-canada/en-0067_cooking.pdf",
+    "filename": "en-0067_cooking.pdf",
     "source": "storybooks-canada",
     "title": "Cooking"
   },
   {
-    "cover": "storybooks-canada/en-0008_what.jpg",
     "created": "2019-04-25T19:59:18+0000",
-    "document": "storybooks-canada/en-0008_what.pdf",
+    "filename": "en-0008_what.pdf",
     "source": "storybooks-canada",
     "title": "What Are You Doing?"
   },
   {
-    "cover": "storybooks-canada/en-0009_where.jpg",
     "created": "2019-04-25T19:59:20+0000",
-    "document": "storybooks-canada/en-0009_where.pdf",
+    "filename": "en-0009_where.pdf",
     "source": "storybooks-canada",
     "title": "Where Is My Cat?"
   },
   {
-    "cover": "storybooks-canada/en-0112_body.jpg",
     "created": "2019-04-25T19:59:22+0000",
-    "document": "storybooks-canada/en-0112_body.pdf",
+    "filename": "en-0112_body.pdf",
     "source": "storybooks-canada",
     "title": "My Body"
   },
   {
-    "cover": "storybooks-canada/en-0111_hippos.jpg",
     "created": "2019-04-25T19:59:24+0000",
-    "document": "storybooks-canada/en-0111_hippos.pdf",
+    "filename": "en-0111_hippos.pdf",
     "source": "storybooks-canada",
     "title": "Why Hippos Have No Hair"
   },
   {
-    "cover": "storybooks-canada/en-0337_wax.jpg",
     "created": "2019-04-25T19:59:26+0000",
-    "document": "storybooks-canada/en-0337_wax.pdf",
+    "filename": "en-0337_wax.pdf",
     "source": "storybooks-canada",
     "title": "Children of Wax"
   },
   {
-    "cover": "storybooks-canada/en-0210_tingi.jpg",
     "created": "2019-04-25T19:59:28+0000",
-    "document": "storybooks-canada/en-0210_tingi.pdf",
+    "filename": "en-0210_tingi.pdf",
     "source": "storybooks-canada",
     "title": "Tingi and the Cows"
   },
   {
-    "cover": "storybooks-canada/en-0296_tom.jpg",
     "created": "2019-04-25T19:59:29+0000",
-    "document": "storybooks-canada/en-0296_tom.pdf",
+    "filename": "en-0296_tom.pdf",
     "source": "storybooks-canada",
     "title": "Tom the Banana Seller"
   },
   {
-    "cover": "storybooks-canada/en-0027_decision.jpg",
     "created": "2019-04-25T19:59:32+0000",
-    "document": "storybooks-canada/en-0027_decision.pdf",
+    "filename": "en-0027_decision.pdf",
     "source": "storybooks-canada",
     "title": "Decision"
   },
   {
-    "cover": "storybooks-canada/en-0342_punishment.jpg",
     "created": "2019-04-25T19:59:34+0000",
-    "document": "storybooks-canada/en-0342_punishment.pdf",
+    "filename": "en-0342_punishment.pdf",
     "source": "storybooks-canada",
     "title": "Punishment"
   },
   {
-    "cover": "storybooks-canada/en-0089_khalai.jpg",
     "created": "2019-04-25T19:59:36+0000",
-    "document": "storybooks-canada/en-0089_khalai.pdf",
+    "filename": "en-0089_khalai.pdf",
     "source": "storybooks-canada",
     "title": "Khalai Talks to Plants"
   },
   {
-    "cover": "storybooks-canada/en-0234_andiswa.jpg",
     "created": "2019-04-25T19:59:38+0000",
-    "document": "storybooks-canada/en-0234_andiswa.pdf",
+    "filename": "en-0234_andiswa.pdf",
     "source": "storybooks-canada",
     "title": "Andiswa Soccer Star"
   },
   {
-    "cover": "storybooks-canada/en-0001_tall.jpg",
     "created": "2019-04-25T19:59:40+0000",
-    "document": "storybooks-canada/en-0001_tall.pdf",
+    "filename": "en-0001_tall.pdf",
     "source": "storybooks-canada",
     "title": "A Very Tall Man"
   },
   {
-    "cover": "storybooks-canada/en-0095_zama.jpg",
     "created": "2019-04-25T19:59:42+0000",
-    "document": "storybooks-canada/en-0095_zama.pdf",
+    "filename": "en-0095_zama.pdf",
     "source": "storybooks-canada",
     "title": "Zama Is Great!"
   },
   {
-    "cover": "storybooks-canada/en-0004_goat.jpg",
     "created": "2019-04-25T19:59:44+0000",
-    "document": "storybooks-canada/en-0004_goat.pdf",
+    "filename": "en-0004_goat.pdf",
     "source": "storybooks-canada",
     "title": "Goat, Dog, and Cow"
   },
   {
-    "cover": "storybooks-canada/en-0201_donkey.jpg",
     "created": "2019-04-25T19:59:46+0000",
-    "document": "storybooks-canada/en-0201_donkey.pdf",
+    "filename": "en-0201_donkey.pdf",
     "source": "storybooks-canada",
     "title": "Donkey Child"
   },
   {
-    "cover": "storybooks-canada/en-0006_anansi.jpg",
     "created": "2019-04-25T19:59:48+0000",
-    "document": "storybooks-canada/en-0006_anansi.pdf",
+    "filename": "en-0006_anansi.pdf",
     "source": "storybooks-canada",
     "title": "Anansi and Wisdom"
   },
   {
-    "cover": "storybooks-canada/en-0110_wangari.jpg",
     "created": "2019-04-25T19:59:50+0000",
-    "document": "storybooks-canada/en-0110_wangari.pdf",
+    "filename": "en-0110_wangari.pdf",
     "source": "storybooks-canada",
     "title": "A Tiny Seed: the Story of Wangari Maathai"
   },
   {
-    "cover": "storybooks-canada/en-0158_hen.jpg",
     "created": "2019-04-25T19:59:52+0000",
-    "document": "storybooks-canada/en-0158_hen.pdf",
+    "filename": "en-0158_hen.pdf",
     "source": "storybooks-canada",
     "title": "Hen and Eagle"
   },
   {
-    "cover": "storybooks-canada/en-0324_city.jpg",
     "created": "2019-04-25T19:59:54+0000",
-    "document": "storybooks-canada/en-0324_city.pdf",
+    "filename": "en-0324_city.pdf",
     "source": "storybooks-canada",
     "title": "The Day I Left Home for the City"
   },
   {
-    "cover": "storybooks-canada/en-0141_chicken.jpg",
     "created": "2019-04-25T19:59:56+0000",
-    "document": "storybooks-canada/en-0141_chicken.pdf",
+    "filename": "en-0141_chicken.pdf",
     "source": "storybooks-canada",
     "title": "Chicken and Millipede"
   },
   {
-    "cover": "storybooks-canada/en-0066_nozibele.jpg",
     "created": "2019-04-25T19:59:57+0000",
-    "document": "storybooks-canada/en-0066_nozibele.pdf",
+    "filename": "en-0066_nozibele.pdf",
     "source": "storybooks-canada",
     "title": "Nozibele and the Three Hairs"
   },
   {
-    "cover": "storybooks-canada/en-0315_sakima.jpg",
     "created": "2019-04-25T20:00:00+0000",
-    "document": "storybooks-canada/en-0315_sakima.pdf",
+    "filename": "en-0315_sakima.pdf",
     "source": "storybooks-canada",
     "title": "Sakima’s Song"
   },
   {
-    "cover": "storybooks-canada/en-0291_vusi.jpg",
     "created": "2019-04-25T20:00:02+0000",
-    "document": "storybooks-canada/en-0291_vusi.pdf",
+    "filename": "en-0291_vusi.pdf",
     "source": "storybooks-canada",
     "title": "What Vusi’s Sister Said"
   },
   {
-    "cover": "storybooks-canada/en-0072_honeyguide.jpg",
     "created": "2019-04-25T20:00:04+0000",
-    "document": "storybooks-canada/en-0072_honeyguide.pdf",
+    "filename": "en-0072_honeyguide.pdf",
     "source": "storybooks-canada",
     "title": "The Honeyguide’s Revenge"
   },
   {
-    "cover": "storybooks-canada/en-0294_grandma.jpg",
     "created": "2019-04-25T20:00:06+0000",
-    "document": "storybooks-canada/en-0294_grandma.pdf",
+    "filename": "en-0294_grandma.pdf",
     "source": "storybooks-canada",
     "title": "Grandma’s Bananas"
   },
   {
-    "cover": "storybooks-canada/en-0243_holidays.jpg",
     "created": "2019-04-25T20:00:08+0000",
-    "document": "storybooks-canada/en-0243_holidays.pdf",
+    "filename": "en-0243_holidays.pdf",
     "source": "storybooks-canada",
     "title": "Holidays With Grandmother"
   },
   {
-    "cover": "storybooks-canada/en-0052_simbegwire.jpg",
     "created": "2019-04-25T20:00:10+0000",
-    "document": "storybooks-canada/en-0052_simbegwire.pdf",
+    "filename": "en-0052_simbegwire.pdf",
     "source": "storybooks-canada",
     "title": "Simbegwire"
   },
   {
-    "cover": "storybooks-canada/en-0262_magozwe.jpg",
     "created": "2019-04-25T20:00:12+0000",
-    "document": "storybooks-canada/en-0262_magozwe.pdf",
+    "filename": "en-0262_magozwe.pdf",
     "source": "storybooks-canada",
     "title": "Magozwe"
   }
