@@ -972,6 +972,606 @@
     "title": "Little Mouse Should"
   },
   {
+    "created": "2018-12-26T22:31:05+00:00",
+    "slug": "31137-who-made-the-tomato-chutney",
+    "source": "pratham-books",
+    "title": "Who Made the Tomato Chutney?"
+  },
+  {
+    "created": "2019-04-30T15:12:34+00:00",
+    "slug": "32423-slip-and-slide",
+    "source": "pratham-books",
+    "title": "Slip and Slide"
+  },
+  {
+    "created": "2019-03-01T17:12:58+00:00",
+    "slug": "33603-fire-fire",
+    "source": "pratham-books",
+    "title": "Fire! Fire!"
+  },
+  {
+    "created": "2019-04-30T15:18:31+00:00",
+    "slug": "33761-the-louse-s-new-house",
+    "source": "pratham-books",
+    "title": "The Louse's New House"
+  },
+  {
+    "created": "2019-04-30T15:08:27+00:00",
+    "slug": "31833-panipuri-inside-a-spaceship",
+    "source": "pratham-books",
+    "title": "Panipuri Inside a Spaceship"
+  },
+  {
+    "created": "2019-03-01T17:11:34+00:00",
+    "slug": "31970-pipsqueak-hears-echoes",
+    "source": "pratham-books",
+    "title": "Pipsqueak Hears Echoes"
+  },
+  {
+    "created": "2018-12-26T22:23:53+00:00",
+    "slug": "31958-the-drawing-game",
+    "source": "pratham-books",
+    "title": "The Drawing Game"
+  },
+  {
+    "created": "2019-03-01T17:14:25+00:00",
+    "slug": "31874-who-s-on-divya-s-map",
+    "source": "pratham-books",
+    "title": "Who's on Divya's Map?"
+  },
+  {
+    "created": "2018-12-26T22:24:04+00:00",
+    "slug": "32055-where-is-nandini",
+    "source": "pratham-books",
+    "title": "Where Is Nandini?"
+  },
+  {
+    "created": "2018-12-26T22:25:24+00:00",
+    "slug": "31922-why-are-bubbles-round",
+    "source": "pratham-books",
+    "title": "Why Are Bubbles Round?"
+  },
+  {
+    "created": "2018-12-26T22:28:52+00:00",
+    "slug": "31624-everything-is-ups-de-down",
+    "source": "pratham-books",
+    "title": "Everything Is Ups!de Down"
+  },
+  {
+    "created": "2018-12-26T22:15:49+00:00",
+    "slug": "32723-the-bone-puzzle",
+    "source": "pratham-books",
+    "title": "The Bone Puzzle"
+  },
+  {
+    "created": "2019-04-30T15:11:24+00:00",
+    "slug": "32247-my-aaji-has-a-tail",
+    "source": "pratham-books",
+    "title": "My Aaji Has a Tail"
+  },
+  {
+    "created": "2018-12-26T22:49:43+00:00",
+    "slug": "29549-fly-in-space",
+    "source": "pratham-books",
+    "title": "Fly in Space"
+  },
+  {
+    "created": "2018-12-26T22:27:59+00:00",
+    "slug": "31733-absent-minded-ajja",
+    "source": "pratham-books",
+    "title": "Absent-Minded Ajja"
+  },
+  {
+    "created": "2018-12-26T22:46:33+00:00",
+    "slug": "29919-teaching-pa",
+    "source": "pratham-books",
+    "title": "Teaching Pa"
+  },
+  {
+    "created": "2018-12-26T22:58:29+00:00",
+    "slug": "28736-maths-at-the-mela",
+    "source": "pratham-books",
+    "title": "Maths at the Mela"
+  },
+  {
+    "created": "2018-12-26T22:58:24+00:00",
+    "slug": "28960-the-grand-patch-up",
+    "source": "pratham-books",
+    "title": "The Grand Patch-Up"
+  },
+  {
+    "created": "2018-12-26T23:57:17+00:00",
+    "slug": "25462-3-2-1-blast-off",
+    "source": "pratham-books",
+    "title": "3... 2... 1... Blast-Off!"
+  },
+  {
+    "created": "2019-04-30T14:55:14+00:00",
+    "slug": "27450-my-city-my-dogs",
+    "source": "pratham-books",
+    "title": "My City, My Dogs"
+  },
+  {
+    "created": "2018-12-26T23:07:01+00:00",
+    "slug": "28121-look-up",
+    "source": "pratham-books",
+    "title": "Look Up!"
+  },
+  {
+    "created": "2018-12-26T22:58:47+00:00",
+    "slug": "28890-mukhil-s-bloody-adventure",
+    "source": "pratham-books",
+    "title": "Mukhil's Bloody Adventure"
+  },
+  {
+    "created": "2019-04-30T15:06:13+00:00",
+    "slug": "29761-the-pottering-pig",
+    "source": "pratham-books",
+    "title": "The Pottering Pig"
+  },
+  {
+    "created": "2018-12-26T22:51:41+00:00",
+    "slug": "29454-tara-s-treetop-adventure",
+    "source": "pratham-books",
+    "title": "Tara's Treetop Adventure"
+  },
+  {
+    "created": "2018-12-26T23:05:09+00:00",
+    "slug": "28266-how-heavy-is-heavy",
+    "source": "pratham-books",
+    "title": "How Heavy Is Heavy?"
+  },
+  {
+    "created": "2018-12-26T22:57:06+00:00",
+    "slug": "28951-amma-there-is-a-bat-in-my-sambar",
+    "source": "pratham-books",
+    "title": "Amma, There Is a Bat in My Sambar!"
+  },
+  {
+    "created": "2018-12-26T23:04:24+00:00",
+    "slug": "28270-anna-s-extraordinary-experiments-with-weather",
+    "source": "pratham-books",
+    "title": "Anna's Extraordinary Experiments With Weather"
+  },
+  {
+    "created": "2018-12-26T23:43:51+00:00",
+    "slug": "26021-where-do-my-thoughts-go",
+    "source": "pratham-books",
+    "title": "Where Do My Thoughts Go?"
+  },
+  {
+    "created": "2018-12-26T23:06:19+00:00",
+    "slug": "28158-the-koel-with-the-sore-throat",
+    "source": "pratham-books",
+    "title": "The Koel With the Sore Throat"
+  },
+  {
+    "created": "2018-12-26T23:23:03+00:00",
+    "slug": "27124-lazy-mama",
+    "source": "pratham-books",
+    "title": "Lazy Mama"
+  },
+  {
+    "created": "2018-12-26T23:29:44+00:00",
+    "slug": "26727-welcome-to-the-forest",
+    "source": "pratham-books",
+    "title": "Welcome to the Forest"
+  },
+  {
+    "created": "2018-12-26T23:10:10+00:00",
+    "slug": "27939-rainbow-sambar",
+    "source": "pratham-books",
+    "title": "Rainbow Sambar"
+  },
+  {
+    "created": "2018-12-26T23:10:25+00:00",
+    "slug": "27877-a-friend-for-little-goat",
+    "source": "pratham-books",
+    "title": "A Friend for Little Goat"
+  },
+  {
+    "created": "2019-04-30T14:51:41+00:00",
+    "slug": "26690-miss-laya-s-fantastic-motorbike-does-not-like-fruits",
+    "source": "pratham-books",
+    "title": "Miss Laya's Fantastic Motorbike Does Not Like Fruits!"
+  },
+  {
+    "created": "2018-12-26T23:29:43+00:00",
+    "slug": "26774-what-s-cooking",
+    "source": "pratham-books",
+    "title": "What's Cooking?"
+  },
+  {
+    "created": "2019-04-30T14:49:52+00:00",
+    "slug": "26048-where-am-i",
+    "source": "pratham-books",
+    "title": "Where Am I?"
+  },
+  {
+    "created": "2019-04-30T14:55:59+00:00",
+    "slug": "27388-an-umbrella-for-druvi",
+    "source": "pratham-books",
+    "title": "An Umbrella for Druvi"
+  },
+  {
+    "created": "2018-12-26T23:19:02+00:00",
+    "slug": "27451-plop-falls-the-mango",
+    "source": "pratham-books",
+    "title": "PLOP Falls the Mango"
+  },
+  {
+    "created": "2018-12-26T23:23:08+00:00",
+    "slug": "27121-when-will-amma-be-back",
+    "source": "pratham-books",
+    "title": "When Will Amma Be Back?"
+  },
+  {
+    "created": "2018-12-26T23:25:11+00:00",
+    "slug": "26976-the-very-shocking-report-card",
+    "source": "pratham-books",
+    "title": "The Very Shocking Report Card"
+  },
+  {
+    "created": "2019-04-30T14:51:28+00:00",
+    "slug": "26684-miss-laya-s-fantastic-motorbike-carries-a-big-box",
+    "source": "pratham-books",
+    "title": "Miss Laya's Fantastic Motorbike Carries a Big Box"
+  },
+  {
+    "created": "2018-12-26T23:31:59+00:00",
+    "slug": "26650-the-magic-block",
+    "source": "pratham-books",
+    "title": "The Magic Block"
+  },
+  {
+    "created": "2018-12-26T23:35:00+00:00",
+    "slug": "26576-unni-s-wish",
+    "source": "pratham-books",
+    "title": "Unni's Wish"
+  },
+  {
+    "created": "2018-12-26T23:29:24+00:00",
+    "slug": "26810-the-little-bird-in-the-big-mountains",
+    "source": "pratham-books",
+    "title": "The Little Bird in the Big Mountains"
+  },
+  {
+    "created": "2018-12-26T23:37:10+00:00",
+    "slug": "26371-best-foot-forward",
+    "source": "pratham-books",
+    "title": "Best Foot Forward"
+  },
+  {
+    "created": "2018-12-26T23:30:13+00:00",
+    "slug": "26702-the-very-wiggly-tooth",
+    "source": "pratham-books",
+    "title": "The Very Wiggly Tooth"
+  },
+  {
+    "created": "2018-12-26T23:30:58+00:00",
+    "slug": "26725-laundry-day",
+    "source": "pratham-books",
+    "title": "Laundry Day"
+  },
+  {
+    "created": "2018-12-26T23:49:03+00:00",
+    "slug": "25805-miss-laya-s-fantastic-motorbike-is-hungry",
+    "source": "pratham-books",
+    "title": "Miss Laya's Fantastic Motorbike Is Hungry!"
+  },
+  {
+    "created": "2018-12-26T23:40:09+00:00",
+    "slug": "26210-my-tree-friend",
+    "source": "pratham-books",
+    "title": "My Tree-Friend"
+  },
+  {
+    "created": "2018-12-26T23:37:22+00:00",
+    "slug": "26391-goby-s-noisy-best-friend",
+    "source": "pratham-books",
+    "title": "Goby's Noisy Best Friend"
+  },
+  {
+    "created": "2018-12-26T23:44:53+00:00",
+    "slug": "25932-stick-your-tongue-out",
+    "source": "pratham-books",
+    "title": "Stick Your Tongue Out!"
+  },
+  {
+    "created": "2019-04-30T14:35:07+00:00",
+    "slug": "25136-miss-laya-starts-her-fantastic-motorbike",
+    "source": "pratham-books",
+    "title": "Miss Laya Starts Her Fantastic Motorbike"
+  },
+  {
+    "created": "2018-12-26T23:45:04+00:00",
+    "slug": "25922-what-s-ameena-up-to",
+    "source": "pratham-books",
+    "title": "What's Ameena up To?"
+  },
+  {
+    "created": "2019-04-30T13:07:51+00:00",
+    "slug": "24754-dipa-karmakar-in-perfect-balance",
+    "source": "pratham-books",
+    "title": "Dipa Karmakar - in Perfect Balance"
+  },
+  {
+    "created": "2019-04-30T14:47:11+00:00",
+    "slug": "25847-the-little-red-string",
+    "source": "pratham-books",
+    "title": "The Little Red String"
+  },
+  {
+    "created": "2019-04-30T14:40:36+00:00",
+    "slug": "25699-gurru-and-peechu-s-day-out",
+    "source": "pratham-books",
+    "title": "Gurru and Peechu's Day Out"
+  },
+  {
+    "created": "2019-04-30T14:41:31+00:00",
+    "slug": "25707-spider-spider",
+    "source": "pratham-books",
+    "title": "Spider, Spider"
+  },
+  {
+    "created": "2018-12-26T23:58:14+00:00",
+    "slug": "25395-chiu-s-power",
+    "source": "pratham-books",
+    "title": "Chiu's Power"
+  },
+  {
+    "created": "2019-04-30T14:36:33+00:00",
+    "slug": "25146-janice-goes-to-chinatown",
+    "source": "pratham-books",
+    "title": "Janice Goes to Chinatown"
+  },
+  {
+    "created": "2019-04-30T13:10:52+00:00",
+    "slug": "24769-keya-s-day-at-the-beach",
+    "source": "pratham-books",
+    "title": "Keya's Day at the Beach"
+  },
+  {
+    "created": "2018-12-27T00:06:08+00:00",
+    "slug": "24828-scratch-scratch-scratch",
+    "source": "pratham-books",
+    "title": "Scratch! Scratch! Scratch!"
+  },
+  {
+    "created": "2019-04-30T12:47:09+00:00",
+    "slug": "24620-a-book-for-puchku",
+    "source": "pratham-books",
+    "title": "A Book for Puchku"
+  },
+  {
+    "created": "2018-12-27T00:16:40+00:00",
+    "slug": "24046-the-rainbow-fish",
+    "source": "pratham-books",
+    "title": "The Rainbow Fish"
+  },
+  {
+    "created": "2019-04-30T12:28:21+00:00",
+    "slug": "24189-farida-plans-a-feast",
+    "source": "pratham-books",
+    "title": "Farida Plans a Feast"
+  },
+  {
+    "created": "2018-12-27T00:14:50+00:00",
+    "slug": "24191-uma-versus-upma",
+    "source": "pratham-books",
+    "title": "Uma Versus Upma"
+  },
+  {
+    "created": "2019-04-30T12:23:26+00:00",
+    "slug": "21616-who-ate-all-that-up",
+    "source": "pratham-books",
+    "title": "Who Ate All That Up?"
+  },
+  {
+    "created": "2019-04-30T12:04:36+00:00",
+    "slug": "19721-you-can-t-find-me",
+    "source": "pratham-books",
+    "title": "You Can't Find Me!"
+  },
+  {
+    "created": "2019-04-30T11:48:28+00:00",
+    "slug": "19716-eyad-s-pigeons",
+    "source": "pratham-books",
+    "title": "Eyad's Pigeons"
+  },
+  {
+    "created": "2019-04-30T15:39:22+00:00",
+    "slug": "19586-who-is-afraid-of-the-rakshas-sweetie-man",
+    "source": "pratham-books",
+    "title": "Who Is Afraid of the Rakshas Sweetie-Man?"
+  },
+  {
+    "created": "2019-04-30T12:24:50+00:00",
+    "slug": "21618-wild-cat-wild-cat",
+    "source": "pratham-books",
+    "title": "Wild Cat! Wild Cat!"
+  },
+  {
+    "created": "2019-04-30T12:26:05+00:00",
+    "slug": "22064-did-you-hear",
+    "source": "pratham-books",
+    "title": "Did You Hear?"
+  },
+  {
+    "created": "2019-04-30T12:22:11+00:00",
+    "slug": "21602-watch-out-the-tiger-is-here",
+    "source": "pratham-books",
+    "title": "Watch Out! the Tiger Is Here!"
+  },
+  {
+    "created": "2018-12-27T02:50:23+00:00",
+    "slug": "18422-the-jackal-s-loss",
+    "source": "pratham-books",
+    "title": "The Jackal’s Loss"
+  },
+  {
+    "created": "2018-12-27T02:57:51+00:00",
+    "slug": "18179-kottavi-raja-and-his-sleepy-kingdom-images-only",
+    "source": "pratham-books",
+    "title": "Kottavi Raja and His Sleepy Kingdom (images Only)"
+  },
+  {
+    "created": "2018-12-27T02:57:16+00:00",
+    "slug": "18182-the-rabbit-s-long-ears",
+    "source": "pratham-books",
+    "title": "The Rabbit’s Long Ears"
+  },
+  {
+    "created": "2018-12-27T02:58:14+00:00",
+    "slug": "18135-the-fox-and-the-lump-of-clay",
+    "source": "pratham-books",
+    "title": "The Fox and the Lump of Clay"
+  },
+  {
+    "created": "2018-12-27T02:59:53+00:00",
+    "slug": "18078-the-koel-s-song",
+    "source": "pratham-books",
+    "title": "The Koel’s Song"
+  },
+  {
+    "created": "2018-12-27T03:09:57+00:00",
+    "slug": "17757-the-elephants-who-liked-to-dance",
+    "source": "pratham-books",
+    "title": "The Elephants Who Liked to Dance"
+  },
+  {
+    "created": "2018-12-27T03:10:30+00:00",
+    "slug": "17745-the-water-seed",
+    "source": "pratham-books",
+    "title": "The Water Seed"
+  },
+  {
+    "created": "2018-12-27T03:14:35+00:00",
+    "slug": "17482-moo-moo-brown-cow-have-you-any-milk",
+    "source": "pratham-books",
+    "title": "Moo Moo Brown Cow, Have You Any Milk?"
+  },
+  {
+    "created": "2018-12-27T03:15:15+00:00",
+    "slug": "17480-ruby-red-rosy-red",
+    "source": "pratham-books",
+    "title": "Ruby Red, Rosy Red"
+  },
+  {
+    "created": "2018-12-27T03:14:37+00:00",
+    "slug": "17478-row-row-row-your-boat",
+    "source": "pratham-books",
+    "title": "Row, Row, Row Your Boat"
+  },
+  {
+    "created": "2018-12-27T03:27:50+00:00",
+    "slug": "16972-the-big-big-matchbox",
+    "source": "pratham-books",
+    "title": "The Big, Big Matchbox"
+  },
+  {
+    "created": "2019-04-25T14:23:41+00:00",
+    "slug": "16921-the-doll-that-bommakka-made",
+    "source": "pratham-books",
+    "title": "The Doll That Bommakka Made"
+  },
+  {
+    "created": "2018-12-27T03:28:10+00:00",
+    "slug": "16939-what-is-it",
+    "source": "pratham-books",
+    "title": "What Is It?"
+  },
+  {
+    "created": "2018-12-27T03:40:03+00:00",
+    "slug": "16100-every-tree-counts",
+    "source": "pratham-books",
+    "title": "Every Tree Counts"
+  },
+  {
+    "created": "2018-12-27T03:45:35+00:00",
+    "slug": "15961-lion-on-the-loose",
+    "source": "pratham-books",
+    "title": "Lion on the Loose"
+  },
+  {
+    "created": "2018-12-27T03:36:56+00:00",
+    "slug": "16411-too-big-too-small",
+    "source": "pratham-books",
+    "title": "Too Big! Too Small!"
+  },
+  {
+    "created": "2018-12-27T03:41:33+00:00",
+    "slug": "16054-kottavi-raja-and-his-sleepy-kingdom",
+    "source": "pratham-books",
+    "title": "Kottavi Raja and His Sleepy Kingdom"
+  },
+  {
+    "created": "2018-12-27T03:43:51+00:00",
+    "slug": "16009-spincy-spider",
+    "source": "pratham-books",
+    "title": "Spincy Spider"
+  },
+  {
+    "created": "2018-12-27T04:00:28+00:00",
+    "slug": "15458-ting-tong",
+    "source": "pratham-books",
+    "title": "Ting Tong"
+  },
+  {
+    "created": "2018-12-27T08:29:55+00:00",
+    "slug": "1106-the-man-who-thought-he-was-smarter-than-his-wife-a-folktale-from-norway",
+    "source": "pratham-books",
+    "title": "The Man Who Thought He Was Smarter Than His Wife: a Folktale From Norway"
+  },
+  {
+    "created": "2018-12-27T04:29:19+00:00",
+    "slug": "14405-kato-clever-and-the-big-trouble",
+    "source": "pratham-books",
+    "title": "Kato Clever and the Big Trouble"
+  },
+  {
+    "created": "2018-12-27T04:29:10+00:00",
+    "slug": "14406-the-greedy-mouse",
+    "source": "pratham-books",
+    "title": "The Greedy Mouse"
+  },
+  {
+    "created": "2018-12-27T04:29:37+00:00",
+    "slug": "14391-tell-me-now-good-for-you",
+    "source": "pratham-books",
+    "title": "Tell Me Now! - 'Good for You'"
+  },
+  {
+    "created": "2018-12-27T04:29:55+00:00",
+    "slug": "14399-tell-me-now-sweet-and-sour",
+    "source": "pratham-books",
+    "title": "Tell Me Now! - 'Sweet and Sour'"
+  },
+  {
+    "created": "2018-12-27T04:29:54+00:00",
+    "slug": "14392-round-and-round-tell-me-now-series",
+    "source": "pratham-books",
+    "title": "Round and Round (Tell Me Now Series)"
+  },
+  {
+    "created": "2018-12-27T04:25:54+00:00",
+    "slug": "14561-a-miaow-and-a-roar",
+    "source": "pratham-books",
+    "title": "A Miaow and a Roar"
+  },
+  {
+    "created": "2018-12-27T08:57:51+00:00",
+    "slug": "646-the-quirquincho-and-the-fox-a-folktale-from-argentina",
+    "source": "pratham-books",
+    "title": "The Quirquincho and the Fox - a Folktale From Argentina"
+  },
+  {
+    "created": "2018-12-27T09:20:07+00:00",
+    "slug": "346-joy",
+    "source": "pratham-books",
+    "title": "Joy"
+  },
+  {
     "created": "2019-04-23T15:45:25+00:00",
     "slug": "66391-catch-a-ride-on-raindrops",
     "source": "pratham-books",
