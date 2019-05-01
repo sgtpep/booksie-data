@@ -1134,6 +1134,279 @@
     "title": "Little Mouse Should"
   },
   {
+    "background": "#737b65",
+    "created": "2018-12-27T09:27:53+00:00",
+    "slug": "258-goodnight-tinku",
+    "source": "pratham-books",
+    "title": "Goodnight, Tinku!"
+  },
+  {
+    "background": "#705e3b",
+    "created": "2018-12-27T09:26:21+00:00",
+    "slug": "254-curly-and-straight",
+    "source": "pratham-books",
+    "title": "Curly and Straight"
+  },
+  {
+    "background": "#aac4c6",
+    "created": "2018-12-27T09:26:11+00:00",
+    "slug": "250-do-and-don-t",
+    "source": "pratham-books",
+    "title": "Do and Don't"
+  },
+  {
+    "background": "#c7b873",
+    "created": "2018-12-27T09:26:50+00:00",
+    "slug": "245-rhino-charge",
+    "source": "pratham-books",
+    "title": "Rhino Charge"
+  },
+  {
+    "background": "#d0bd92",
+    "created": "2019-04-15T14:42:36+00:00",
+    "slug": "240-chhuk-chhuk-chhak",
+    "source": "pratham-books",
+    "title": "Chhuk-Chhuk-Chhak"
+  },
+  {
+    "background": "#888d90",
+    "created": "2018-12-27T09:27:15+00:00",
+    "slug": "234-the-moon-and-the-cap",
+    "source": "pratham-books",
+    "title": "The Moon and the Cap"
+  },
+  {
+    "background": "#9b9a71",
+    "created": "2018-12-27T09:29:17+00:00",
+    "slug": "218-little-painters",
+    "source": "pratham-books",
+    "title": "Little Painters"
+  },
+  {
+    "background": "#c8c7b1",
+    "created": "2018-12-27T09:29:29+00:00",
+    "slug": "212-the-tree",
+    "source": "pratham-books",
+    "title": "The Tree"
+  },
+  {
+    "background": "#a3afb2",
+    "created": "2018-12-27T09:30:00+00:00",
+    "slug": "209-the-timid-train",
+    "source": "pratham-books",
+    "title": "The Timid Train"
+  },
+  {
+    "background": "#b5c4b2",
+    "created": "2018-12-27T09:30:11+00:00",
+    "slug": "207-kaka-and-munni-a-folktale-from-punjab",
+    "source": "pratham-books",
+    "title": "Kaka and Munni: a Folktale From Punjab"
+  },
+  {
+    "background": "#948452",
+    "created": "2018-12-27T09:31:16+00:00",
+    "slug": "196-aaloo-maaloo-kaaloo",
+    "source": "pratham-books",
+    "title": "Aaloo-Maaloo-Kaaloo"
+  },
+  {
+    "background": "#b79d4e",
+    "created": "2018-12-27T09:31:48+00:00",
+    "slug": "188-sister-sister-why-don-t-things-fall-up",
+    "source": "pratham-books",
+    "title": "Sister, Sister, Why Don’t Things Fall Up?"
+  },
+  {
+    "background": "#deba93",
+    "created": "2018-12-27T09:34:24+00:00",
+    "slug": "187-sister-sister-why-is-the-sky-so-blue",
+    "source": "pratham-books",
+    "title": "Sister, Sister Why Is the Sky so Blue?"
+  },
+  {
+    "background": "#708984",
+    "created": "2018-12-27T09:33:59+00:00",
+    "slug": "184-look-at-me",
+    "source": "pratham-books",
+    "title": "Look at Me"
+  },
+  {
+    "background": "#7cc1c0",
+    "created": "2018-12-27T09:32:26+00:00",
+    "slug": "182-sister-sister-where-does-thunder-come-from",
+    "source": "pratham-books",
+    "title": "Sister, Sister, Where Does Thunder Come From?"
+  },
+  {
+    "background": "#746f62",
+    "created": "2018-12-27T09:32:57+00:00",
+    "slug": "173-the-jungle-school",
+    "source": "pratham-books",
+    "title": "The Jungle School"
+  },
+  {
+    "background": "#a4a959",
+    "created": "2019-04-30T14:23:34+00:00",
+    "slug": "169-what-does-anu-see",
+    "source": "pratham-books",
+    "title": "What Does Anu See?"
+  },
+  {
+    "background": "#9bb299",
+    "created": "2018-12-27T09:34:06+00:00",
+    "slug": "160-suraj-and-sher-singh",
+    "source": "pratham-books",
+    "title": "Suraj and Sher Singh"
+  },
+  {
+    "background": "#e77c68",
+    "created": "2019-04-30T12:53:37+00:00",
+    "slug": "149-timmy-and-pepe",
+    "source": "pratham-books",
+    "title": "Timmy and Pepe"
+  },
+  {
+    "background": "#e0d8cf",
+    "created": "2019-04-30T12:46:18+00:00",
+    "slug": "144-going-home",
+    "source": "pratham-books",
+    "title": "Going Home"
+  },
+  {
+    "background": "#9cacb3",
+    "created": "2019-04-30T12:42:16+00:00",
+    "slug": "141-going-to-a-wedding",
+    "source": "pratham-books",
+    "title": "Going to a Wedding"
+  },
+  {
+    "background": "#a49877",
+    "created": "2018-12-27T09:36:36+00:00",
+    "slug": "132-daddy-s-mo",
+    "source": "pratham-books",
+    "title": "Daddy's Mo"
+  },
+  {
+    "background": "#9a9087",
+    "created": "2018-12-27T09:36:30+00:00",
+    "slug": "127-the-missing-bat",
+    "source": "pratham-books",
+    "title": "The Missing Bat"
+  },
+  {
+    "background": "#c3bfb0",
+    "created": "2018-12-27T09:36:49+00:00",
+    "slug": "122-no-smiles-today",
+    "source": "pratham-books",
+    "title": "No Smiles Today"
+  },
+  {
+    "background": "#c1c9c6",
+    "created": "2019-04-30T12:17:37+00:00",
+    "slug": "111-little-by-little",
+    "source": "pratham-books",
+    "title": "Little by Little"
+  },
+  {
+    "background": "#c7c2a9",
+    "created": "2018-12-27T09:38:15+00:00",
+    "slug": "98-rani-s-first-day-at-school",
+    "source": "pratham-books",
+    "title": "Rani's First Day at School"
+  },
+  {
+    "background": "#8ca559",
+    "created": "2018-12-27T09:39:11+00:00",
+    "slug": "89-peacocks-and-pakodas",
+    "source": "pratham-books",
+    "title": "Peacocks and Pakodas!"
+  },
+  {
+    "background": "#6785b6",
+    "created": "2018-12-27T09:39:07+00:00",
+    "slug": "88-kheer-on-a-full-moon-night",
+    "source": "pratham-books",
+    "title": "Kheer on a Full Moon Night"
+  },
+  {
+    "background": "#d2ac82",
+    "created": "2018-12-27T09:39:33+00:00",
+    "slug": "86-hot-tea-and-warm-rugs",
+    "source": "pratham-books",
+    "title": "Hot Tea and Warm Rugs"
+  },
+  {
+    "background": "#c5c5a7",
+    "created": "2018-12-27T09:39:37+00:00",
+    "slug": "80-aunty-jui-s-baby",
+    "source": "pratham-books",
+    "title": "Aunty Jui's Baby"
+  },
+  {
+    "background": "#a6b332",
+    "created": "2018-12-27T09:40:14+00:00",
+    "slug": "71-everything-looks-new",
+    "source": "pratham-books",
+    "title": "Everything Looks New!"
+  },
+  {
+    "background": "#fad04b",
+    "created": "2018-12-27T09:40:52+00:00",
+    "slug": "67-sister-sister-where-does-the-sun-go-at-night",
+    "source": "pratham-books",
+    "title": "Sister, Sister, Where Does the Sun Go at Night?"
+  },
+  {
+    "background": "#1f1f1f",
+    "created": "2018-12-27T09:41:12+00:00",
+    "slug": "61-pehelwaan-ji",
+    "source": "pratham-books",
+    "title": "Pehelwaan Ji"
+  },
+  {
+    "background": "#79a9a2",
+    "created": "2018-12-27T09:41:46+00:00",
+    "slug": "54-susheela-s-kolams",
+    "source": "pratham-books",
+    "title": "Susheela's Kolams"
+  },
+  {
+    "background": "#67b5b4",
+    "created": "2018-12-27T09:42:15+00:00",
+    "slug": "49-my-fish-no-my-fish",
+    "source": "pratham-books",
+    "title": "My Fish! No, My Fish!"
+  },
+  {
+    "background": "#c6a8ae",
+    "created": "2019-04-30T11:23:54+00:00",
+    "slug": "40-listen-to-my-body",
+    "source": "pratham-books",
+    "title": "Listen to My Body"
+  },
+  {
+    "background": "#a3c488",
+    "created": "2018-12-27T09:44:57+00:00",
+    "slug": "16-vayu-the-wind",
+    "source": "pratham-books",
+    "title": "Vayu, the Wind"
+  },
+  {
+    "background": "#e7cb8e",
+    "created": "2018-12-27T09:44:52+00:00",
+    "slug": "7-fat-king-thin-dog",
+    "source": "pratham-books",
+    "title": "Fat King Thin Dog"
+  },
+  {
+    "background": "#b2b17c",
+    "created": "2018-12-27T09:45:51+00:00",
+    "slug": "2-smile-please",
+    "source": "pratham-books",
+    "title": "Smile Please!"
+  },
+  {
     "background": "#8d7d75",
     "created": "2018-12-27T08:36:44+00:00",
     "slug": "981-wailers-three-a-folktale-from-china",
