@@ -1,5 +1,305 @@
 [
   {
+    "created": "2018-12-27T08:36:44+00:00",
+    "slug": "981-wailers-three-a-folktale-from-china",
+    "source": "pratham-books",
+    "title": "Wailers Three - a Folktale From China"
+  },
+  {
+    "created": "2018-12-27T08:37:52+00:00",
+    "slug": "968-i-can-help",
+    "source": "pratham-books",
+    "title": "I Can Help!"
+  },
+  {
+    "created": "2018-12-27T08:39:24+00:00",
+    "slug": "959-i-am-not-afraid",
+    "source": "pratham-books",
+    "title": "I Am Not Afraid!"
+  },
+  {
+    "created": "2018-12-27T08:38:22+00:00",
+    "slug": "957-topsy-turvy",
+    "source": "pratham-books",
+    "title": "Topsy Turvy"
+  },
+  {
+    "created": "2018-12-27T08:39:01+00:00",
+    "slug": "952-phani-s-funny-chappals",
+    "source": "pratham-books",
+    "title": "Phani's Funny Chappals"
+  },
+  {
+    "created": "2018-12-27T08:39:38+00:00",
+    "slug": "946-too-much-noise",
+    "source": "pratham-books",
+    "title": "Too Much Noise"
+  },
+  {
+    "created": "2018-12-27T08:40:03+00:00",
+    "slug": "944-smart-sona-helps-her-mother",
+    "source": "pratham-books",
+    "title": "Smart Sona Helps Her Mother"
+  },
+  {
+    "created": "2018-12-27T08:43:37+00:00",
+    "slug": "927-the-royal-toothache",
+    "source": "pratham-books",
+    "title": "The Royal Toothache"
+  },
+  {
+    "created": "2018-12-27T08:41:42+00:00",
+    "slug": "921-samira-s-awful-lunch",
+    "source": "pratham-books",
+    "title": "Samira's Awful Lunch"
+  },
+  {
+    "created": "2018-12-27T08:42:20+00:00",
+    "slug": "876-mouse-in-the-house",
+    "source": "pratham-books",
+    "title": "Mouse in the House"
+  },
+  {
+    "created": "2018-12-27T08:43:59+00:00",
+    "slug": "859-i-can-make-things",
+    "source": "pratham-books",
+    "title": "I Can Make Things!"
+  },
+  {
+    "created": "2018-12-27T08:44:45+00:00",
+    "slug": "847-rumniya",
+    "source": "pratham-books",
+    "title": "Rumniya"
+  },
+  {
+    "created": "2018-12-27T08:45:24+00:00",
+    "slug": "839-flying-high",
+    "source": "pratham-books",
+    "title": "Flying High"
+  },
+  {
+    "created": "2018-12-27T08:46:23+00:00",
+    "slug": "822-i-can-climb",
+    "source": "pratham-books",
+    "title": "I Can Climb!"
+  },
+  {
+    "created": "2018-12-27T08:46:34+00:00",
+    "slug": "821-here-comes-the-camel-and-other-poems",
+    "source": "pratham-books",
+    "title": "Here Comes the Camel and Other Poems"
+  },
+  {
+    "created": "2018-12-27T08:48:43+00:00",
+    "slug": "790-sniffles-the-crocodile-and-punch-the-butterfly",
+    "source": "pratham-books",
+    "title": "Sniffles, the Crocodile and Punch, the Butterfly"
+  },
+  {
+    "created": "2018-12-27T08:48:41+00:00",
+    "slug": "776-samira-goes-shopping",
+    "source": "pratham-books",
+    "title": "Samira Goes Shopping"
+  },
+  {
+    "created": "2018-12-27T08:49:10+00:00",
+    "slug": "768-shobhini-and-nani",
+    "source": "pratham-books",
+    "title": "Shobhini and Nani"
+  },
+  {
+    "created": "2018-12-27T08:50:17+00:00",
+    "slug": "758-going-to-buy-a-book",
+    "source": "pratham-books",
+    "title": "Going to Buy a Book"
+  },
+  {
+    "created": "2018-12-27T08:51:16+00:00",
+    "slug": "749-the-sparrow-and-the-fruit",
+    "source": "pratham-books",
+    "title": "The Sparrow and the Fruit"
+  },
+  {
+    "created": "2018-12-27T08:52:18+00:00",
+    "slug": "723-the-boat-ride",
+    "source": "pratham-books",
+    "title": "The Boat Ride"
+  },
+  {
+    "created": "2018-12-27T08:52:49+00:00",
+    "slug": "705-the-magic-powder-a-folktale-from-myanmar",
+    "source": "pratham-books",
+    "title": "The Magic Powder - a Folktale From Myanmar"
+  },
+  {
+    "created": "2018-12-27T08:53:31+00:00",
+    "slug": "702-the-flyaway-cradle",
+    "source": "pratham-books",
+    "title": "The Flyaway Cradle"
+  },
+  {
+    "created": "2018-12-27T08:54:14+00:00",
+    "slug": "696-rain-rain",
+    "source": "pratham-books",
+    "title": "Rain, Rain"
+  },
+  {
+    "created": "2018-12-27T08:56:20+00:00",
+    "slug": "691-grandpa-fish-and-the-radio",
+    "source": "pratham-books",
+    "title": "Grandpa Fish and the Radio"
+  },
+  {
+    "created": "2018-12-27T08:55:25+00:00",
+    "slug": "684-when-amma-went-to-school",
+    "source": "pratham-books",
+    "title": "When Amma Went to School"
+  },
+  {
+    "created": "2018-12-27T08:57:15+00:00",
+    "slug": "678-the-day-the-vegetables-came-to-school",
+    "source": "pratham-books",
+    "title": "The Day the Vegetables Came to School"
+  },
+  {
+    "created": "2018-12-27T08:58:23+00:00",
+    "slug": "664-three-for-free-a-folktale-from-taiwan",
+    "source": "pratham-books",
+    "title": "Three for Free - a Folktale From Taiwan"
+  },
+  {
+    "created": "2018-12-27T08:58:12+00:00",
+    "slug": "660-the-woodcutter-of-gura-a-folktale-from-ethiopia",
+    "source": "pratham-books",
+    "title": "The Woodcutter of Gura - a Folktale From Ethiopia"
+  },
+  {
+    "created": "2018-12-27T08:57:36+00:00",
+    "slug": "652-the-generous-crow",
+    "source": "pratham-books",
+    "title": "The Generous Crow"
+  },
+  {
+    "created": "2018-12-27T08:59:38+00:00",
+    "slug": "633-cheenu-s-gift",
+    "source": "pratham-books",
+    "title": "Cheenu's Gift"
+  },
+  {
+    "created": "2018-12-27T08:59:16+00:00",
+    "slug": "628-paplu-the-giant",
+    "source": "pratham-books",
+    "title": "Paplu, the Giant"
+  },
+  {
+    "created": "2018-12-27T09:08:19+00:00",
+    "slug": "486-gulli-s-box-of-things",
+    "source": "pratham-books",
+    "title": "Gulli's Box of Things"
+  },
+  {
+    "created": "2018-12-27T09:09:07+00:00",
+    "slug": "470-naughty-or-not-tell-me-now-series",
+    "source": "pratham-books",
+    "title": "Naughty or Not (Tell Me Now Series)"
+  },
+  {
+    "created": "2018-12-27T09:10:00+00:00",
+    "slug": "462-colours-tell-me-now-series",
+    "source": "pratham-books",
+    "title": "Colours (Tell Me Now Series)"
+  },
+  {
+    "created": "2018-12-27T09:10:03+00:00",
+    "slug": "453-happy-and-sad-tell-me-now-series",
+    "source": "pratham-books",
+    "title": "Happy and Sad (Tell Me Now Series)"
+  },
+  {
+    "created": "2018-12-27T09:14:08+00:00",
+    "slug": "409-colours-of-nature",
+    "source": "pratham-books",
+    "title": "Colours of Nature"
+  },
+  {
+    "created": "2018-12-27T09:15:39+00:00",
+    "slug": "396-bani",
+    "source": "pratham-books",
+    "title": "Bani"
+  },
+  {
+    "created": "2018-12-27T09:17:25+00:00",
+    "slug": "376-my-friends",
+    "source": "pratham-books",
+    "title": "My Friends"
+  },
+  {
+    "created": "2018-12-27T09:17:30+00:00",
+    "slug": "375-playtime",
+    "source": "pratham-books",
+    "title": "Playtime"
+  },
+  {
+    "created": "2018-12-27T09:17:53+00:00",
+    "slug": "369-the-red-raincoat",
+    "source": "pratham-books",
+    "title": "The Red Raincoat"
+  },
+  {
+    "created": "2018-12-27T09:19:46+00:00",
+    "slug": "356-lost-and-found",
+    "source": "pratham-books",
+    "title": "Lost and Found"
+  },
+  {
+    "created": "2018-12-27T09:19:34+00:00",
+    "slug": "355-my-car",
+    "source": "pratham-books",
+    "title": "My Car"
+  },
+  {
+    "created": "2018-12-27T09:21:21+00:00",
+    "slug": "332-bheema-the-sleepyhead",
+    "source": "pratham-books",
+    "title": "Bheema, the Sleepyhead"
+  },
+  {
+    "created": "2018-12-27T09:23:11+00:00",
+    "slug": "296-lassi-ice-cream-or-falooda",
+    "source": "pratham-books",
+    "title": "Lassi, Ice-Cream or Falooda?"
+  },
+  {
+    "created": "2018-12-27T09:23:47+00:00",
+    "slug": "288-my-home",
+    "source": "pratham-books",
+    "title": "My Home"
+  },
+  {
+    "created": "2018-12-27T09:24:12+00:00",
+    "slug": "283-annual-haircut-day",
+    "source": "pratham-books",
+    "title": "Annual Haircut Day"
+  },
+  {
+    "created": "2018-12-27T09:24:08+00:00",
+    "slug": "276-this-and-that",
+    "source": "pratham-books",
+    "title": "This and That"
+  },
+  {
+    "created": "2018-12-27T09:25:30+00:00",
+    "slug": "270-ritu-s-letter-gets-longer",
+    "source": "pratham-books",
+    "title": "Ritu's Letter Gets Longer!"
+  },
+  {
+    "created": "2018-12-27T09:25:12+00:00",
+    "slug": "269-my-balwadi",
+    "source": "pratham-books",
+    "title": "My Balwadi"
+  },
+  {
     "created": "2018-12-27T09:32:28+00:00",
     "slug": "191-what-shall-i-wear-today",
     "source": "pratham-books",
