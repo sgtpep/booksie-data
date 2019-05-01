@@ -1,809 +1,944 @@
 [
   {
+    "background": "#c7b794",
     "created": "2019-04-08T12:32:07+00:00",
     "slug": "59434-chaku-s-cycle",
     "source": "room-to-read",
     "title": "Chaku's Cycle"
   },
   {
+    "background": "#c9d7bd",
     "created": "2019-04-06T04:49:01+00:00",
     "slug": "39753-rabbit-becomes-a-chef",
     "source": "room-to-read",
     "title": "Rabbit Becomes a Chef"
   },
   {
+    "background": "#9c816e",
     "created": "2019-03-26T16:37:57+00:00",
     "slug": "58640-chameli-s-sparkle",
     "source": "room-to-read",
     "title": "Chameli's Sparkle"
   },
   {
+    "background": "#c38891",
     "created": "2019-03-26T15:26:26+00:00",
     "slug": "41321-who-will-win",
     "source": "room-to-read",
     "title": "Who Will Win?"
   },
   {
+    "background": "#d9ab6c",
     "created": "2019-03-26T15:20:29+00:00",
     "slug": "41197-puppy-hears-a-noise",
     "source": "room-to-read",
     "title": "Puppy Hears a Noise"
   },
   {
+    "background": "#6c6b43",
     "created": "2019-03-25T17:02:10+00:00",
     "slug": "48151-cuckoo-wants-to-sing",
     "source": "room-to-read",
     "title": "Cuckoo Wants to Sing"
   },
   {
+    "background": "#63c0a9",
     "created": "2019-03-22T10:10:34+00:00",
     "slug": "38915-the-green-lizard-and-the-gecko",
     "source": "room-to-read",
     "title": "The Green Lizard and the Gecko"
   },
   {
+    "background": "#a7888a",
     "created": "2019-03-20T10:02:23+00:00",
     "slug": "47812-bhujar",
     "source": "room-to-read",
     "title": "Bhujar"
   },
   {
+    "background": "#c0d6e9",
     "created": "2019-03-18T16:17:18+00:00",
     "slug": "45833-tina-and-the-stars",
     "source": "room-to-read",
     "title": "Tina and the Stars"
   },
   {
+    "background": "#c4bd9f",
     "created": "2019-03-18T16:15:27+00:00",
     "slug": "45831-mr-maseleni",
     "source": "room-to-read",
     "title": "Mr. Maseleni"
   },
   {
+    "background": "#d6d5c0",
     "created": "2019-03-18T14:20:06+00:00",
     "slug": "45620-my-first-day-at-school",
     "source": "room-to-read",
     "title": "My First Day at School"
   },
   {
+    "background": "#d7ac84",
     "created": "2019-03-13T15:44:16+00:00",
     "slug": "43877-our-holidays",
     "source": "room-to-read",
     "title": "Our Holidays"
   },
   {
+    "background": "#abae9c",
     "created": "2019-03-13T15:26:57+00:00",
     "slug": "47561-chunu-munu-our-school",
     "source": "room-to-read",
     "title": "Chunu & Munu: Our School"
   },
   {
+    "background": "#cfccaf",
     "created": "2019-03-13T15:24:41+00:00",
     "slug": "43528-munni-the-lamb",
     "source": "room-to-read",
     "title": "Munni, the Lamb"
   },
   {
+    "background": "#8c937f",
     "created": "2019-03-13T15:22:26+00:00",
     "slug": "43364-chunu-and-munu-read",
     "source": "room-to-read",
     "title": "Chunu and Munu Read"
   },
   {
+    "background": "#ccd2bd",
     "created": "2019-03-13T14:43:11+00:00",
     "slug": "43836-chunu-munu-let-us-play-now",
     "source": "room-to-read",
     "title": "Chunu & Munu: Let Us Play Now"
   },
   {
+    "background": "#ced0cc",
     "created": "2019-03-13T14:38:23+00:00",
     "slug": "43229-chunu-munu-it-s-freezing",
     "source": "room-to-read",
     "title": "Chunu & Munu: It's Freezing!"
   },
   {
+    "background": "#e1d0a4",
     "created": "2019-03-13T14:23:21+00:00",
     "slug": "42645-clever-rabbit",
     "source": "room-to-read",
     "title": "Clever Rabbit"
   },
   {
+    "background": "#b2d4cb",
     "created": "2019-03-13T14:19:58+00:00",
     "slug": "42671-the-peacock-who-wished-to-fly",
     "source": "room-to-read",
     "title": "The Peacock Who Wished to Fly"
   },
   {
+    "background": "#b5beaf",
     "created": "2019-03-13T14:18:16+00:00",
     "slug": "42738-how-the-tortoise-built-her-house",
     "source": "room-to-read",
     "title": "How the Tortoise Built Her House"
   },
   {
+    "background": "#c9b79c",
     "created": "2019-03-13T14:16:26+00:00",
     "slug": "42741-the-adventures-of-mboza-and-her-rooster",
     "source": "room-to-read",
     "title": "The Adventures of Mboza and Her Rooster"
   },
   {
+    "background": "#bdaf9f",
     "created": "2019-03-13T13:56:07+00:00",
     "slug": "42756-neema-s-birthday",
     "source": "room-to-read",
     "title": "Neema's Birthday"
   },
   {
+    "background": "#f4f2f1",
     "created": "2019-03-13T13:53:52+00:00",
     "slug": "42989-who-is-faster",
     "source": "room-to-read",
     "title": "Who Is Faster?"
   },
   {
+    "background": "#eee3bc",
     "created": "2019-03-13T13:43:17+00:00",
     "slug": "41343-where-is-my-pet",
     "source": "room-to-read",
     "title": "Where Is My Pet?"
   },
   {
+    "background": "#85a37d",
     "created": "2019-03-13T13:41:38+00:00",
     "slug": "41327-miss-goat-s-house",
     "source": "room-to-read",
     "title": "Miss Goat's House"
   },
   {
+    "background": "#cbcbd2",
     "created": "2019-03-13T13:03:00+00:00",
     "slug": "42291-now-i-ve-got-you",
     "source": "room-to-read",
     "title": "Now I've Got You!"
   },
   {
+    "background": "#d0beb0",
     "created": "2019-03-12T16:03:23+00:00",
     "slug": "38367-the-magic-mirror",
     "source": "room-to-read",
     "title": "The Magic Mirror"
   },
   {
+    "background": "#e7c79a",
     "created": "2019-03-12T15:59:15+00:00",
     "slug": "38073-plek-plok-the-lucky-little-fish",
     "source": "room-to-read",
     "title": "Plek Plok, the Lucky Little Fish"
   },
   {
+    "background": "#4ba0aa",
     "created": "2019-03-12T15:55:13+00:00",
     "slug": "37232-the-bee-and-the-elephant",
     "source": "room-to-read",
     "title": "The Bee and the Elephant"
   },
   {
+    "background": "#c2dede",
     "created": "2019-03-12T15:50:46+00:00",
     "slug": "37233-piggy-wants-to-fly",
     "source": "room-to-read",
     "title": "Piggy Wants to Fly"
   },
   {
+    "background": "#cddceb",
     "created": "2019-03-12T15:47:42+00:00",
     "slug": "37236-the-bees",
     "source": "room-to-read",
     "title": "The Bees"
   },
   {
+    "background": "#9e7a3e",
     "created": "2019-03-12T15:43:24+00:00",
     "slug": "37237-little-monkey-s-lost-bananas",
     "source": "room-to-read",
     "title": "Little Monkey's Lost Bananas"
   },
   {
+    "background": "#b1622c",
     "created": "2019-03-12T15:36:57+00:00",
     "slug": "37230-tall-and-short",
     "source": "room-to-read",
     "title": "Tall and Short"
   },
   {
+    "background": "#a18c6c",
     "created": "2019-03-12T15:32:31+00:00",
     "slug": "37279-drawing-my-cat",
     "source": "room-to-read",
     "title": "Drawing My Cat"
   },
   {
+    "background": "#88867f",
     "created": "2019-03-12T14:56:46+00:00",
     "slug": "37274-drivers-in-a-hurry",
     "source": "room-to-read",
     "title": "Drivers in a Hurry"
   },
   {
+    "background": "#caa29f",
     "created": "2019-03-12T14:52:42+00:00",
     "slug": "37272-a-little-monkey-and-a-fish",
     "source": "room-to-read",
     "title": "A Little Monkey and a Fish"
   },
   {
+    "background": "#d5dbdd",
     "created": "2019-03-12T14:42:57+00:00",
     "slug": "37269-what-am-i",
     "source": "room-to-read",
     "title": "What Am I?"
   },
   {
+    "background": "#bfc49e",
     "created": "2019-03-12T12:59:14+00:00",
     "slug": "36678-rat-and-goat",
     "source": "room-to-read",
     "title": "Rat and Goat"
   },
   {
+    "background": "#b6c6bd",
     "created": "2019-03-12T12:55:31+00:00",
     "slug": "36469-colouring-pencils",
     "source": "room-to-read",
     "title": "Colouring Pencils"
   },
   {
+    "background": "#7d9990",
     "created": "2019-03-12T12:31:20+00:00",
     "slug": "36641-the-three-little-kittens",
     "source": "room-to-read",
     "title": "The Three Little Kittens"
   },
   {
+    "background": "#cfc5ae",
     "created": "2019-03-05T14:23:18+00:00",
     "slug": "43554-the-calf-calls",
     "source": "room-to-read",
     "title": "The Calf Calls"
   },
   {
+    "background": "#bbaf49",
     "created": "2019-03-05T14:22:47+00:00",
     "slug": "39721-thambu-s-kite",
     "source": "room-to-read",
     "title": "Thambu's Kite"
   },
   {
+    "background": "#dfd7ae",
     "created": "2019-03-05T14:14:56+00:00",
     "slug": "38637-who-can-fly-without-wings",
     "source": "room-to-read",
     "title": "Who Can Fly Without Wings?"
   },
   {
+    "background": "#a18e65",
     "created": "2019-02-28T12:03:52+00:00",
     "slug": "38666-a-special-nest",
     "source": "room-to-read",
     "title": "A Special Nest"
   },
   {
+    "background": "#b1b1b8",
     "created": "2019-02-27T17:02:47+00:00",
     "slug": "38750-bear-goes-fishing",
     "source": "room-to-read",
     "title": "Bear Goes Fishing!"
   },
   {
+    "background": "#c5897e",
     "created": "2019-02-27T16:58:29+00:00",
     "slug": "37371-reba-wants-ice-cream",
     "source": "room-to-read",
     "title": "Reba Wants Ice Cream"
   },
   {
+    "background": "#cfd5c3",
     "created": "2019-02-27T13:05:10+00:00",
     "slug": "36223-my-cousin-visits-my-village",
     "source": "room-to-read",
     "title": "My Cousin Visits My Village"
   },
   {
+    "background": "#9abdaf",
     "created": "2019-02-25T17:07:19+00:00",
     "slug": "45832-the-hat-seller",
     "source": "room-to-read",
     "title": "The Hat Seller"
   },
   {
+    "background": "#f5eceb",
     "created": "2019-02-25T15:00:26+00:00",
     "slug": "45458-the-soil",
     "source": "room-to-read",
     "title": "The Soil"
   },
   {
+    "background": "#ecf2da",
     "created": "2019-02-25T14:57:13+00:00",
     "slug": "56780-the-lion-and-the-rabbit",
     "source": "room-to-read",
     "title": "The Lion and the Rabbit"
   },
   {
+    "background": "#f9c2a9",
     "created": "2019-02-25T14:26:03+00:00",
     "slug": "45457-gagan-visits-kamal",
     "source": "room-to-read",
     "title": "Gagan Visits Kamal"
   },
   {
+    "background": "#74c3b5",
     "created": "2019-02-25T14:13:44+00:00",
     "slug": "44655-the-conical-hat",
     "source": "room-to-read",
     "title": "The Conical Hat"
   },
   {
+    "background": "#b4d593",
     "created": "2019-02-25T14:12:44+00:00",
     "slug": "44664-whose-house-is-this",
     "source": "room-to-read",
     "title": "Whose House Is This?"
   },
   {
+    "background": "#d1d1c6",
     "created": "2019-02-25T14:10:13+00:00",
     "slug": "43931-my-garden",
     "source": "room-to-read",
     "title": "My Garden"
   },
   {
+    "background": "#89816b",
     "created": "2019-02-25T13:04:10+00:00",
     "slug": "43616-my-ten-friends",
     "source": "room-to-read",
     "title": "My Ten Friends"
   },
   {
+    "background": "#adc9a6",
     "created": "2019-02-25T13:01:09+00:00",
     "slug": "43612-mother-call-that-bird",
     "source": "room-to-read",
     "title": "Mother, Call That Bird!"
   },
   {
+    "background": "#cabea3",
     "created": "2019-02-25T12:59:19+00:00",
     "slug": "43617-our-friends-in-the-wild",
     "source": "room-to-read",
     "title": "Our Friends in the Wild"
   },
   {
+    "background": "#9ec285",
     "created": "2019-02-25T12:52:50+00:00",
     "slug": "43613-in-the-light-of-the-rising-sun",
     "source": "room-to-read",
     "title": "In the Light of the Rising Sun"
   },
   {
+    "background": "#b1b789",
     "created": "2019-02-25T12:50:06+00:00",
     "slug": "43538-garden-of-medicines",
     "source": "room-to-read",
     "title": "Garden of Medicines"
   },
   {
+    "background": "#8c6c9c",
     "created": "2019-02-25T12:46:55+00:00",
     "slug": "43878-chunu-munu-draw",
     "source": "room-to-read",
     "title": "Chunu & Munu: Draw"
   },
   {
+    "background": "#8d948c",
     "created": "2019-02-25T12:44:56+00:00",
     "slug": "43374-chunu-munu-the-corn-is-yummy",
     "source": "room-to-read",
     "title": "Chunu & Munu: the Corn Is Yummy!"
   },
   {
+    "background": "#9dc0a1",
     "created": "2019-02-25T12:41:57+00:00",
     "slug": "43404-the-ladybird",
     "source": "room-to-read",
     "title": "The Ladybird"
   },
   {
+    "background": "#55628a",
     "created": "2019-02-25T12:39:46+00:00",
     "slug": "43360-chunu-munu-let-s-sing-and-dance-for-nature",
     "source": "room-to-read",
     "title": "Chunu & Munu: Let's Sing and Dance for Nature!"
   },
   {
+    "background": "#8a8ca8",
     "created": "2019-02-25T12:29:59+00:00",
     "slug": "45908-mother-hen",
     "source": "room-to-read",
     "title": "Mother Hen"
   },
   {
+    "background": "#a28d6d",
     "created": "2019-02-28T04:35:52+00:00",
     "slug": "43179-the-biggest-pumpkin",
     "source": "room-to-read",
     "title": "The Biggest Pumpkin"
   },
   {
+    "background": "#e6c1c5",
     "created": "2019-02-25T12:22:55+00:00",
     "slug": "42646-black-ant",
     "source": "room-to-read",
     "title": "Black Ant"
   },
   {
+    "background": "#8bba59",
     "created": "2019-02-25T12:21:14+00:00",
     "slug": "45859-the-crown",
     "source": "room-to-read",
     "title": "The Crown"
   },
   {
+    "background": "#367585",
     "created": "2019-02-25T12:18:33+00:00",
     "slug": "42792-kanchha-the-rhino",
     "source": "room-to-read",
     "title": "Kanchha, the Rhino"
   },
   {
+    "background": "#81929a",
     "created": "2019-02-25T12:15:10+00:00",
     "slug": "42777-toothless-charu",
     "source": "room-to-read",
     "title": "Toothless Charu"
   },
   {
+    "background": "#cfd0cc",
     "created": "2019-02-25T12:13:08+00:00",
     "slug": "42863-rama-goes-to-town",
     "source": "room-to-read",
     "title": "Rama Goes to Town"
   },
   {
+    "background": "#ccb9a8",
     "created": "2019-02-25T12:11:53+00:00",
     "slug": "43175-joongedai-s-things",
     "source": "room-to-read",
     "title": "Joongedai's Things"
   },
   {
+    "background": "#a7c1bc",
     "created": "2019-02-25T12:03:23+00:00",
     "slug": "43001-think-before-you-act",
     "source": "room-to-read",
     "title": "Think Before You Act"
   },
   {
+    "background": "#b0bbaf",
     "created": "2019-02-25T12:00:03+00:00",
     "slug": "42299-thembi-and-the-singing-tree",
     "source": "room-to-read",
     "title": "Thembi and the Singing Tree"
   },
   {
+    "background": "#becab6",
     "created": "2019-02-25T11:57:54+00:00",
     "slug": "42293-the-lost-doll",
     "source": "room-to-read",
     "title": "The Lost Doll"
   },
   {
+    "background": "#816e60",
     "created": "2019-02-25T11:56:08+00:00",
     "slug": "41511-lost-in-the-dark",
     "source": "room-to-read",
     "title": "Lost in the Dark"
   },
   {
+    "background": "#b6aca5",
     "created": "2019-02-25T11:53:16+00:00",
     "slug": "41354-billy-to-the-rescue",
     "source": "room-to-read",
     "title": "Billy to the Rescue"
   },
   {
+    "background": "#1e946f",
     "created": "2019-02-25T11:50:52+00:00",
     "slug": "41413-botse-botse-wants-to-get-married",
     "source": "room-to-read",
     "title": "Botse-Botse Wants to Get Married"
   },
   {
+    "background": "#9fb06d",
     "created": "2019-02-25T11:47:16+00:00",
     "slug": "41436-the-green-apple",
     "source": "room-to-read",
     "title": "The Green Apple"
   },
   {
+    "background": "#aba692",
     "created": "2019-02-25T11:45:01+00:00",
     "slug": "41352-ledile-s-red-balloon",
     "source": "room-to-read",
     "title": "Ledile's Red Balloon"
   },
   {
+    "background": "#6c7273",
     "created": "2019-02-24T22:18:27+00:00",
     "slug": "39997-snail-speeds-up",
     "source": "room-to-read",
     "title": "Snail Speeds Up!"
   },
   {
+    "background": "#d4d5af",
     "created": "2019-02-24T22:16:44+00:00",
     "slug": "39996-the-sun-takes-a-bath",
     "source": "room-to-read",
     "title": "The Sun Takes a Bath"
   },
   {
+    "background": "#d2c48e",
     "created": "2019-02-24T22:14:27+00:00",
     "slug": "39832-gundu-fish-and-kutti-fish",
     "source": "room-to-read",
     "title": "Gundu Fish and Kutti Fish"
   },
   {
+    "background": "#d3d5ca",
     "created": "2019-02-24T22:12:31+00:00",
     "slug": "39756-two-mice",
     "source": "room-to-read",
     "title": "Two Mice"
   },
   {
+    "background": "#d67677",
     "created": "2019-02-24T22:10:26+00:00",
     "slug": "39755-pig-leads-the-way",
     "source": "room-to-read",
     "title": "Pig Leads the Way!"
   },
   {
+    "background": "#d0d5ac",
     "created": "2019-02-24T22:08:15+00:00",
     "slug": "39742-nichchumani-helps-out",
     "source": "room-to-read",
     "title": "Nichchumani Helps Out"
   },
   {
+    "background": "#67876d",
     "created": "2019-02-24T22:06:04+00:00",
     "slug": "39835-luvi-s-new-look",
     "source": "room-to-read",
     "title": "Luvi's New Look"
   },
   {
+    "background": "#c6d1bd",
     "created": "2019-02-24T22:03:29+00:00",
     "slug": "39736-the-clever-tortoise",
     "source": "room-to-read",
     "title": "The Clever Tortoise"
   },
   {
+    "background": "#b5c3a4",
     "created": "2019-02-24T21:56:30+00:00",
     "slug": "39728-white-butterfly",
     "source": "room-to-read",
     "title": "White Butterfly"
   },
   {
+    "background": "#4c74b2",
     "created": "2019-02-24T21:52:05+00:00",
     "slug": "39697-the-village-of-five-poles",
     "source": "room-to-read",
     "title": "The Village of Five Poles"
   },
   {
+    "background": "#61cbde",
     "created": "2019-02-24T20:22:59+00:00",
     "slug": "39695-young-or-old",
     "source": "room-to-read",
     "title": "Young or Old?"
   },
   {
+    "background": "#132855",
     "created": "2019-02-24T20:20:54+00:00",
     "slug": "39607-uncle-owl",
     "source": "room-to-read",
     "title": "Uncle Owl"
   },
   {
+    "background": "#a8c8bc",
     "created": "2019-02-24T20:19:33+00:00",
     "slug": "40959-mission-of-the-fish",
     "source": "room-to-read",
     "title": "Mission of the Fish"
   },
   {
+    "background": "#c7c4b1",
     "created": "2019-01-31T14:11:07+00:00",
     "slug": "37277-tin-trong-the-little-bus",
     "source": "room-to-read",
     "title": "Tin Trong, the Little Bus"
   },
   {
+    "background": "#6892a3",
     "created": "2019-01-29T14:50:03+00:00",
     "slug": "56802-frog-s-starry-wish",
     "source": "room-to-read",
     "title": "Frog's Starry Wish"
   },
   {
+    "background": "#b78b7b",
     "created": "2019-03-05T14:25:19+00:00",
     "slug": "43602-sani-the-beautiful-little-girl",
     "source": "room-to-read",
     "title": "Sani, the Beautiful Little Girl"
   },
   {
+    "background": "#ccd5dc",
     "created": "2019-01-11T14:27:14+00:00",
     "slug": "39522-the-blue-fairy",
     "source": "room-to-read",
     "title": "The Blue Fairy"
   },
   {
+    "background": "#c5cfc5",
     "created": "2019-01-11T14:21:14+00:00",
     "slug": "35337-wheel-s-big-problem",
     "source": "room-to-read",
     "title": "Wheel's Big Problem"
   },
   {
+    "background": "#9e9f8e",
     "created": "2019-01-11T14:18:10+00:00",
     "slug": "35249-sharing",
     "source": "room-to-read",
     "title": "Sharing"
   },
   {
+    "background": "#8a948b",
     "created": "2019-01-11T14:08:21+00:00",
     "slug": "35043-bhabho-the-buffalo",
     "source": "room-to-read",
     "title": "Bhabho the Buffalo"
   },
   {
+    "background": "#e2e6d4",
     "created": "2019-01-11T14:03:30+00:00",
     "slug": "36481-colours",
     "source": "room-to-read",
     "title": "Colours"
   },
   {
+    "background": "#8c7874",
     "created": "2019-01-17T15:19:01+00:00",
     "slug": "36312-douangkeo-wants-to-be-a-magician",
     "source": "room-to-read",
     "title": "Douangkeo Wants to Be a Magician"
   },
   {
+    "background": "#d9b094",
     "created": "2019-01-11T13:46:14+00:00",
     "slug": "36470-busy-mother-hen",
     "source": "room-to-read",
     "title": "Busy Mother Hen"
   },
   {
+    "background": "#cbc09a",
     "created": "2019-01-11T13:43:14+00:00",
     "slug": "36311-bountong-s-new-hat",
     "source": "room-to-read",
     "title": "Bountong's New Hat"
   },
   {
+    "background": "#9f9f7b",
     "created": "2019-01-11T13:40:20+00:00",
     "slug": "36484-kham-s-precious-little-lamp",
     "source": "room-to-read",
     "title": "Kham's Precious Little Lamp"
   },
   {
+    "background": "#d9cec4",
     "created": "2019-01-11T13:37:53+00:00",
     "slug": "36490-i-love-my-mom",
     "source": "room-to-read",
     "title": "I Love My Mom"
   },
   {
+    "background": "#7e9485",
     "created": "2019-01-11T13:34:54+00:00",
     "slug": "36491-thipthida-goes-to-school",
     "source": "room-to-read",
     "title": "Thipthida Goes to School"
   },
   {
+    "background": "#a1946d",
     "created": "2019-01-11T13:32:48+00:00",
     "slug": "36201-fishing-in-my-village",
     "source": "room-to-read",
     "title": "Fishing in My Village"
   },
   {
+    "background": "#95b07c",
     "created": "2019-01-24T12:51:48+00:00",
     "slug": "36291-how-many-ways-can-you-use-a-pakhaoma",
     "source": "room-to-read",
     "title": "How Many Ways Can You Use a Pakhaoma?"
   },
   {
+    "background": "#34b0d1",
     "created": "2019-01-11T13:25:19+00:00",
     "slug": "36707-an-adventure-with-a-water-snake",
     "source": "room-to-read",
     "title": "An Adventure With a Water-Snake"
   },
   {
+    "background": "#c2a193",
     "created": "2019-01-11T13:22:17+00:00",
     "slug": "36697-puppy-s-birthday-party",
     "source": "room-to-read",
     "title": "Puppy's Birthday Party"
   },
   {
+    "background": "#a5bca5",
     "created": "2019-01-11T12:56:15+00:00",
     "slug": "36324-xay-goes-fishing",
     "source": "room-to-read",
     "title": "Xay Goes Fishing"
   },
   {
+    "background": "#dfd4cc",
     "created": "2019-01-11T12:53:54+00:00",
     "slug": "36290-nin-wants-to-get-dressed",
     "source": "room-to-read",
     "title": "Nin Wants to Get Dressed"
   },
   {
+    "background": "#cbc89d",
     "created": "2019-01-11T12:45:41+00:00",
     "slug": "36289-bounthy-s-singing-birds",
     "source": "room-to-read",
     "title": "Bounthy's Singing Birds"
   },
   {
+    "background": "#a0aa90",
     "created": "2019-01-11T12:35:15+00:00",
     "slug": "37257-the-bubble-mystery",
     "source": "room-to-read",
     "title": "The Bubble Mystery"
   },
   {
+    "background": "#5b615a",
     "created": "2019-01-11T12:32:52+00:00",
     "slug": "37264-frog-s-bright-idea",
     "source": "room-to-read",
     "title": "Frog's Bright Idea"
   },
   {
+    "background": "#55555e",
     "created": "2019-01-11T12:30:57+00:00",
     "slug": "37268-it-s-a-ghost",
     "source": "room-to-read",
     "title": "It's a Ghost!"
   },
   {
+    "background": "#a88227",
     "created": "2019-01-11T12:27:37+00:00",
     "slug": "37244-socks",
     "source": "room-to-read",
     "title": "Socks"
   },
   {
+    "background": "#d0a895",
     "created": "2019-01-17T10:31:17+00:00",
     "slug": "37240-the-walking-mountain",
     "source": "room-to-read",
     "title": "The Walking Mountain"
   },
   {
+    "background": "#528950",
     "created": "2019-01-11T12:22:36+00:00",
     "slug": "37245-the-dog-s-eggs",
     "source": "room-to-read",
     "title": "The Dog's Eggs"
   },
   {
+    "background": "#96a268",
     "created": "2019-01-11T12:18:14+00:00",
     "slug": "37276-a-day-at-the-carnival",
     "source": "room-to-read",
     "title": "A Day at the Carnival"
   },
   {
+    "background": "#7eaa3d",
     "created": "2019-01-11T12:03:55+00:00",
     "slug": "37273-caterpillar-looks-for-a-shoe",
     "source": "room-to-read",
     "title": "Caterpillar Looks for a Shoe"
   },
   {
+    "background": "#b7b593",
     "created": "2019-01-11T12:00:28+00:00",
     "slug": "37239-cicada-s-song",
     "source": "room-to-read",
     "title": "Cicada's Song"
   },
   {
+    "background": "#d4cbd3",
     "created": "2019-01-08T17:23:16+00:00",
     "slug": "38657-the-happy-train",
     "source": "room-to-read",
     "title": "The Happy Train"
   },
   {
+    "background": "#d6a870",
     "created": "2019-01-08T17:17:32+00:00",
     "slug": "38635-the-birthday-chocolate",
     "source": "room-to-read",
     "title": "The Birthday Chocolate"
   },
   {
+    "background": "#ada993",
     "created": "2019-01-08T17:15:19+00:00",
     "slug": "38409-the-lost-ball",
     "source": "room-to-read",
     "title": "The Lost Ball"
   },
   {
+    "background": "#ccb98a",
     "created": "2019-01-08T17:12:49+00:00",
     "slug": "38708-rimis-red-book",
     "source": "room-to-read",
     "title": "Rimis Red Book"
   },
   {
+    "background": "#ddb7a1",
     "created": "2019-01-08T17:08:30+00:00",
     "slug": "38365-brave-rima",
     "source": "room-to-read",
     "title": "Brave Rima"
   },
   {
+    "background": "#46997b",
     "created": "2019-01-08T17:04:33+00:00",
     "slug": "38407-girisha-from-the-hills",
     "source": "room-to-read",
     "title": "Girisha From the Hills"
   },
   {
+    "background": "#bdb39b",
     "created": "2019-01-24T13:08:09+00:00",
     "slug": "38405-rhyming-grandpa",
     "source": "room-to-read",
     "title": "Rhyming Grandpa"
   },
   {
+    "background": "#609cad",
     "created": "2019-01-08T16:57:37+00:00",
     "slug": "38067-khuku-and-the-catfish",
     "source": "room-to-read",
     "title": "Khuku and the Catfish"
   },
   {
+    "background": "#9ebdb6",
     "created": "2019-01-08T16:54:58+00:00",
     "slug": "38449-what-does-the-firefly-have",
     "source": "room-to-read",
     "title": "What Does the Firefly Have?"
   },
   {
+    "background": "#b52e3d",
     "created": "2019-01-08T16:52:03+00:00",
     "slug": "38066-putu-and-gutu",
     "source": "room-to-read",
     "title": "Putu and Gutu"
   },
   {
+    "background": "#98bb72",
     "created": "2019-01-08T16:49:06+00:00",
     "slug": "38072-ou-ou-wants-to-have-friends",
     "source": "room-to-read",
     "title": "Ou Ou Wants to Have Friends"
   },
   {
+    "background": "#d3c8b3",
     "created": "2019-01-08T16:43:57+00:00",
     "slug": "38456-achoo",
     "source": "room-to-read",
     "title": "ACHOO!"
   },
   {
+    "background": "#cdc3aa",
     "created": "2019-01-24T13:00:58+00:00",
     "slug": "38749-just-the-way-i-am",
     "source": "room-to-read",
