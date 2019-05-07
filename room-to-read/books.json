@@ -1,5 +1,54 @@
 [
   {
+    "background": "#74594a",
+    "created": "2019-05-07T14:28:48+00:00",
+    "slug": "23457-the-school-is-on-fire",
+    "source": "room-to-read",
+    "title": "The School Is on Fire!"
+  },
+  {
+    "background": "#bdc3a5",
+    "created": "2019-05-07T14:25:43+00:00",
+    "slug": "23085-koria-the-crow",
+    "source": "room-to-read",
+    "title": "Koria the Crow"
+  },
+  {
+    "background": "#ddd0b7",
+    "created": "2019-05-07T11:19:13+00:00",
+    "slug": "22515-where-is-yellow",
+    "source": "room-to-read",
+    "title": "Where Is Yellow?"
+  },
+  {
+    "background": "#91b98d",
+    "created": "2019-05-07T11:17:03+00:00",
+    "slug": "23623-the-tale-of-the-water-hyacinth",
+    "source": "room-to-read",
+    "title": "The Tale of the Water Hyacinth"
+  },
+  {
+    "background": "#8d604f",
+    "created": "2019-05-07T11:15:10+00:00",
+    "slug": "24505-the-ok-om-bok-festival",
+    "source": "room-to-read",
+    "title": "The Ok Om Bok Festival"
+  },
+  {
+    "background": "#d6b393",
+    "created": "2019-05-07T11:13:40+00:00",
+    "slug": "23596-the-ocean-dream",
+    "source": "room-to-read",
+    "title": "The Ocean Dream"
+  },
+  {
+    "background": "#e5d3dc",
+    "created": "2019-05-07T10:54:30+00:00",
+    "slug": "23078-the-cat-s-lost-bread",
+    "source": "room-to-read",
+    "title": "The Cat's Lost Bread"
+  },
+  {
     "background": "#ceb7a0",
     "created": "2019-05-06T12:59:03+00:00",
     "slug": "23017-princess-bahati",
