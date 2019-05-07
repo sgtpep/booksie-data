@@ -1134,6 +1134,13 @@
     "title": "Little Mouse Should"
   },
   {
+    "background": "#9eb07e",
+    "created": "2019-05-07T20:55:31+00:00",
+    "slug": "69664-uh-oh",
+    "source": "pratham-books",
+    "title": "Uh-Oh"
+  },
+  {
     "background": "#7f7275",
     "created": "2019-05-03T09:48:47+00:00",
     "slug": "8907-pambaram-the-naughty-top",
@@ -3862,6 +3869,41 @@
     "slug": "33561-who-drives-the-driverless-car",
     "source": "pratham-books",
     "title": "Who Drives the Driverless Car?"
+  },
+  {
+    "background": "#8ab5c4",
+    "created": "2019-05-07T16:31:05+00:00",
+    "slug": "61017-khutso-s-strange-dream",
+    "source": "room-to-read",
+    "title": "Khutso's Strange Dream"
+  },
+  {
+    "background": "#d2cda9",
+    "created": "2019-05-07T16:27:03+00:00",
+    "slug": "58647-a-sweet-apple",
+    "source": "room-to-read",
+    "title": "A Sweet Apple"
+  },
+  {
+    "background": "#51accf",
+    "created": "2019-05-07T16:25:48+00:00",
+    "slug": "58662-the-birthday-present",
+    "source": "room-to-read",
+    "title": "The Birthday Present"
+  },
+  {
+    "background": "#c7a1a8",
+    "created": "2019-05-07T16:24:08+00:00",
+    "slug": "58698-sani-and-suri",
+    "source": "room-to-read",
+    "title": "Sani and Suri"
+  },
+  {
+    "background": "#d97945",
+    "created": "2019-05-07T16:20:51+00:00",
+    "slug": "58547-an-amazing-world",
+    "source": "room-to-read",
+    "title": "An Amazing World"
   },
   {
     "background": "#74594a",
