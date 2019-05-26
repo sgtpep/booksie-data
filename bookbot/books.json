@@ -1,14 +1,6 @@
 [
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#4b6d84",
-    "created": "2018-10-13T13:24:58Z",
-    "slug": "The Min Min Lights",
-    "source": "bookbot",
-    "title": "The Min Min Lights"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
     "background": "#cca250",
     "created": "2018-10-12T12:22:51Z",
     "slug": "Physics",
@@ -25,35 +17,11 @@
   },
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#5b5145",
-    "created": "2018-10-12T11:51:53Z",
-    "slug": "Fox!",
-    "source": "bookbot",
-    "title": "Fox!"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
     "background": "#d1a850",
     "created": "2018-10-09T13:13:50Z",
     "slug": "Biology",
     "source": "bookbot",
     "title": "Biology"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
-    "background": "#639296",
-    "created": "2018-10-07T12:28:31Z",
-    "slug": "The Yowie and the Bunyip",
-    "source": "bookbot",
-    "title": "The Yowie and the Bunyip"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
-    "background": "#45a0db",
-    "created": "2018-09-21T22:20:47Z",
-    "slug": "The Bowerbird Blues",
-    "source": "bookbot",
-    "title": "The Bowerbird Blues"
   },
   {
     "added": "2019-05-16T12:00:00Z",
@@ -262,13 +230,5 @@
     "slug": "Our house is a mess",
     "source": "bookbot",
     "title": "Our House Is a Mess"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
-    "background": "#6fb76c",
-    "created": "2018-04-29T00:40:07Z",
-    "slug": "The Machine",
-    "source": "bookbot",
-    "title": "The Machine"
   }
 ]

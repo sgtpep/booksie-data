@@ -9,14 +9,6 @@
   },
   {
     "added": "2019-05-25T20:18:17Z",
-    "background": "#4789a7",
-    "created": "2019-05-20T10:58:11Z",
-    "slug": "hello-baby",
-    "source": "book-dash",
-    "title": "Hello, Baby!"
-  },
-  {
-    "added": "2019-05-25T20:18:17Z",
     "background": "#dcae59",
     "created": "2019-05-13T15:12:48Z",
     "slug": "vuyo",
@@ -529,14 +521,6 @@
   },
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#a89d97",
-    "created": "2017-02-20T12:45:34Z",
-    "slug": "the-baby-book_awerbuck_latimer_jaggers",
-    "source": "book-dash",
-    "title": "The Baby Book"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
     "background": "#bdb68e",
     "created": "2017-02-08T16:02:15Z",
     "slug": "why-is-there-a-hole-in-the-wall_slatem-paxton-botha",
@@ -961,14 +945,6 @@
   },
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#b6b3ac",
-    "created": "2014-09-22T17:19:00Z",
-    "slug": "together-were-strong_jobson-toich-jacobs",
-    "source": "book-dash",
-    "title": "Together We’re Strong: the Story of Albertina Sisulu"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
     "background": "#d3cdce",
     "created": "2014-09-19T13:06:26Z",
     "slug": "queen-of-soweto_taylor-duplessis-fourie",
@@ -1001,14 +977,6 @@
   },
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#4b6d84",
-    "created": "2018-10-13T13:24:58Z",
-    "slug": "The Min Min Lights",
-    "source": "bookbot",
-    "title": "The Min Min Lights"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
     "background": "#cca250",
     "created": "2018-10-12T12:22:51Z",
     "slug": "Physics",
@@ -1025,35 +993,11 @@
   },
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#5b5145",
-    "created": "2018-10-12T11:51:53Z",
-    "slug": "Fox!",
-    "source": "bookbot",
-    "title": "Fox!"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
     "background": "#d1a850",
     "created": "2018-10-09T13:13:50Z",
     "slug": "Biology",
     "source": "bookbot",
     "title": "Biology"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
-    "background": "#639296",
-    "created": "2018-10-07T12:28:31Z",
-    "slug": "The Yowie and the Bunyip",
-    "source": "bookbot",
-    "title": "The Yowie and the Bunyip"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
-    "background": "#45a0db",
-    "created": "2018-09-21T22:20:47Z",
-    "slug": "The Bowerbird Blues",
-    "source": "bookbot",
-    "title": "The Bowerbird Blues"
   },
   {
     "added": "2019-05-16T12:00:00Z",
@@ -1262,14 +1206,6 @@
     "slug": "Our house is a mess",
     "source": "bookbot",
     "title": "Our House Is a Mess"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
-    "background": "#6fb76c",
-    "created": "2018-04-29T00:40:07Z",
-    "slug": "The Machine",
-    "source": "bookbot",
-    "title": "The Machine"
   },
   {
     "added": "2019-05-16T12:00:00Z",
@@ -6041,27 +5977,11 @@
   },
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#8e7a64",
-    "created": "2018-10-23T02:31:59Z",
-    "slug": "0234",
-    "source": "storybooks-canada",
-    "title": "Andiswa Soccer Star"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
     "background": "#89c3aa",
     "created": "2018-10-23T02:31:58Z",
     "slug": "0231",
     "source": "storybooks-canada",
     "title": "Weather Book"
-  },
-  {
-    "added": "2019-05-16T12:00:00Z",
-    "background": "#889c8a",
-    "created": "2018-10-23T02:31:56Z",
-    "slug": "0210",
-    "source": "storybooks-canada",
-    "title": "Tingi and the Cows"
   },
   {
     "added": "2019-05-16T12:00:00Z",
