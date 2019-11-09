@@ -801,6 +801,15 @@
     "title": "The Garbage Monster"
   },
   {
+    "added": "2019-11-09T07:45:15Z",
+    "background": "#92a3a9",
+    "created": "2019-11-09T07:45:34Z",
+    "size": 2280343,
+    "slug": "dudus-hat_benjamin-tetteh-stephen-wallace-sarah-mcgregor",
+    "source": "book-dash",
+    "title": "Dudu’s Hat"
+  },
+  {
     "added": "2019-05-28T14:28:55Z",
     "background": "#68a171",
     "created": "2019-05-28T14:28:59Z",
@@ -2230,6 +2239,186 @@
     "slug": "en_Out_and_About",
     "source": "icharacter",
     "title": "Out and About"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#9ba397",
+    "created": "2019-11-06T20:59:31Z",
+    "size": 2432877,
+    "slug": "bc611a6a-2792-49ad-8adf-63cd235001ff",
+    "source": "lets-read",
+    "title": "Thembi and the Singing Tree"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#d5c8b4",
+    "created": "2019-11-06T19:46:01Z",
+    "size": 729784,
+    "slug": "8f4428e0-09a8-4718-80a9-f67d13a34b19",
+    "source": "lets-read",
+    "title": "A Sweet Apple"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#b0a769",
+    "created": "2019-11-06T00:37:09Z",
+    "size": 1631227,
+    "slug": "e35de0e2-ed33-4c07-ab2d-c998cbf844d3",
+    "source": "lets-read",
+    "title": "The Clever Tortoise"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#cfbd93",
+    "created": "2019-11-06T00:30:13Z",
+    "size": 970397,
+    "slug": "674e742b-7ca8-4e1b-9b81-9542f47dcda0",
+    "source": "lets-read",
+    "title": "The Lost Ball"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#c8ab84",
+    "created": "2019-11-06T00:19:33Z",
+    "size": 2183981,
+    "slug": "e216086b-a4ec-4740-bbfa-25910af4a71c",
+    "source": "lets-read",
+    "title": "Tiger's Delicious Treats"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#c88336",
+    "created": "2019-11-06T00:06:49Z",
+    "size": 559578,
+    "slug": "3905834a-62db-442a-9a3e-40e7023f2dbc",
+    "source": "lets-read",
+    "title": "Puppy Hears a Noise"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#947f57",
+    "created": "2019-11-05T23:59:54Z",
+    "size": 1157206,
+    "slug": "36daf59f-020a-4458-93d8-89e63a6acc9d",
+    "source": "lets-read",
+    "title": "Cicada's Song"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#c19e90",
+    "created": "2019-11-05T23:50:15Z",
+    "size": 602114,
+    "slug": "fddde1e5-61ec-410b-b80f-d2e869b52c2e",
+    "source": "lets-read",
+    "title": "Puppy's Birthday Party"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#70776c",
+    "created": "2019-11-05T23:35:53Z",
+    "size": 762698,
+    "slug": "eb683b97-d89b-47c5-8a05-7949b3d4805b",
+    "source": "lets-read",
+    "title": "Tra's Red Bean Plant"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#697f42",
+    "created": "2019-11-05T22:47:59Z",
+    "size": 1439047,
+    "slug": "d37a309c-f84f-410f-908c-759c3454c9f3",
+    "source": "lets-read",
+    "title": "The Dog's Eggs"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#948e86",
+    "created": "2019-11-05T22:30:52Z",
+    "size": 939402,
+    "slug": "fb73fc45-1256-4572-8bcf-dd6d4ed5319a",
+    "source": "lets-read",
+    "title": "Putu and Gutu"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#e5cbb9",
+    "created": "2019-11-05T21:17:54Z",
+    "size": 1225729,
+    "slug": "97f895ce-73a1-477c-9998-cec1af923503",
+    "source": "lets-read",
+    "title": "Where Is My Mother?"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#8c694b",
+    "created": "2019-11-05T19:31:59Z",
+    "size": 1338295,
+    "slug": "18cf346f-3abe-45ba-bd33-21cc670483b9",
+    "source": "lets-read",
+    "title": "It's a Ghost!"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#8eb1c2",
+    "created": "2019-11-05T19:12:55Z",
+    "size": 1490990,
+    "slug": "92486b98-77f5-4a39-9e94-80c9022d4164",
+    "source": "lets-read",
+    "title": "Just the Way I Am"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#80a5b3",
+    "created": "2019-11-05T18:43:34Z",
+    "size": 1418676,
+    "slug": "8ea24f89-25b2-4093-bfa6-5590f26f67a8",
+    "source": "lets-read",
+    "title": "Chunu & Munu: the Corn Is Yummy!"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#a89e77",
+    "created": "2019-11-05T18:22:25Z",
+    "size": 1337219,
+    "slug": "e8561392-df96-4660-af46-b72f1aecb20e",
+    "source": "lets-read",
+    "title": "Mother, Call That Bird!"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#a39f96",
+    "created": "2019-11-05T18:11:43Z",
+    "size": 1161715,
+    "slug": "42e06811-c843-4b39-b743-3978aade24f8",
+    "source": "lets-read",
+    "title": "Chunu & Munu: It's Freezing!"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#c0a9a7",
+    "created": "2019-11-05T18:04:13Z",
+    "size": 725126,
+    "slug": "3e25034c-3d43-4274-b585-f276905e122e",
+    "source": "lets-read",
+    "title": "Busy Mother Hen"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#b6bf95",
+    "created": "2019-11-05T17:54:55Z",
+    "size": 1603976,
+    "slug": "6565c814-1600-4ed4-9694-c75b43ca596d",
+    "source": "lets-read",
+    "title": "The Bubble Mystery"
+  },
+  {
+    "added": "2019-11-09T07:45:56Z",
+    "background": "#adafa9",
+    "created": "2019-11-05T17:31:14Z",
+    "size": 1377596,
+    "slug": "891e78b5-e9e1-4c54-8776-76d9783a4922",
+    "source": "lets-read",
+    "title": "Billy to the Rescue"
   },
   {
     "added": "2019-09-21T07:42:00Z",
@@ -3886,6 +4075,33 @@
     "slug": "The-Mouse-That-Should_6515",
     "source": "paul-choy",
     "title": "Little Mouse Should"
+  },
+  {
+    "added": "2019-11-09T07:46:18Z",
+    "background": "#422414",
+    "created": "2019-11-07T17:19:20Z",
+    "size": 836209,
+    "slug": "104690-i-am-a-puppet",
+    "source": "pratham-books",
+    "title": "I Am a Puppet"
+  },
+  {
+    "added": "2019-11-09T07:46:18Z",
+    "background": "#cad2bd",
+    "created": "2019-11-05T10:10:15Z",
+    "size": 3338682,
+    "slug": "104345-the-nose-of-all-noses",
+    "source": "pratham-books",
+    "title": "The Nose of All Noses"
+  },
+  {
+    "added": "2019-11-09T07:46:18Z",
+    "background": "#d5c2a7",
+    "created": "2019-11-09T07:46:43Z",
+    "size": 4437912,
+    "slug": "103989-a-camel-for-kelam",
+    "source": "pratham-books",
+    "title": "A Camel for Kelam"
   },
   {
     "added": "2019-11-02T08:51:29Z",
