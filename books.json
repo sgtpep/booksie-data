@@ -847,15 +847,6 @@
   },
   {
     "added": "2019-11-24T11:58:33Z",
-    "background": "#d9dbd6",
-    "created": "2019-01-20T12:32:11Z",
-    "size": 1358634,
-    "slug": "lonwabos-recipes_makina-devilliers-kumalo",
-    "source": "book-dash",
-    "title": "Lonwabo’s Recipes"
-  },
-  {
-    "added": "2019-11-24T11:58:33Z",
     "background": "#5ca69f",
     "created": "2018-04-05T15:49:46Z",
     "size": 843928,
@@ -982,10 +973,10 @@
   },
   {
     "added": "2019-05-16T12:00:00Z",
-    "background": "#d8dad6",
+    "background": "#d9dbd6",
     "created": "2019-01-20T12:32:11Z",
     "size": 1358634,
-    "slug": "ulonwabo_makina-devilliers-kumalo",
+    "slug": "lonwabos-recipes_makina-devilliers-kumalo",
     "source": "book-dash",
     "title": "Lonwabo’s Recipes"
   },
