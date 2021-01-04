@@ -1,0 +1,49 @@
+#!/usr/bin/env node
+const { buildBooks, ghostscriptOptions } = require('../source')
+const { executeCommand, fetchURL, tempPath } = require('..')
+
+const exclusions = [
+  'A Pescar', // another language
+]
+
+const fetchBooks = () => {
+  const html = fetchURL('http://mustardseedbooks.org/1st-grade/')
+  const titles = html.match(/(?<=<td align="left">).+?(?=<\/td>)/g)
+  return html
+    .match(/(?<= href=").+?\/singlepage\/.+?\.pdf(?=")/g)
+    .map((href, index) => ({
+      coverOptions: ['-trim'],
+      document: href.replace(/ /g, '%20'),
+      processDocument,
+      slug: titles[index],
+      title: titles[index],
+    }))
+}
+
+const main = () => buildBooks(fetchBooks(), undefined, undefined, exclusions)
+
+const processDocument = (document, pages) => {
+  const cover = tempPath('cover.pdf')
+  executeCommand([
+    'gs',
+    '-o',
+    cover,
+    ...ghostscriptOptions,
+    '-dFirstPage=1',
+    '-dLastPage=1',
+    document,
+  ])
+  const content = tempPath('content.pdf')
+  executeCommand([
+    'gs',
+    '-o',
+    content,
+    ...ghostscriptOptions,
+    '-dFirstPage=3',
+    `-dLastPage=${pages - 1}`,
+    document,
+  ])
+  executeCommand(['gs', '-o', document, ...ghostscriptOptions, cover, content])
+}
+
+require.main === module && main()

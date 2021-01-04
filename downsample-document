@@ -1,0 +1,42 @@
+#!/usr/bin/env node
+const path = require('path')
+const { assert, executeCommand, moveFile } = require('.')
+
+const downsampleDocument = (document, dpi) => {
+  const output = path.join(
+    path.dirname(document),
+    `${path.basename(document, '.pdf')}~.pdf`,
+  )
+  const { ghostscriptOptions } = require('./source')
+  executeCommand(
+    [
+      'gs',
+      '-o',
+      output,
+      '-dPDFSETTINGS=/screen',
+      ...ghostscriptOptions.filter(option => option != '-q'),
+      ...['Color', 'Gray']
+        .map(type => [
+          `-d${type}ImageDownsampleType=/Bicubic`,
+          `-d${type}ImageResolution=${dpi}`,
+          `-dDownsample${type}Images`,
+        ])
+        .flat(),
+      '-dAutoRotatePages=/None',
+      '-dDetectDuplicateImages',
+      document,
+    ],
+    { stdio: 'inherit' },
+  )
+  return moveFile(output, document)
+}
+
+const main = () =>
+  downsampleDocument(
+    assert(process.argv[2], 'No input'),
+    assert(process.env.DPI, 'No DPI'),
+  )
+
+module.exports = { downsampleDocument }
+
+require.main === module && main()

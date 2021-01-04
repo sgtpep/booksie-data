@@ -1,0 +1,13 @@
+#!/bin/sh
+set -eu
+url=https://api.github.com/repos/sgtpep/booksie-data
+curl -f "$url"/commits/"$(curl -s "$url"/branches/gh-pages | grep -Po -m 1 '(?<="sha": ")[^"]+')" | grep -Po '(?<="filename": ")[^"]+' | grep -v '\.json$' | xargs -r -d '\n' bash -"$-" -c '
+options=()
+for path; do
+  options+=(-o /tmp/"${path##*/}" https://data.booksie.org/"$path")
+done
+curl "${options[@]}"
+for path; do
+  xdg-open /tmp/"${path##*/}"
+done
+' --

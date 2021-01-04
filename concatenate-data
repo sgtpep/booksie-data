@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+const fs = require('fs')
+const path = require('path')
+const { readDirectory } = require('.')
+
+fs.writeFileSync(
+  'dist/books.json',
+  JSON.stringify(
+    readDirectory('dist')
+      .map(directory => path.join(directory, 'books.json'))
+      .filter(books => fs.existsSync(books))
+      .map(books => JSON.parse(fs.readFileSync(books)))
+      .flat(),
+    null,
+    2,
+  ) + '\n',
+)

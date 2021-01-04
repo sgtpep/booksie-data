@@ -1,0 +1,41 @@
+#!/usr/bin/env node
+const path = require('path')
+const { buildBooks } = require('../source')
+const { fetchURL } = require('..')
+
+const exclusions = [
+  'Object_Lessons_with_Be-Me_God_and_my_Car', // religious
+  'Object_Lessons_with_Be-Me_God_and_my_Chair', // religious
+  'Object_Lessons_with_Be-Me_God_and_my_Pencil', // religious
+  'Object_Lessons_with_Be-Me_God_and_my_Shoes', // religious
+]
+
+const fetchBooks = () => {
+  const html = fetchURL(
+    'https://drive.google.com/embeddedfolderview?id=0B4ZVnncOc-RDekIxNFdkZTVDekE',
+  )
+  const ids = html.match(
+    /(?<= href="https:\/\/drive\.google\.com\/file\/d\/)[^\/]+/g,
+  )
+  return html
+    .match(/(?<="flip-entry-title">)[^<]+/g)
+    .map((filename, index) => ({
+      document: `https://drive.google.com/uc?id=${ids[index]}&export=download`,
+      slug: path.basename(filename, '.pdf'),
+      title: titles[path.basename(filename, '.pdf')],
+    }))
+}
+
+const main = () => buildBooks(fetchBooks(), undefined, true, exclusions)
+
+const titles = {
+  en_Bedmaking_Blues: 'Bed-Making Blues',
+  en_Cookie_Rookie: 'Cookie Rookie',
+  en_Fading_Flowers: 'Fading Flowers',
+  en_Out_and_About: 'Out and About',
+  en_That_Worked: 'That Worked!',
+  en_Turtle_Trouble: 'Turtle Trouble',
+  en_What_Is_Love: 'What is Love?',
+}
+
+require.main === module && main()

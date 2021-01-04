@@ -1,0 +1,104 @@
+#!/usr/bin/env node
+const fs = require('fs')
+const path = require('path')
+const { buildBooks } = require('../source')
+const {
+  cachePath,
+  downloadFile,
+  executeCommand,
+  fetchURL,
+  makeDirectories,
+  moveFile,
+  removeDirectory,
+  unpackArchive,
+} = require('..')
+
+const archive = cachePath('bookbot.zip')
+
+const archiveProcessed = () =>
+  fs.existsSync(checksum) &&
+  fs.readFileSync(checksum, 'utf8') ===
+    fetchURL(url, ['-I'])
+      .split('\r\n')
+      .find(line => /^etag:/i.test(line))
+      .replace(/^.+?:\s*"?(.+?)".*/, '$1')
+
+const checksum = cachePath('bookbot-checksum')
+
+const downloadUnpackArchive = () =>
+  moveFile(unpackArchive(downloadFile(url, archive), `${unpacked}~`), unpacked)
+
+const exclusions = [
+  'Fox!', // duplicate
+  'The Bowerbird Blues', // few illustrations
+  'The Machine', // few illustrations
+  'The Min Min Lights', // few illustrations
+  'The Yowie and the Bunyip', // few illustrations
+]
+
+const extractTitle = filename =>
+  path.basename(filename, '.pdf').replace(' (US)', '')
+
+const fileChecksum = file =>
+  executeCommand(['md5sum', file])
+    .trimEnd()
+    .replace(/\s.+$/, '')
+
+const listBooks = () =>
+  listFiles().map(document => {
+    const title = extractTitle(document)
+    return {
+      document,
+      slug: title,
+      title,
+    }
+  })
+
+const listFiles = () => {
+  fs.existsSync(unpacked) || downloadUnpackArchive()
+  return executeCommand([
+    'find',
+    unpacked,
+    '-type',
+    'f',
+    '!',
+    '-name',
+    '.*',
+    '!',
+    '-name',
+    '* (UK).*',
+    '!',
+    '-path',
+    '*/__MACOSX/*',
+  ])
+    .trimEnd()
+    .split('\n')
+    .sort()
+    .reduce(
+      (files, file) =>
+        files.find(
+          existingFile => extractTitle(existingFile) === extractTitle(file),
+        )
+          ? files
+          : [...files, file],
+      [],
+    )
+}
+
+const main = () => {
+  if (!archiveProcessed()) {
+    buildBooks(listBooks(), undefined, true, exclusions)
+    writeChecksum()
+    fs.unlinkSync(archive)
+    removeDirectory(unpacked)
+  }
+}
+
+const unpacked = cachePath('bookbot')
+
+const url = 'https://storage.googleapis.com/bookbot-assets/bookbot-device.zip'
+
+const writeChecksum = () =>
+  fs.writeFileSync(makeDirectories(checksum), fileChecksum(archive))
+
+require.main === module && main()

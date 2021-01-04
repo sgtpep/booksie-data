@@ -1,0 +1,131 @@
+#!/usr/bin/env node
+const path = require('path')
+const { buildBooks, ghostscriptOptions, sourceBooks } = require('../source')
+const { executeCommand, fetchURL, moveFile, tempPath } = require('..')
+
+const alternativeLayout = ['turtle-and-rabbits-big-race']
+
+const fetchBooks = () => {
+  const existingSlugs = sourceBooks().map(book => book.slug)
+  const html = fetchURL(`${url}/consolidated-alphabetic/`)
+  const slugs = html
+    .match(/<article>\s*<a href="[^"]+/g)
+    .map(html => html.match(/(?<= href=")[^"]+\/(.+)\//)[1])
+  const titles = html
+    .match(/<article>.*?<p>[^<]+/gs)
+    .map(html => html.match(/(?<=<p>)[^<]+/)[0])
+  return slugs
+    .slice(0, slugs.findIndex(slug => existingSlugs.includes(slug)))
+    .map((slug, index) => ({
+      processCover,
+      processDocument,
+      slug,
+      title: titles[index],
+    }))
+}
+
+const generateBook = book => {
+  const slugMatch = fetchURL(`${url}/${book.slug}/`).match(
+    /<a href=".+\/(.+)\/" [^<]+<div [^<]+#39b042/,
+  )
+  if (slugMatch) {
+    const documentMatch = fetchURL(`${url}/${slugMatch[1]}/`).match(
+      /(?<= href=")[^"]+\.pdf/,
+    )
+    return documentMatch && { document: documentMatch[0] }
+  }
+}
+
+const main = () => buildBooks(fetchBooks(), generateBook)
+
+const processCover = cover => {
+  const blur = 10
+  const temp = tempPath('cover.jpg')
+  executeCommand([
+    'convert',
+    '-crop',
+    executeCommand([
+      'convert',
+      '-virtual-pixel',
+      'edge',
+      '-blur',
+      `0x${blur}`,
+      '-fuzz',
+      '10%',
+      '-trim',
+      '-format',
+      '%wx%h%O',
+      cover,
+      'info:',
+    ]),
+    '-shave',
+    `${blur + 1}x${blur + 1}`,
+    cover,
+    temp,
+  ])
+  moveFile(temp, cover)
+}
+
+const processDocument = (document, pages) => {
+  const alternative = alternativeLayout.includes(
+    path.basename(document, '.pdf'),
+  )
+  executeCommand([
+    'gs',
+    '-o',
+    document,
+    ...ghostscriptOptions,
+    ...Array.from(Array(pages * 2))
+      .map((value, index) => {
+        let geometry
+        let page
+        let pageOffset
+        const border = 4
+        const output = tempPath(`${index}.pdf`)
+        if (alternative) {
+          const height = 825
+          const horizontalMargin = 193
+          const top = index % 4 === 0 || (index - 1) % 4 === 0
+          const verticalMargin = 12
+          const width = 1275
+          geometry = `${(height - border / 2 - verticalMargin) * 10}x${(width -
+            horizontalMargin) *
+            10}`
+          page = Math.ceil(index / 2) - (top ? 0 : 1) + 1
+          pageOffset = `-${(top ? height : 0) +
+            border / 2 +
+            (top ? 0 : verticalMargin)} -${
+            index % 2 === 0 ? 0 : horizontalMargin
+          }`
+        } else {
+          const height = 550
+          const horizontalMargin = 131
+          const top = (index - 1) % 2 === 0
+          const width = 850
+          geometry = `${(height - border / 2) * 10}x${(width -
+            horizontalMargin) *
+            10}`
+          page = Math.floor(index / 2) + 1
+          pageOffset = `-${(top ? height : 0) + border / 2} 0`
+        }
+        executeCommand([
+          'gs',
+          '-o',
+          output,
+          ...ghostscriptOptions,
+          `-g${geometry}`,
+          '-c',
+          `<< /PageOffset [${pageOffset}] >> setpagedevice`,
+          `-dFirstPage=${page}`,
+          `-dLastPage=${page}`,
+          document,
+        ])
+        return output
+      })
+      .slice(0, pages * 2 - (alternative ? 2 : 1)),
+  ])
+}
+
+const url = 'https://wordscientists.org'
+
+require.main === module && main()

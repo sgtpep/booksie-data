@@ -1,0 +1,7 @@
+#!/bin/sh
+set -eu
+git -C dist add -A .
+if ! git -C dist diff --cached --quiet; then
+  git -C dist commit -m "Deploy to $(cat dist/CNAME)"
+  git -C dist push
+fi

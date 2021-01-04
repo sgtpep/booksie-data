@@ -1,0 +1,101 @@
+#!/usr/bin/env node
+const titleCase = require('ap-style-title-case')
+const { buildBooks, convertCropOptions, sourceBooks } = require('../source')
+const { fetchURL, userAgent } = require('..')
+
+const excludedPublishers = [
+  'Asafeer',
+  'Biblionef',
+  'Book Dash',
+  'Foundation for Applied Linguistics',
+  'Pratham Books',
+  'Room to Read',
+  'Word Scientists',
+]
+
+const exclusions = [
+  '0b8d861c-9ad8-4bad-9ceb-866a7695714b', // controversial
+  '1303ea56-d297-4b03-977c-102d7ae8cbce', // another language
+  '18cf346f-3abe-45ba-bd33-21cc670483b9', // scary
+  '196d10ea-eaf9-4329-a308-9bc9fc9d47ba', // empty
+  '1b4e5a0b-fbf6-4a81-a74b-fbc75e709690', // another language
+  '1c9c6352-cdd1-494c-ad5d-4d18b5a376d4', // empty
+  '316a8d7c-c485-4391-879a-47f168bff0eb', // another language
+  '3f78f7ab-82d6-4a98-bdb2-1e61c324db4f', // empty
+  '45fd7133-fc1e-47ec-944b-e59cbbc782e0', // another language
+  '531b94fe-4642-4515-b0e4-d492a23ac7b2', // another language
+  '62a806dd-2f2e-4c0a-be7a-4d66149f6a06', // low quality
+  '6b899dec-6691-4225-aa5a-7454d7e6aa3d', // empty
+  '84fe6277-654c-49d6-99b1-35f299a52d80', // another language
+  '8b632cfb-5ab7-4aec-b9b3-9259002475ee', // empty
+  '9022e730-da48-4a4f-94a9-2f5f790e839e', // not a storybook
+  '94f135dd-0c0e-4ad6-8b6c-c27488f3609e', // another language
+  '98e75187-1775-46a2-a459-0af6689b6cf9', // empty
+  'a49bbebf-be1f-4abb-859f-d2eb843e1a1b', // empty
+  'a5152fcf-7cd2-4456-a549-6f9a65b7643f', // low quality
+  'a5e0a721-2920-41ba-a912-bdf25aecb2c7', // duplicate
+  'ab814435-0828-48f8-b331-4f6f88e4eab4', // empty
+  'ad0e0f49-7731-46c8-a1e5-1bc3a739e5e9', // too local
+  'aef7e154-1c80-4d8a-8224-59ff6d0a7c07', // another language
+  'bd7eaa98-4138-464e-a930-cc06f35215f6', // scary
+  'c008e01f-4f7b-4598-b7b6-a9d115440168', // empty
+  'd307e9a8-6e99-4353-bf98-3b41563d186e', // another language
+  'd871089e-c918-42f6-be7d-cb0579dfe96b', // empty
+  'deb87f4c-caae-46eb-a434-1b8938809d91', // duplicate
+  'def7610b-1cbb-40c3-bf76-09d0d626fd7c', // another language
+  'e65d888e-f5f1-4f7f-be2f-b619e688a005', // empty
+  'e8086c85-633d-4371-bb25-16c4988e916e', // empty
+]
+
+const fetchBooks = () => {
+  const entries = fetchEntries()
+  const slugs = sourceBooks().map(book => book.slug)
+  return entries
+    .slice(0, entries.findIndex(entry => slugs.includes(entry.id)))
+    .map(entry => ({
+      cover: entry.coverImageServingUrl,
+      coverOptions: convertCropOptions,
+      slug: entry.id,
+      title: titleCase(entry.name.toLowerCase()),
+    }))
+}
+
+const fetchEntries = () => {
+  let cursor = ''
+  const entries = []
+  do {
+    const data = JSON.parse(
+      fetchURL(
+        `${url}/api/v2/book/search?cursor=${cursor}&lId=4846240843956224&limit=1000`,
+      ),
+    )
+    cursor = data.cursorWebSafeString
+    entries.push(...data.other)
+  } while (cursor)
+  return entries
+}
+
+const generateBook = book => {
+  try {
+    var json = fetchURL(`${url}/api/book/for-translation/${book.slug}`)
+  } catch (error) {
+    if (error.status === 22) {
+      return
+    }
+  }
+  const data = JSON.parse(json)
+  return Number(data.readingLevel) <= 3 &&
+    !excludedPublishers.includes(
+      (data.collaboratorsByRole.PUBLISHER[0] || {}).name,
+    ) &&
+    data.pdfUrl &&
+    data.pdfUrl.landscapeUrl
+    ? { document: encodeURI(data.pdfUrl.landscapeUrl) }
+    : null
+}
+
+const main = () => buildBooks(fetchBooks(), generateBook, undefined, exclusions)
+
+const url = 'https://letsreadasia.appspot.com'
+
+require.main === module && main()

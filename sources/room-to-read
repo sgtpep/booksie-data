@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+const { main } = require('./storyweaver')
+
+const exclusions = [
+  '37268-it-s-a-ghost', // scary
+  '45831-mr-maseleni', // few illustrations
+  '61017-khutso-s-strange-dream', // scary
+]
+
+require.main === module && main('Room to Read', exclusions)

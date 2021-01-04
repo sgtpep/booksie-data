@@ -1,0 +1,19 @@
+#!/usr/bin/env node
+const { buildBooks } = require('../source')
+const { fetchURL } = require('..')
+
+const fetchBooks = () => {
+  const url = 'https://www.paulchoy.com'
+  const html = fetchURL(`${url}/little-mouse`)
+  const titles = html.match(/(?<= data-title=").+?(?= - Listen )/g)
+  return html
+    .match(/(?<= href=").+?\.pdf(?=" target=)/g)
+    .map((href, index) => ({
+      document: `${url}${href}`,
+      title: titles[index],
+    }))
+}
+
+const main = () => buildBooks(fetchBooks())
+
+require.main === module && main()

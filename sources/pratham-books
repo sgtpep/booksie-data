@@ -1,0 +1,23 @@
+#!/usr/bin/env node
+const { main } = require('./storyweaver')
+
+const exclusions = [
+  '103458-book-of-bhoots', // scary
+  '104690-i-am-a-puppet', // scary
+  '105363-i-love-me', // scary
+  '116212-who-did-this', // controversial
+  '119029-an-ode-to-cricket', // controversial
+  '134074-asamo-is-that-you', // scary
+  '150744-annual-haircut-day-once-again', // duplicate
+  '173986-angry-akku', // no text
+  '174103-the-girl-who-could-not-stop-laughing', // no text
+  '28890-mukhil-s-bloody-adventure', // scary
+  '38-counting-on-moru', // violence
+  '50638-when-things-go-round-and-round', // duplicate
+  '65362-treasure-in-the-caves', // controversial
+  '69733-spit-spit-and-spit', // controversial
+  '85556-poon-poon', // controversial
+  '997-pehelwaan-ji-plays-cricket', // scary
+]
+
+require.main === module && main('Pratham Books', exclusions)

@@ -1,0 +1,195 @@
+#!/usr/bin/env node
+const path = require('path')
+const {
+  assert,
+  copyFile,
+  downloadFile,
+  executeCommand,
+  fetchURL,
+  tempPath,
+  userAgent,
+} = require('..')
+const {
+  buildBooks,
+  convertCropOptions,
+  ghostscriptOptions,
+} = require('../source')
+
+let csrfToken
+let sessionToken
+
+const emptyFolders = []
+
+const exclusions = [
+  'hello-baby_awerbuck-meyer-jaggers', // another language
+  'the-baby-book_awerbuck_latimer_jaggers', // explicit
+  'together-were-strong_jobson-toich-jacobs', // few illustrations
+  'umbovane-owonqenayo_solombela-dyani-xulu', // another language
+]
+
+const extraBooks = []
+
+const extractTitle = document =>
+  executeCommand(['pdftotext', document, '-'])
+    .split('\n')
+    .find((line, number, lines) =>
+      /^(Illustrated|(First|Originally) published|Written) /.test(
+        (
+          lines[
+            number + (/^(\(.+\)|\s*)$/.test(lines[number + 1] || '') ? 2 : 1)
+          ] || ''
+        ).trim(),
+      ),
+    )
+    .trim()
+
+const fetchBooks = () =>
+  fetchDirectories().map(document => ({
+    coverOptions: convertCropOptions,
+    document,
+    extractTitle,
+    processDocument,
+  }))
+
+const fetchDirectories = () =>
+  listDirectory(
+    'https://www.dropbox.com/sh/4trwy1c55j402co/AAAy9hU6LiOIr4gtlc8Cl9qQa?dl=0',
+  )
+    .filter(
+      entry =>
+        entry.is_dir &&
+        !entry.filename.startsWith('_') &&
+        !emptyFolders.includes(entry.filename),
+    )
+    .map(entry => entry.href)
+
+const fetchDocumentURL = url => {
+  const entries = listDirectory(
+    new URL(url).pathname.split('/').length === 4
+      ? url
+      : assert(
+          listDirectory(url).find(entry =>
+            ['e-book', 'ebook', 'pdf-ebook'].includes(entry.filename),
+          ),
+          `No PDF subfolder: ${url}`,
+        ).href,
+  )
+  const english = entries.find(entry =>
+    ['en', 'en_english', 'en-english', 'english'].includes(entry.filename),
+  )
+  const pdfs = (english ? listDirectory(english.href) : entries).filter(
+    entry =>
+      entry.filename.endsWith('.pdf') && !/[-_]cover[-_]/.test(entry.filename),
+  )
+  return (
+    pdfs.length &&
+    (assert(pdfs.length === 1, `More then one PDF: ${url}`) &&
+      fetchFileURL(pdfs[0].href))
+  )
+}
+
+const fetchFileURL = url =>
+  requestDropbox(url, 'sharing/fetch_user_content_link', { url })
+
+const fetchTokens = url => {
+  const headers = fetchURL(url, ['-I', '-A', userAgent])
+  return [
+    headers.match(/(?<= __Host-js_csrf=)[^;]+/)[0],
+    headers.match(/(?<= __Host-ss=)[^;]+/)[0],
+  ]
+}
+
+const generateBook = book => {
+  const document = fetchDocumentURL(book.document)
+  return document && { document }
+}
+
+const listDirectory = url => {
+  let voucher
+  const [linkKey, secureHash] = parseURL(url)
+  const entries = []
+  do {
+    const [, secureHash, subPath = ''] = url.match(
+      new RegExp(`/${linkKey}/([^/?]+)(/([^?]+))?`),
+    )
+    const data = JSON.parse(
+      requestDropbox(url, 'list_shared_link_folder_entries', {
+        link_key: linkKey,
+        link_type: 's',
+        secure_hash: secureHash,
+        sub_path: subPath,
+        ...(voucher ? { voucher } : {}),
+      }),
+    )
+    voucher = data.next_request_voucher
+    entries.push(...data.entries)
+  } while (voucher)
+  return entries
+}
+
+const main = () =>
+  buildBooks(
+    [...extraBooks, ...fetchBooks()],
+    generateBook,
+    true,
+    exclusions,
+  )
+
+const parseURL = url => new URL(url).pathname.split('/').slice(2, 4)
+
+const processDocument = document => {
+  if (
+    path.basename(document, '.pdf') === 'hugs-in-the-city_brouard-buys-vorster'
+  ) {
+    const image = tempPath('cover.jpg')
+    downloadFile(
+      fetchFileURL(
+        'https://www.dropbox.com/sh/4trwy1c55j402co/AABHnXFqGcajy3olzdmaDmToa/hugs-in-the-city_brouard-buys-vorster/ebook/jpg/en/hugs-in-the-city_english_20161230_cover.jpg?dl=0',
+      ),
+      image,
+    )
+    const cover = tempPath('cover.pdf')
+    executeCommand([
+      'gs',
+      '-o',
+      cover,
+      ...ghostscriptOptions,
+      'viewjpeg.ps',
+      '-c',
+      `(${image})`,
+      `<< /PageSize [${executeCommand([
+        'identify',
+        '-format',
+        '%w %h',
+        image,
+      ])}] >> setpagedevice viewJPEG showpage`,
+    ])
+    executeCommand([
+      'gs',
+      '-o',
+      document,
+      ...ghostscriptOptions,
+      cover,
+      copyFile(document, tempPath('document.pdf')),
+    ])
+  }
+}
+
+const requestDropbox = (url, requestPath, data = {}) => {
+  ;(csrfToken && sessionToken) || ([csrfToken, sessionToken] = fetchTokens(url))
+  return fetchURL(`https://www.dropbox.com/${requestPath}`, [
+    '-A',
+    userAgent,
+    '-b',
+    `__Host-js_csrf=${csrfToken}; __Host-ss=${sessionToken}; t=${csrfToken}`,
+    ...Object.entries({ is_xhr: 'true', t: csrfToken, ...data }).map(
+      ([key, value]) => `-d${key}=${value}`,
+    ),
+  ])
+}
+
+const titles = {
+  'the-baby-book_awerbuck_latimer_jaggers': 'The Baby Book',
+}
+
+require.main === module && main()

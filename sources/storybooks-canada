@@ -1,0 +1,30 @@
+#!/usr/bin/env node
+const { buildBooks } = require('../source')
+const { fetchURL } = require('..')
+
+const exclusions = [
+  '0210', // scary
+  '0234', // few illustrations
+]
+
+const fetchBooks = () =>
+  fetchURL(`${url}/`)
+    .match(/(?<= href="\/stories\/en\/).+?(?=\/")/g)
+    .map(slug => ({
+      cover: `${url}/images/${slug}/01.jpg`,
+      slug,
+    }))
+
+const generateBook = book => ({
+  document: `${url}${
+    fetchURL(`${url}/stories/en/${book.slug}/`).match(
+      /(?<= href=").+?.pdf(?=")/,
+    )[0]
+  }`,
+})
+
+const main = () => buildBooks(fetchBooks(), generateBook, true, exclusions)
+
+const url = 'https://www.storybookscanada.ca'
+
+require.main === module && main()

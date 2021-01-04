@@ -1,0 +1,97 @@
+#!/usr/bin/env node
+const fs = require('fs')
+const path = require('path')
+const {
+  assert,
+  cachePath,
+  downloadFile,
+  fetchURL,
+  moveFile,
+  readDirectory,
+  removeDirectory,
+  unpackArchive,
+} = require('..')
+const { buildBooks, distributionSourcePath } = require('../source')
+
+let sessionId
+
+const downloadDocument = slug => {
+  const archive = downloadFile(
+    `http://storyweaver.org.in/v0/stories/download-story/${slug}.pdf`,
+    cachePath(`${slug}.zip`),
+    ['-b', `_session_id=${signIn()}`],
+  )
+  const unpacked = unpackArchive(archive, archive.replace(/\.\w+$/, ''))
+  const document = moveFile(
+    readDirectory(unpacked).find(file => file.endsWith('.pdf')),
+    distributionSourcePath(`${slug}.pdf`),
+  )
+  fs.unlinkSync(archive)
+  removeDirectory(unpacked)
+  return document
+}
+
+const fetchBooks = publisher =>
+  fetchEntries(publisher).map(entry => {
+    const image = entry.coverImage.sizes[entry.coverImage.sizes.length - 1]
+    const size = Math.min(image.width, image.height)
+    return {
+      cover: image.url,
+      coverOptions: [
+        '-crop',
+        `${size}x${size}+${image.width *
+          (entry.coverImage.cropCoords.x || 0)}+${image.height *
+          (entry.coverImage.cropCoords.y || 0)}`,
+      ],
+      slug: entry.slug,
+      title: entry.title,
+    }
+  })
+
+const fetchEntries = publisher => {
+  let page = 1
+  const entries = []
+  do {
+    var data = JSON.parse(
+      fetchURL(
+        `https://storyweaver.org.in/api/v1/books-search?languages[]=English&levels[]=1&levels[]=2&levels[]=3&page=${page++}&per_page=1000&publishers[]=${encodeURIComponent(
+          publisher,
+        )}&sort=New%20Arrivals`,
+        ['-g'],
+      ),
+    )
+    entries.push(...data.data)
+  } while (entries.length < data.metadata.books_count)
+  return entries
+}
+
+const generateBook = (publisher, book) => ({
+  document: downloadDocument(book.slug),
+})
+
+const main = (publisher, exclusions = undefined) =>
+  buildBooks(
+    fetchBooks(publisher),
+    generateBook.bind(null, publisher),
+    undefined,
+    exclusions,
+  )
+
+const signIn = () =>
+  sessionId ||
+  (sessionId = fetchURL('https://storyweaver.org.in/api/v1/users/sign_in', [
+    '-i',
+    `-dapi_v1_user[email]=${assert(
+      process.env.STORYWEAVER_EMAIL,
+      'No $STORYWEAVER_EMAIL',
+    )}`,
+    `-dapi_v1_user[password]=${assert(
+      process.env.STORYWEAVER_PASSWORD,
+      'No $STORYWEAVER_PASSWORD',
+    )}`,
+    `-dapi_v1_user[remember_me]=false`,
+  ]).match(/(?<= _session_id=)[^;]+/)[0])
+
+module.exports = { main }
+
+require.main === module && main('Storyweaver')
