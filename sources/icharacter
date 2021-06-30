@@ -4,6 +4,7 @@ const { buildBooks } = require('../source')
 const { fetchURL } = require('..')
 
 const exclusions = [
+  'God&#39;s Love Through Flowers', // religious
   'Object_Lessons_with_Be-Me_God_and_my_Car', // religious
   'Object_Lessons_with_Be-Me_God_and_my_Chair', // religious
   'Object_Lessons_with_Be-Me_God_and_my_Pencil', // religious

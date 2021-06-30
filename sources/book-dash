@@ -23,8 +23,13 @@ const emptyFolders = []
 const exclusions = [
   'hello-baby_awerbuck-meyer-jaggers', // another language
   'the-baby-book_awerbuck_latimer_jaggers', // explicit
+  'the-boy-who-only-ate-pancakes_kriel-marais-dembaremba', // download failure
+  'theres-a-fire-on-the-mountain_reignier-smith-belton_paxton', // download failure
+  'tlotlegos-tea-party_atkinson-louw-de-lange', // download failure
   'together-were-strong_jobson-toich-jacobs', // few illustrations
   'umbovane-owonqenayo_solombela-dyani-xulu', // another language
+  'whose-shoe-is-this_ngqayimbana-van-zyl_makhanya', // download failure
+  'yes-you-can_demertzis-bosa_sepuru', // download failure
 ]
 
 const extraBooks = []

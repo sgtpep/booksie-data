@@ -1,12 +1,5 @@
 #!/bin/sh
-set -eu
-if [ -d dist/.git ]; then
-  find dist -type f -exec chmod 644 {} +
-  git -C dist pull
-else
-  [ ! -d dist ] || rm -fr dist
-  git clone -b gh-pages https://${GITHUB_TOKEN+"$GITHUB_TOKEN"@}github.com/sgtpep/booksie-data.git dist
-fi
+set -eux
 for path in sources/*; do
   for _ in {1..3}; do
     ! "$path" || break
